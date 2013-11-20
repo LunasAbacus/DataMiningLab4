@@ -18,7 +18,7 @@ def main():
 	articleMap = {} # Map of Article -> Map of Keyword and Number
 	answerMap = {} # Map of Articles -> Topic
 	titleSet = []
-	wordSet = []
+	wordSet = {}
 	topicSet = []
 	blacklist = []
 
@@ -52,7 +52,7 @@ def main():
 				#print(topicsTemp + str(len(numTopics)))
 
 				if (len(numTopics) > 0):
-					print(numTopics)
+					#print(numTopics)
 
 					title = sgm.ExtractTagData(j,"TITLE")
 					title = re.sub("\s", " ", title)
@@ -67,16 +67,22 @@ def main():
 					body = body.lower()
 					for token in body.split():
 						AddToDict(article, token, blacklist)
-						if (token not in wordSet):
-							wordSet.append(token)
+						if (len(token) > 2) and (token not in blacklist):
+							if (token in wordSet):
+								wordSet[token] += 1
+							else:
+								wordSet[token] = 1
 
 					title2 = re.sub("[\d]"," ", title)
 					title2 = re.sub("[^\w]"," ", title2)
 					title2 = title2.lower()
 					for token in title2.split():
 						AddToDict(article, token, blacklist)
-						if (token not in wordSet):
-							wordSet.append(token)
+						if (len(token) > 2) and (token not in blacklist):
+							if (token in wordSet):
+								wordSet[token] += 1
+							else:
+								wordSet[token] = 1
 
 
 
@@ -104,6 +110,10 @@ def main():
 		print ('Finished Parsing Files')
 		print ('Generating .names and .data files')
 
+		#only take first 1000 terms
+		topWords = sorted(wordSet.iteritems(), key=operator.itemgetter(1))
+		topWords = topWords[-2000:]
+
 		#generate .names and .data files
 		with open("reuters.names", 'w') as wr:
 			first = True
@@ -115,20 +125,20 @@ def main():
 					first = False
 			wr.write(" |classes\n")
 
-			for word in wordSet:
-				wr.write(word + ": y,n.\n")
+			for word in topWords:
+				wr.write(word[0] + ": y,n.\n")
 
 		with open('reuters.data','w') as wr:
 			#iterate through each article title
 			#for each word in wordset, write number times appears
 			# then write the class it is defined as
 
-			print (answerMap)
+			#print (answerMap)
 
 			for title in titleSet:
-				print ("articleNumber: " + str(title))
-				for word in wordSet:
-					if (word in articleMap[title]):
+				#print ("articleNumber: " + str(title))
+				for word in topWords:
+					if (word[0] in articleMap[title]):
 						wr.write("y,")
 					else:
 						wr.write("n,")
