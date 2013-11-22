@@ -128,21 +128,35 @@ def main():
 			for word in topWords:
 				wr.write(word[0] + ": y,n.\n")
 
-		with open('reuters.data','w') as wr:
+		with open('reuters.data','w') as wr, open('reuters.clusters','w') as br:
 			#iterate through each article title
 			#for each word in wordset, write number times appears
 			# then write the class it is defined as
 
 			#print (answerMap)
 
+
+
 			for title in titleSet:
+				wordNum = 0
+				wordClusterMap = {1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0}
+
 				#print ("articleNumber: " + str(title))
 				for word in topWords:
+					wordNum += 1
+					clusterNum = wordNum % 8 + 1;
 					if (word[0] in articleMap[title]):
 						wr.write("y,")
+						wordClusterMap[clusterNum] += 1;
 					else:
 						wr.write("n,")
 				wr.write(answerMap[title]+".\n")
+
+				topCluster = 1
+				for i in range(1,9):
+					if (wordClusterMap[i] >= wordClusterMap[topCluster]):
+						topCluster = i;
+				br.write(str(topCluster)+"\n")
 
 if __name__ == '__main__':
     main()
