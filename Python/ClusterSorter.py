@@ -49,42 +49,42 @@ def main():
             print clusters[i]
 
     # write out the files
-    f = open("Cluster1.dat", "w")
+    f = open("Cluster1.data", "w")
     for i in range(0, len(D1)):
         f.write('%s\n' % D1[i])
     f.close()
 
-    f = open("Cluster2.dat", "w")
+    f = open("Cluster2.data", "w")
     for i in range(0, len(D2)):
         f.write('%s\n' % D2[i])
     f.close()
 
-    f = open("Cluster3.dat", "w")
+    f = open("Cluster3.data", "w")
     for i in range(0, len(D3)):
         f.write('%s\n' % D3[i])
     f.close()
 
-    f = open("Cluster4.dat", "w")
+    f = open("Cluster4.data", "w")
     for i in range(0, len(D4)):
         f.write('%s\n' % D4[i])
     f.close()
 
-    f = open("Cluster5.dat", "w")
+    f = open("Cluster5.data", "w")
     for i in range(0, len(D5)):
         f.write('%s\n' % D5[i])
     f.close()
 
-    f = open("Cluster6.dat", "w")
+    f = open("Cluster6.data", "w")
     for i in range(0, len(D6)):
         f.write('%s\n' % D6[i])
     f.close()
         
-    f = open("Cluster7.dat", "w")
+    f = open("Cluster7.data", "w")
     for i in range(0, len(D7)):
         f.write('%s\n' % D7[i])
     f.close()
 
-    f = open("Cluster8.dat", "w")
+    f = open("Cluster8.data", "w")
     for i in range(0, len(D8)):
         f.write('%s\n' % D8[i])
     f.close()
