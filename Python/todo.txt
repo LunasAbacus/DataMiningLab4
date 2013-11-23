@@ -1,0 +1,9 @@
+1. given a file of articles in the line number with an associated 1-8 cluster
+2. grab that reuter article and put it in a txt file 1.txt - 8.txt etc..
+3. put 
+
+
+n,n,n,n,n,n,y to seperate txt file - reuters.data
+according to another txt file line number and the associated cluster - reuters.clusters
+
+
