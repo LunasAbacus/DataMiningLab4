@@ -1,0 +1,10622 @@
+;>>Testing Start from Training Case :2395   End at Case :7979
+;>> Num of Test Case : 5585; Correct Prediction : 3693; Error Rate : 33.876%
+
+;>>The Rules are generated at : MinSup:1.000%, MinConf:100.000% RuleLimit : 500 LevelLimit : 6 
+
+==NumTrainingCase== 7979
+
+Rule 1:
+	 revs = y
+	 ->	 class = earn
+	 (12.144% 100.000% 969 969 12.144%)
+
+;	(Cover%  Conf%  CoverCount SupCount Sup%)
+
+Rule 2:
+	 qtly = y
+	 ->	 class = earn
+	 (4.925% 100.000% 393 393 4.925%)
+
+;	(Cover%  Conf%  CoverCount SupCount Sup%)
+
+Rule 3:
+	 mths = y
+	 ->	 class = earn
+	 (4.036% 100.000% 322 322 4.036%)
+
+Rule 4:
+	 oper = y
+	 ->	 class = earn
+	 (3.271% 100.000% 261 261 3.271%)
+
+Rule 5:
+	 div = y
+	 ->	 class = earn
+	 (6.392% 99.804% 510 509 6.379%)
+
+Rule 6:
+	 avg = y
+	 ->	 class = earn
+	 (5.164% 99.757% 412 411 5.151%)
+
+Rule 7:
+	 payout = y
+	 ->	 class = earn
+	 (2.732% 99.541% 218 217 2.720%)
+
+Rule 8:
+	 shr = y
+	 ->	 class = earn
+	 (19.100% 99.278% 1524 1513 18.962%)
+
+Rule 9:
+	 qtr = y
+	 ->	 class = earn
+	 (15.892% 98.502% 1268 1249 15.654%)
+
+Rule 10:
+	 dividend = y
+	 ->	 class = earn
+	 (6.918% 95.290% 552 526 6.592%)
+
+Rule 11:
+	 cts = y
+	 ->	 class = earn
+	 (27.134% 94.688% 2165 2050 25.692%)
+
+Rule 12:
+	 discontinued = y
+	 ->	 class = earn
+	 (2.206% 94.318% 176 166 2.080%)
+
+Rule 13:
+	 completes = y
+	 ->	 class = acq
+	 (1.391% 92.793% 111 103 1.291%)
+
+Rule 14:
+	 undisclosed = y
+	 ->	 class = acq
+	 (1.805% 92.361% 144 133 1.667%)
+
+Rule 15:
+	 acquire = y
+	 ->	 class = acq
+	 (4.111% 92.073% 328 302 3.785%)
+
+Rule 16:
+	 definitive = y
+	 ->	 class = acq
+	 (1.078% 91.860% 86 79 0.990%)
+
+Rule 17:
+	 extraordinary = y
+	 ->	 class = earn
+	 (2.745% 91.781% 219 201 2.519%)
+
+Rule 18:
+	 payable = y
+	 ->	 class = earn
+	 (3.309% 91.667% 264 242 3.033%)
+
+Rule 19:
+	 buyout = y
+	 ->	 class = acq
+	 (1.003% 91.250% 80 73 0.915%)
+
+Rule 20:
+	 profit = y
+	 ->	 class = earn
+	 (10.590% 90.414% 845 764 9.575%)
+
+Rule 21:
+	 intent = y
+	 ->	 class = acq
+	 (1.140% 90.110% 91 82 1.028%)
+
+Rule 22:
+	 merger = y
+	 ->	 class = acq
+	 (3.547% 89.753% 283 254 3.183%)
+
+Rule 23:
+	 dividends = y
+	 ->	 class = earn
+	 (1.191% 89.474% 95 85 1.065%)
+
+Rule 24:
+	 split = y
+	 ->	 class = earn
+	 (3.121% 88.755% 249 221 2.770%)
+
+Rule 25:
+	 filing = y
+	 ->	 class = acq
+	 (1.504% 86.667% 120 104 1.303%)
+
+Rule 26:
+	 transaction = y
+	 ->	 class = acq
+	 (2.544% 85.222% 203 173 2.168%)
+
+Rule 27:
+	 acquisition = y
+	 ->	 class = acq
+	 (5.828% 84.516% 465 393 4.925%)
+
+Rule 28:
+	 opec = y
+	 ->	 class = crude
+	 (1.216% 84.536% 97 82 1.028%)
+
+Rule 29:
+	 stake = y
+	 ->	 class = acq
+	 (4.813% 83.333% 384 320 4.011%)
+
+Rule 30:
+	 investor = y
+	 ->	 class = acq
+	 (1.767% 82.979% 141 117 1.466%)
+
+Rule 31:
+	 takeover = y
+	 ->	 class = acq
+	 (2.193% 82.857% 175 145 1.817%)
+
+Rule 32:
+	 disclosed = y
+	 ->	 class = acq
+	 (1.867% 82.550% 149 123 1.542%)
+
+Rule 33:
+	 bpd = y
+	 ->	 class = crude
+	 (1.128% 82.222% 90 74 0.927%)
+
+Rule 34:
+	 pretax = y
+	 ->	 class = earn
+	 (1.679% 82.090% 134 110 1.379%)
+
+Rule 35:
+	 sells = y
+	 ->	 class = acq
+	 (1.504% 79.167% 120 95 1.191%)
+
+Rule 36:
+	 acquired = y
+	 ->	 class = acq
+	 (3.522% 78.648% 281 221 2.770%)
+
+Rule 37:
+	 owns = y
+	 ->	 class = acq
+	 (1.429% 76.316% 114 87 1.090%)
+
+Rule 38:
+	 earnings = y
+	 ->	 class = earn
+	 (5.828% 75.914% 465 353 4.424%)
+
+Rule 39:
+	 coffee = y
+	 ->	 class = coffee
+	 (1.642% 74.809% 131 98 1.228%)
+
+Rule 40:
+	 wholly = y
+	 ->	 class = acq
+	 (1.140% 73.626% 91 67 0.840%)
+
+Rule 41:
+	 shareholder = y
+	 ->	 class = acq
+	 (1.905% 71.711% 152 109 1.366%)
+
+Rule 42:
+	 directors = y
+	 ->	 class = acq
+	 (1.830% 71.233% 146 104 1.303%)
+
+Rule 43:
+	 principle = y
+	 ->	 class = acq
+	 (1.328% 70.755% 106 75 0.940%)
+
+Rule 44:
+	 bid = y
+	 ->	 class = acq
+	 (3.434% 70.073% 274 192 2.406%)
+
+Rule 45:
+	 tariffs = y
+	 ->	 class = trade
+	 (1.604% 69.531% 128 89 1.115%)
+
+Rule 46:
+	 sugar = y
+	 ->	 class = sugar
+	 (1.993% 69.182% 159 110 1.379%)
+
+Rule 47:
+	 purchase = y
+	 ->	 class = acq
+	 (4.199% 68.060% 335 228 2.858%)
+
+Rule 48:
+	 barrels = y
+	 ->	 class = crude
+	 (2.068% 67.273% 165 111 1.391%)
+
+Rule 49:
+	 shares = y
+	 ->	 class = acq
+	 (11.367% 66.924% 907 607 7.607%)
+
+Rule 50:
+	 filed = y
+	 ->	 class = acq
+	 (1.153% 66.304% 92 61 0.765%)
+
+Rule 51:
+	 barrel = y
+	 ->	 class = crude
+	 (1.667% 63.158% 133 84 1.053%)
+
+Rule 52:
+	 holders = y
+	 ->	 class = earn
+	 (2.131% 60.588% 170 103 1.291%)
+
+Rule 53:
+	 crude = y
+	 ->	 class = crude
+	 (3.083% 60.163% 246 148 1.855%)
+
+Rule 54:
+	 sell = y
+	 ->	 class = acq
+	 (5.201% 60.000% 415 249 3.121%)
+
+Rule 55:
+	 shipping = y
+	 ->	 class = ship
+	 (1.441% 53.913% 115 62 0.777%)
+
+Rule 56:
+	 port = y
+	 ->	 class = ship
+	 (1.166% 53.763% 93 50 0.627%)
+
+Rule 57:
+	 currencies = y
+	 ->	 class = fx
+	 (1.780% 48.592% 142 69 0.865%)
+
+Rule 58:
+	 lending = y
+	 ->	 class = interest
+	 (1.504% 46.667% 120 56 0.702%)
+
+Rule 59:
+	 legislation = y
+	 ->	 class = trade
+	 (1.078% 45.349% 86 39 0.489%)
+
+Rule 60:
+	 wheat = y
+	 ->	 class = wheat
+	 (3.183% 45.276% 254 115 1.441%)
+
+Rule 61:
+	 bills = y
+	 ->	 class = interest
+	 (1.441% 45.217% 115 52 0.652%)
+
+Rule 62:
+	 corn = y
+	 ->	 class = corn
+	 (2.131% 44.118% 170 75 0.940%)
+
+Rule 63:
+	 assistance = y
+	 ->	 class = interest
+	 (1.291% 43.689% 103 45 0.564%)
+
+Rule 64:
+	 customer = y
+	 ->	 class = interest
+	 (1.090% 43.678% 87 38 0.476%)
+
+Rule 65:
+	 discount = y
+	 ->	 class = interest
+	 (1.504% 42.500% 120 51 0.639%)
+
+Rule 66:
+	 england = y
+	 ->	 class = interest
+	 (2.143% 41.520% 171 71 0.890%)
+
+Rule 67:
+	 petroleum = y
+	 ->	 class = crude
+	 (3.359% 39.552% 268 106 1.328%)
+
+Rule 68:
+	 prime = y
+	 ->	 class = interest
+	 (2.218% 38.983% 177 69 0.865%)
+
+Rule 69:
+	 monetary = y
+	 ->	 class = fx
+	 (2.193% 36.000% 175 63 0.790%)
+
+Rule 70:
+	 treasury = y
+	 ->	 class = fx
+	 (3.045% 33.745% 243 82 1.028%)
+
+Rule 71:
+	 trade = y
+	 ->	 class = trade
+	 (10.866% 32.180% 867 279 3.497%)
+
+Rule 72:
+	 rate = y
+	 ->	 class = interest
+	 (8.385% 30.643% 669 205 2.569%)
+
+Rule 73:
+	 rates = y
+	 ->	 class = interest
+	 (5.138% 30.244% 410 124 1.554%)
+
+
+DefaultClass : 	 class = acq
+;==================== Class and Attributes ==============
+
+<<Class>>
+ class : 
+	;;0.006, 50
+	 = cocoa
+	;;0.009, 75
+	 = grain
+	;;0.015, 117
+	 = wheat
+	;;0.013, 102
+	 = corn
+	;;0.003, 23
+	 = barley
+	;;0.001, 4
+	 = oat
+	;;0.001, 9
+	 = sorghum
+	;;0.000, 0
+	 = veg
+	;;0.009, 71
+	 = oil
+	;;0.000, 0
+	 = linseed
+	;;0.000, 0
+	 = lin
+	;;0.000, 0
+	 = soy
+	;;0.000, 0
+	 = sun
+	;;0.006, 48
+	 = soybean
+	;;0.004, 33
+	 = oilseed
+	;;0.000, 2
+	 = sunseed
+	;;0.363, 2893
+	 = earn
+	;;0.207, 1653
+	 = acq
+	;;0.006, 45
+	 = copper
+	;;0.002, 14
+	 = housing
+	;;0.000, 0
+	 = money
+	;;0.017, 133
+	 = supply
+	;;0.012, 98
+	 = coffee
+	;;0.021, 171
+	 = ship
+	;;0.014, 114
+	 = sugar
+	;;0.037, 298
+	 = trade
+	;;0.006, 50
+	 = reserves
+	;;0.001, 6
+	 = meal
+	;;0.002, 13
+	 = feed
+	;;0.000, 0
+	 = rye
+	;;0.003, 23
+	 = cotton
+	;;0.004, 29
+	 = carcass
+	;;0.005, 42
+	 = livestock
+	;;0.039, 308
+	 = crude
+	;;0.000, 0
+	 = nat
+	;;0.012, 94
+	 = gas
+	;;0.007, 59
+	 = cpi
+	;;0.009, 72
+	 = gnp
+	;;0.034, 270
+	 = fx
+	;;0.040, 318
+	 = interest
+	;;0.006, 50
+	 = bop
+	;;0.003, 27
+	 = rice
+	;;0.000, 0
+	 = red
+	;;0.000, 0
+	 = bean
+	;;0.004, 35
+	 = rubber
+	;;0.000, 0
+	 = copra
+	;;0.000, 1
+	 = cake
+	;;0.000, 0
+	 = palm
+	;;0.000, 0
+	 = palmkernel
+	;;0.000, 2
+	 = tea
+	;;0.000, 1
+	 = plywood
+	;;0.004, 34
+	 = alum
+	;;0.009, 75
+	 = gold
+	;;0.000, 2
+	 = platinum
+	;;0.000, 0
+	 = strategic
+	;;0.002, 18
+	 = metal
+	;;0.000, 1
+	 = tapioca
+	;;0.003, 20
+	 = tin
+	;;0.001, 11
+	 = rapeseed
+	;;0.000, 3
+	 = groundnut
+	;;0.000, 0
+	 = rape
+	;;0.000, 0
+	 = cornglutenfeed
+	;;0.000, 0
+	 = citruspulp
+	;;0.000, 1
+	 = wool
+	;;0.010, 79
+	 = dlr
+	;;0.000, 0
+	 = l
+	;;0.000, 2
+	 = cattle
+	;;0.003, 22
+	 = retail
+	;;0.005, 36
+	 = ipi
+	;;0.002, 14
+	 = silver
+	;;0.000, 0
+	 = iron
+	;;0.004, 33
+	 = steel
+	;;0.001, 4
+	 = hog
+	;;0.000, 2
+	 = propane
+	;;0.002, 12
+	 = heat
+	;;0.006, 44
+	 = jobs
+	;;0.002, 12
+	 = lei
+	;;0.005, 37
+	 = yen
+	;;0.000, 2
+	 = saudriyal
+	;;0.002, 12
+	 = zinc
+	;;0.002, 16
+	 = orange
+	;;0.000, 0
+	 = pet
+	;;0.002, 16
+	 = chem
+	;;0.001, 11
+	 = fuel
+	;;0.002, 18
+	 = wpi
+	;;0.000, 2
+	 = potato
+	;;0.001, 10
+	 = lead
+	;;0.000, 2
+	 = can
+	;;0.000, 1
+	 = fishmeal
+	;;0.001, 7
+	 = income
+	;;0.000, 0
+	 = palladium
+	;;0.001, 6
+	 = nickel
+	;;0.001, 9
+	 = lumber
+	;;0.001, 4
+	 = jet
+	;;0.000, 0
+	 = instal
+	;;0.001, 6
+	 = debt
+	;;0.000, 2
+	 = dfl
+	;;0.001, 8
+	 = dmk
+	;;0.001, 11
+	 = stg
+	;;0.000, 3
+	 = coconut
+	;;0.001, 4
+	 = inventories
+	;;0.000, 3
+	 = cpu
+	;;0.000, 1
+	 = peseta
+	;;0.000, 2
+	 = austdlr
+	;;0.000, 0
+	 = naphtha
+	;;0.000, 1
+	 = nzdlr
+	;;0.000, 2
+	 = rand
+	;;0.000, 0
+	 = pork
+	;;0.000, 3
+	 = belly
+	;;0.000, 1
+	 = ringgit
+	;;0.000, 0
+	 = castorseed
+	;;0.000, 0
+	 = castor
+	;;0.000, 1
+	 = lit
+	;;0.000, 0
+	 = rupiah
+	;;0.000, 0
+	 = skr
+	;;0.000, 0
+	 = nkr
+	;;0.000, 0
+	 = dkr
+	;;0.000, 0
+	 = cruzado |classeshongkong: y
+	;;0.000, 0
+	 = n
+
+<<Attributes>>
+(1)  hongkong{Discrete}:
+	;;0.002, 16
+	 = y
+	;;0.998, 7963
+	 = n
+(2)  defend{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(3)  created{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(4)  cars{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(5)  peter{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(6)  dot{Discrete}:
+	;;0.001, 11
+	 = y
+	;;0.999, 7968
+	 = n
+(7)  consortium{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(8)  wireless{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(9)  programme{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(10)  kingdom{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(11)  centers{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(12)  nigeria{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(13)  favour{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(14)  textile{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(15)  bit{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(16)  siemens{Discrete}:
+	;;0.002, 12
+	 = y
+	;;0.998, 7967
+	 = n
+(17)  affiliates{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(18)  chain{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(19)  comprising{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(20)  rainfall{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(21)  trans{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(22)  rotterdam{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(23)  cargill{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(24)  backed{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(25)  guilder{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(26)  aegean{Discrete}:
+	;;0.001, 11
+	 = y
+	;;0.999, 7968
+	 = n
+(27)  weight{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(28)  listed{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(29)  disaster{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(30)  delhi{Discrete}:
+	;;0.001, 8
+	 = y
+	;;0.999, 7971
+	 = n
+(31)  greek{Discrete}:
+	;;0.001, 9
+	 = y
+	;;0.999, 7970
+	 = n
+(32)  cos{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(33)  objective{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(34)  oilseeds{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(35)  spent{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(36)  cooper{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(37)  owners{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(38)  textiles{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(39)  adequate{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(40)  float{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(41)  bankamerica{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(42)  sri{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(43)  imbalance{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(44)  economics{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(45)  amounted{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(46)  hotels{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(47)  merchandise{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(48)  repeated{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(49)  origin{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(50)  broadly{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(51)  meal{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(52)  earthquake{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(53)  manufacturer{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(54)  merchant{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(55)  shamrock{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(56)  rio{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(57)  midland{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(58)  terminated{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(59)  pace{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(60)  informal{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(61)  basin{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(62)  depending{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(63)  expense{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(64)  alleged{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(65)  fear{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(66)  expanding{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(67)  container{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(68)  goal{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(69)  halt{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(70)  tonnage{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(71)  conservative{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(72)  moved{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(73)  pushed{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(74)  thirds{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(75)  complex{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(76)  core{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(77)  strengthen{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(78)  refineries{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(79)  rapid{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(80)  smc{Discrete}:
+	;;0.001, 4
+	 = y
+	;;0.999, 7975
+	 = n
+(81)  meant{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(82)  involving{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(83)  peak{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(84)  ontario{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(85)  conrac{Discrete}:
+	;;0.001, 10
+	 = y
+	;;0.999, 7969
+	 = n
+(86)  honeywell{Discrete}:
+	;;0.001, 4
+	 = y
+	;;0.999, 7975
+	 = n
+(87)  executives{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(88)  forces{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(89)  club{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(90)  dealing{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(91)  turning{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(92)  uruguay{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(93)  mart{Discrete}:
+	;;0.002, 13
+	 = y
+	;;0.998, 7966
+	 = n
+(94)  covered{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(95)  destinations{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(96)  lme{Discrete}:
+	;;0.001, 8
+	 = y
+	;;0.999, 7971
+	 = n
+(97)  deficiency{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(98)  dauster{Discrete}:
+	;;0.002, 15
+	 = y
+	;;0.998, 7964
+	 = n
+(99)  showing{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(100)  entertainment{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(101)  expensive{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(102)  faster{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(103)  propose{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(104)  requires{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(105)  jersey{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(106)  warrant{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(107)  poehl{Discrete}:
+	;;0.001, 10
+	 = y
+	;;0.999, 7969
+	 = n
+(108)  est{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(109)  join{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(110)  rapeseed{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(111)  orange{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(112)  returned{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(113)  sumitomo{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(114)  alcan{Discrete}:
+	;;0.001, 8
+	 = y
+	;;0.999, 7971
+	 = n
+(115)  calculated{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(116)  salomon{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(117)  pioneer{Discrete}:
+	;;0.002, 14
+	 = y
+	;;0.998, 7965
+	 = n
+(118)  wagner{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(119)  match{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(120)  smelter{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(121)  saudis{Discrete}:
+	;;0.001, 10
+	 = y
+	;;0.999, 7969
+	 = n
+(122)  achieved{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(123)  renault{Discrete}:
+	;;0.001, 11
+	 = y
+	;;0.999, 7968
+	 = n
+(124)  van{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(125)  spread{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(126)  bally{Discrete}:
+	;;0.001, 5
+	 = y
+	;;0.999, 7974
+	 = n
+(127)  deficits{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(128)  requested{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(129)  utility{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(130)  ban{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(131)  bolivia{Discrete}:
+	;;0.001, 7
+	 = y
+	;;0.999, 7972
+	 = n
+(132)  mill{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(133)  wait{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(134)  retaliate{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(135)  book{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(136)  charged{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(137)  interstate{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(138)  annually{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(139)  manhattan{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(140)  represented{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(141)  intermediate{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(142)  refiners{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(143)  appreciation{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(144)  gained{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(145)  funding{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(146)  begun{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(147)  pesch{Discrete}:
+	;;0.001, 5
+	 = y
+	;;0.999, 7974
+	 = n
+(148)  texaco{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(149)  improving{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(150)  counter{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(151)  hostile{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(152)  expires{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(153)  advance{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(154)  obtain{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(155)  eventually{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(156)  industrialised{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(157)  nearby{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(158)  utilities{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(159)  body{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(160)  bear{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(161)  cereals{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(162)  levy{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(163)  george{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(164)  woolworth{Discrete}:
+	;;0.002, 13
+	 = y
+	;;0.998, 7966
+	 = n
+(165)  apply{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(166)  hand{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(167)  fears{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(168)  operated{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(169)  tenders{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(170)  ensure{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(171)  fluctuations{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(172)  grounds{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(173)  sulphur{Discrete}:
+	;;0.001, 11
+	 = y
+	;;0.999, 7968
+	 = n
+(174)  bhp{Discrete}:
+	;;0.001, 7
+	 = y
+	;;0.999, 7972
+	 = n
+(175)  demands{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(176)  exchanges{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(177)  evidence{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(178)  pounds{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(179)  exporter{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(180)  rainbow{Discrete}:
+	;;0.001, 9
+	 = y
+	;;0.999, 7970
+	 = n
+(181)  drain{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(182)  afg{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(183)  sept{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(184)  advantage{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(185)  loading{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(186)  usx{Discrete}:
+	;;0.002, 15
+	 = y
+	;;0.998, 7964
+	 = n
+(187)  elaborate{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(188)  replace{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(189)  damaged{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(190)  software{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(191)  retain{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(192)  sachs{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(193)  vessel{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(194)  feel{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(195)  attractive{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(196)  williams{Discrete}:
+	;;0.002, 14
+	 = y
+	;;0.998, 7965
+	 = n
+(197)  feedgrains{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(198)  martin{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(199)  diamond{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(200)  tough{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(201)  reaction{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(202)  fundamentals{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(203)  newmont{Discrete}:
+	;;0.002, 14
+	 = y
+	;;0.998, 7965
+	 = n
+(204)  widely{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(205)  books{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(206)  tonight{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(207)  stressed{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(208)  ventures{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(209)  restaurants{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(210)  concerns{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(211)  recommendation{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(212)  managing{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(213)  introduction{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(214)  kind{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(215)  api{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(216)  million{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(217)  affecting{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(218)  indicator{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(219)  studying{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(220)  switzerland{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(221)  black{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(222)  tea{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(223)  boosted{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(224)  aim{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(225)  card{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(226)  center{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(227)  zambia{Discrete}:
+	;;0.001, 10
+	 = y
+	;;0.999, 7969
+	 = n
+(228)  remove{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(229)  gaf{Discrete}:
+	;;0.001, 7
+	 = y
+	;;0.999, 7972
+	 = n
+(230)  radio{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(231)  fujitsu{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(232)  shut{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(233)  registrations{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(234)  aluminum{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(235)  kilo{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(236)  valley{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(237)  initially{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(238)  extent{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(239)  preference{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(240)  justice{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(241)  stay{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(242)  earn{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(243)  uncertainty{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(244)  iowa{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(245)  applications{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(246)  primarily{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(247)  tariff{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(248)  province{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(249)  tool{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(250)  korean{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(251)  louisiana{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(252)  amendment{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(253)  jardine{Discrete}:
+	;;0.001, 10
+	 = y
+	;;0.999, 7969
+	 = n
+(254)  kilos{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(255)  dow{Discrete}:
+	;;0.001, 11
+	 = y
+	;;0.999, 7968
+	 = n
+(256)  jointly{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(257)  social{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(258)  retained{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(259)  aerospace{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(260)  michigan{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(261)  lack{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(262)  opportunities{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(263)  incentives{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(264)  nuclear{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(265)  increasingly{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(266)  unadjusted{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(267)  commenting{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(268)  encouraging{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(269)  focus{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(270)  tankers{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(271)  reynolds{Discrete}:
+	;;0.003, 21
+	 = y
+	;;0.997, 7958
+	 = n
+(272)  norway{Discrete}:
+	;;0.003, 21
+	 = y
+	;;0.997, 7958
+	 = n
+(273)  reference{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(274)  disposal{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(275)  recommended{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(276)  severe{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(277)  foster{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(278)  strikes{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(279)  lease{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(280)  exercise{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(281)  plantings{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(282)  noranda{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(283)  votes{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(284)  recover{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(285)  businessmen{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(286)  obligations{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(287)  faced{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(288)  intention{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(289)  expanded{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(290)  heating{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(291)  ibc{Discrete}:
+	;;0.002, 16
+	 = y
+	;;0.998, 7963
+	 = n
+(292)  livestock{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(293)  calif{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(294)  subordinated{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(295)  protectionism{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(296)  idea{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(297)  internal{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(298)  delay{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(299)  applied{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(300)  southwest{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(301)  supported{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(302)  miguel{Discrete}:
+	;;0.002, 14
+	 = y
+	;;0.998, 7965
+	 = n
+(303)  regulations{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(304)  seasonal{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(305)  ringgit{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(306)  bushel{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(307)  chase{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(308)  defence{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(309)  circumstances{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(310)  workforce{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(311)  connection{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(312)  reasonable{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(313)  station{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(314)  combination{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(315)  approvals{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(316)  merged{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(317)  decisions{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(318)  carried{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(319)  ups{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(320)  lift{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(321)  downward{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(322)  auto{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(323)  providing{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(324)  protest{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(325)  debts{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(326)  argentina{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(327)  comdata{Discrete}:
+	;;0.001, 7
+	 = y
+	;;0.999, 7972
+	 = n
+(328)  lloyds{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(329)  enable{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(330)  bidding{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(331)  awarded{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(332)  asian{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(333)  representing{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(334)  adjustments{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(335)  proceed{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(336)  hotel{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(337)  mutual{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(338)  brings{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(339)  telecom{Discrete}:
+	;;0.003, 21
+	 = y
+	;;0.997, 7958
+	 = n
+(340)  voted{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(341)  initiative{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(342)  bay{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(343)  aviation{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(344)  portfolio{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(345)  eased{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(346)  guarantee{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(347)  deals{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(348)  waiting{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(349)  traffic{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(350)  resume{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(351)  interim{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(352)  traditional{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(353)  drug{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(354)  chancellor{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(355)  shows{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(356)  establish{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(357)  protect{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(358)  opportunity{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(359)  reverse{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(360)  hearing{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(361)  totalling{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(362)  technologies{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(363)  belgium{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(364)  iron{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(365)  kansas{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(366)  rebate{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(367)  rain{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(368)  passed{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(369)  double{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(370)  unions{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(371)  branch{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(372)  intend{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(373)  coins{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(374)  recession{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(375)  flat{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(376)  fallen{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(377)  algeria{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(378)  refused{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(379)  allowing{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(380)  established{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(381)  mobil{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(382)  reflects{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(383)  matter{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(384)  moment{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(385)  attributed{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(386)  covering{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(387)  extremely{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(388)  pricing{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(389)  noting{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(390)  opinion{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(391)  managers{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(392)  movement{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(393)  labor{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(394)  motor{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(395)  ten{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(396)  qtrly{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(397)  curb{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(398)  reductions{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(399)  disease{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(400)  difficulties{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(401)  shortly{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(402)  grades{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(403)  acquiring{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(404)  direction{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(405)  status{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(406)  list{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(407)  creditors{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(408)  reorganization{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(409)  stated{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(410)  angeles{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(411)  carry{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(412)  fast{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(413)  competitiveness{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(414)  pdvsa{Discrete}:
+	;;0.002, 12
+	 = y
+	;;0.998, 7967
+	 = n
+(415)  specialty{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(416)  shift{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(417)  icahn{Discrete}:
+	;;0.002, 13
+	 = y
+	;;0.998, 7966
+	 = n
+(418)  decrease{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(419)  citicorp{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(420)  rule{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(421)  cited{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(422)  weakness{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(423)  identified{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(424)  profitability{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(425)  coastal{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(426)  threat{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(427)  satisfactory{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(428)  dumping{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(429)  aide{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(430)  cane{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(431)  deliveries{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(432)  turn{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(433)  dairy{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(434)  military{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(435)  harris{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(436)  zone{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(437)  appeared{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(438)  rep{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(439)  panel{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(440)  beet{Discrete}:
+	;;0.002, 15
+	 = y
+	;;0.998, 7964
+	 = n
+(441)  ferruzzi{Discrete}:
+	;;0.001, 11
+	 = y
+	;;0.999, 7968
+	 = n
+(442)  fresh{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(443)  los{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(444)  petrobras{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(445)  banker{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(446)  committed{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(447)  structure{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(448)  florida{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(449)  adopted{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(450)  portion{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(451)  published{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(452)  hoped{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(453)  wide{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(454)  cabinet{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(455)  cooperate{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(456)  bbl{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(457)  modest{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(458)  differentials{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(459)  room{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(460)  herrington{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(461)  fob{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(462)  republic{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(463)  original{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(464)  pension{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(465)  circulation{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(466)  upward{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(467)  moderate{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(468)  enter{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(469)  talking{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(470)  renewed{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(471)  ruled{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(472)  ready{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(473)  semi{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(474)  congressional{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(475)  indian{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(476)  william{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(477)  contribution{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(478)  miles{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(479)  barriers{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(480)  advances{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(481)  components{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(482)  confidence{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(483)  achieve{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(484)  refined{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(485)  partner{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(486)  possibly{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(487)  narrow{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(488)  strongly{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(489)  extension{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(490)  shipped{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(491)  exchequer{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(492)  risen{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(493)  care{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(494)  gap{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(495)  latin{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(496)  ranges{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(497)  philippine{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(498)  resolve{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(499)  bankruptcy{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(500)  seeks{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(501)  netherlands{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(502)  emery{Discrete}:
+	;;0.001, 10
+	 = y
+	;;0.999, 7969
+	 = n
+(503)  bringing{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(504)  atlantic{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(505)  conservation{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(506)  develop{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(507)  stabilize{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(508)  makers{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(509)  sentiment{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(510)  stimulate{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(511)  inra{Discrete}:
+	;;0.002, 16
+	 = y
+	;;0.998, 7963
+	 = n
+(512)  threatened{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(513)  leave{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(514)  progressive{Discrete}:
+	;;0.002, 16
+	 = y
+	;;0.998, 7963
+	 = n
+(515)  highly{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(516)  denied{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(517)  lake{Discrete}:
+	;;0.004, 35
+	 = y
+	;;0.996, 7944
+	 = n
+(518)  hands{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(519)  imperial{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(520)  approach{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(521)  offices{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(522)  mineral{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(523)  scale{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(524)  pakistan{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(525)  separate{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(526)  success{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(527)  affairs{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(528)  turkish{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(529)  highest{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(530)  suggested{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(531)  commitments{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(532)  parties{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(533)  live{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(534)  signal{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(535)  impose{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(536)  cross{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(537)  formal{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(538)  scheme{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(539)  tire{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(540)  actual{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(541)  federation{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(542)  exporting{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(543)  contributed{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(544)  certificate{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(545)  write{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(546)  asia{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(547)  trader{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(548)  movements{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(549)  premium{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(550)  expire{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(551)  determine{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(552)  declining{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(553)  extend{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(554)  emergency{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(555)  nominal{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(556)  setting{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(557)  shortfall{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(558)  machinery{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(559)  closely{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(560)  appears{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(561)  cold{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(562)  size{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(563)  invest{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(564)  pressures{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(565)  missiles{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(566)  duties{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(567)  developed{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(568)  sides{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(569)  stronger{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(570)  starts{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(571)  running{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(572)  alternatives{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(573)  operates{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(574)  diplomats{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(575)  hurt{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(576)  commitment{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(577)  balances{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(578)  fats{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(579)  create{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(580)  egypt{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(581)  dart{Discrete}:
+	;;0.001, 11
+	 = y
+	;;0.999, 7968
+	 = n
+(582)  side{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(583)  stand{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(584)  spanish{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(585)  stabilise{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(586)  amstutz{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(587)  marine{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(588)  buyer{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(589)  spokeswoman{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(590)  thai{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(591)  regional{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(592)  fair{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(593)  bass{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(594)  quarters{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(595)  follow{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(596)  rumors{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(597)  talk{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(598)  speech{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(599)  italian{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(600)  declines{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(601)  enhancement{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(602)  compromise{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(603)  opposition{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(604)  effects{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(605)  opposed{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(606)  decide{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(607)  michael{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(608)  foods{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(609)  represents{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(610)  sorghum{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(611)  practices{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(612)  argentine{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(613)  technical{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(614)  principal{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(615)  launched{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(616)  surpluses{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(617)  minority{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(618)  viacom{Discrete}:
+	;;0.001, 10
+	 = y
+	;;0.999, 7969
+	 = n
+(619)  intervened{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(620)  brokers{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(621)  statements{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(622)  broadcasting{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(623)  lowest{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(624)  economies{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(625)  thought{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(626)  merrill{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(627)  wage{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(628)  bell{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(629)  houston{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(630)  terminal{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(631)  tendered{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(632)  participation{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(633)  limits{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(634)  sweden{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(635)  ability{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(636)  housing{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(637)  affiliate{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(638)  material{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(639)  acquires{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(640)  optimistic{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(641)  break{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(642)  active{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(643)  debate{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(644)  soviets{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(645)  protection{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(646)  positions{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(647)  lynch{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(648)  introduced{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(649)  licences{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(650)  determined{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(651)  depreciation{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(652)  depressed{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(653)  strategic{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(654)  philippines{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(655)  reflecting{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(656)  purposes{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(657)  unfair{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(658)  developments{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(659)  sought{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(660)  entire{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(661)  discussed{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(662)  anti{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(663)  store{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(664)  guarantees{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(665)  swedish{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(666)  anticipated{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(667)  intervene{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(668)  dry{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(669)  profitable{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(670)  forced{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(671)  fleet{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(672)  governments{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(673)  warned{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(674)  operators{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(675)  leader{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(676)  gmt{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(677)  motors{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(678)  brokerage{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(679)  cargoes{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(680)  wells{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(681)  mills{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(682)  fact{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(683)  duty{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(684)  chips{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(685)  imposed{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(686)  planting{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(687)  huge{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(688)  electronic{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(689)  approximately{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(690)  pork{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(691)  inventories{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(692)  stage{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(693)  accounted{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(694)  ratio{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(695)  island{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(696)  auction{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(697)  smith{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(698)  floor{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(699)  push{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(700)  approve{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(701)  bilateral{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(702)  airline{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(703)  aircraft{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(704)  soft{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(705)  condition{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(706)  pesos{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(707)  excluding{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(708)  ohio{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(709)  chip{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(710)  overnight{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(711)  imf{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(712)  fairchild{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(713)  defense{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(714)  sectors{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(715)  stockholders{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(716)  expenditure{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(717)  exported{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(718)  starting{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(719)  inventory{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(720)  institutions{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(721)  suspended{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(722)  actions{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(723)  clayton{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(724)  csr{Discrete}:
+	;;0.001, 7
+	 = y
+	;;0.999, 7972
+	 = n
+(725)  advanced{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(726)  alternative{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(727)  minerals{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(728)  larger{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(729)  governor{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(730)  designed{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(731)  paying{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(732)  fee{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(733)  sign{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(734)  margins{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(735)  reporting{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(736)  biggest{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(737)  ranging{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(738)  ownership{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(739)  cyacq{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(740)  semiconductors{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(741)  debentures{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(742)  amc{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(743)  programs{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(744)  supermarkets{Discrete}:
+	;;0.003, 23
+	 = y
+	;;0.997, 7956
+	 = n
+(745)  sheet{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(746)  storage{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(747)  priced{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(748)  underlying{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(749)  harper{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(750)  spring{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(751)  santos{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(752)  steps{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(753)  fire{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(754)  restrictions{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(755)  confirmed{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(756)  global{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(757)  miners{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(758)  greece{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(759)  liabilities{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(760)  jobs{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(761)  projects{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(762)  bad{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(763)  confident{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(764)  moving{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(765)  originally{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(766)  intended{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(767)  indonesian{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(768)  totaled{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(769)  bulk{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(770)  chemicals{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(771)  relief{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(772)  exceed{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(773)  transfer{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(774)  resulted{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(775)  expressed{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(776)  negotiating{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(777)  rains{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(778)  continues{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(779)  protectionist{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(780)  ports{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(781)  deputy{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(782)  weekend{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(783)  associates{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(784)  factor{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(785)  lowered{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(786)  lot{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(787)  privately{Discrete}:
+	;;0.009, 70
+	 = y
+	;;0.991, 7909
+	 = n
+(788)  plants{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(789)  wall{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(790)  lehman{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(791)  claims{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(792)  hopes{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(793)  raw{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(794)  test{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(795)  steady{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(796)  visit{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(797)  wholesale{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(798)  courier{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(799)  robert{Discrete}:
+	;;0.009, 70
+	 = y
+	;;0.991, 7909
+	 = n
+(800)  lbs{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(801)  morgan{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(802)  freight{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(803)  employers{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(804)  merge{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(805)  avoid{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(806)  build{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(807)  borrowings{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(808)  maker{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(809)  delayed{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(810)  broad{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(811)  personal{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(812)  values{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(813)  iranian{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(814)  county{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(815)  require{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(816)  parliament{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(817)  urged{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(818)  offshore{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(819)  boston{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(820)  ease{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(821)  remarks{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(822)  summer{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(823)  waste{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(824)  registered{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(825)  writedown{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(826)  negotiate{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(827)  illinois{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(828)  ems{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(829)  quickly{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(830)  successful{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(831)  refining{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(832)  strength{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(833)  recorded{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(834)  leaders{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(835)  exxon{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(836)  staff{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(837)  thursday{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(838)  asset{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(839)  grains{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(840)  encourage{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(841)  malaysian{Discrete}:
+	;;0.006, 44
+	 = y
+	;;0.994, 7935
+	 = n
+(842)  access{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(843)  suit{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(844)  takes{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(845)  smaller{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(846)  speaking{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(847)  relations{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(848)  sun{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(849)  sec{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(850)  generally{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(851)  processing{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(852)  strategy{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(853)  street{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(854)  weak{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(855)  concerned{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(856)  network{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(857)  role{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(858)  bancorp{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(859)  cumulative{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(860)  comments{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(861)  resulting{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(862)  consideration{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(863)  moscow{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(864)  water{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(865)  grew{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(866)  averaged{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(867)  crisis{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(868)  turkey{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(869)  reducing{Discrete}:
+	;;0.009, 69
+	 = y
+	;;0.991, 7910
+	 = n
+(870)  franc{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(871)  baldrige{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(872)  legal{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(873)  zinc{Discrete}:
+	;;0.004, 33
+	 = y
+	;;0.996, 7946
+	 = n
+(874)  river{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(875)  targets{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(876)  sosnoff{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(877)  miti{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(878)  intends{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(879)  borg{Discrete}:
+	;;0.002, 18
+	 = y
+	;;0.998, 7961
+	 = n
+(880)  poor{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(881)  party{Discrete}:
+	;;0.009, 69
+	 = y
+	;;0.991, 7910
+	 = n
+(882)  david{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(883)  vessels{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(884)  arab{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(885)  engineering{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(886)  groups{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(887)  subsidy{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(888)  paul{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(889)  chance{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(890)  allegheny{Discrete}:
+	;;0.003, 21
+	 = y
+	;;0.997, 7958
+	 = n
+(891)  reform{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(892)  excess{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(893)  afternoon{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(894)  granted{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(895)  positive{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(896)  belgian{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(897)  rev{Discrete}:
+	;;0.006, 49
+	 = y
+	;;0.994, 7930
+	 = n
+(898)  medium{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(899)  meetings{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(900)  negative{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(901)  johnson{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(902)  rand{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(903)  compares{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(904)  houses{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(905)  eep{Discrete}:
+	;;0.003, 22
+	 = y
+	;;0.997, 7957
+	 = n
+(906)  equal{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(907)  drought{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(908)  significantly{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(909)  labour{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(910)  projected{Discrete}:
+	;;0.009, 70
+	 = y
+	;;0.991, 7909
+	 = n
+(911)  laws{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(912)  restated{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(913)  car{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(914)  eastern{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(915)  maximum{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(916)  newly{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(917)  prevent{Discrete}:
+	;;0.010, 77
+	 = y
+	;;0.990, 7902
+	 = n
+(918)  volcker{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(919)  ordinary{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(920)  exclude{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(921)  affect{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(922)  transportation{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(923)  expectations{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(924)  ceiling{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(925)  iraq{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(926)  single{Discrete}:
+	;;0.009, 69
+	 = y
+	;;0.991, 7910
+	 = n
+(927)  hectares{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(928)  organisation{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(929)  controlled{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(930)  bushels{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(931)  miyazawa{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(932)  cpc{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(933)  possibility{Discrete}:
+	;;0.009, 70
+	 = y
+	;;0.991, 7909
+	 = n
+(934)  facilities{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(935)  dome{Discrete}:
+	;;0.002, 16
+	 = y
+	;;0.998, 7963
+	 = n
+(936)  metals{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(937)  chemlawn{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(938)  enterprises{Discrete}:
+	;;0.009, 73
+	 = y
+	;;0.991, 7906
+	 = n
+(939)  worldwide{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(940)  amounts{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(941)  employment{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(942)  believes{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(943)  hours{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(944)  planted{Discrete}:
+	;;0.005, 39
+	 = y
+	;;0.995, 7940
+	 = n
+(945)  interested{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(946)  middle{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(947)  named{Discrete}:
+	;;0.009, 73
+	 = y
+	;;0.991, 7906
+	 = n
+(948)  family{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(949)  step{Discrete}:
+	;;0.009, 70
+	 = y
+	;;0.991, 7909
+	 = n
+(950)  materials{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(951)  independent{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(952)  mexico{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(953)  peru{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(954)  formed{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(955)  thailand{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(956)  signs{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(957)  tuesday{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(958)  manufacturers{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(959)  agree{Discrete}:
+	;;0.009, 73
+	 = y
+	;;0.991, 7906
+	 = n
+(960)  santa{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(961)  items{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(962)  brothers{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(963)  buyers{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(964)  airlines{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(965)  sanctions{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(966)  sumita{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(967)  video{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(968)  retaliation{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(969)  application{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(970)  region{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(971)  planning{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(972)  speculation{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(973)  subsidiaries{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(974)  quality{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(975)  borrowing{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(976)  allied{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(977)  stable{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(978)  yields{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(979)  warner{Discrete}:
+	;;0.003, 25
+	 = y
+	;;0.997, 7954
+	 = n
+(980)  entered{Discrete}:
+	;;0.010, 83
+	 = y
+	;;0.990, 7896
+	 = n
+(981)  pending{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(982)  request{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(983)  opening{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(984)  giving{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(985)  substantially{Discrete}:
+	;;0.011, 86
+	 = y
+	;;0.989, 7893
+	 = n
+(986)  authorized{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(987)  aluminium{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(988)  ruling{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(989)  brought{Discrete}:
+	;;0.010, 82
+	 = y
+	;;0.990, 7897
+	 = n
+(990)  benefits{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(991)  calls{Discrete}:
+	;;0.010, 82
+	 = y
+	;;0.990, 7897
+	 = n
+(992)  parts{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(993)  opened{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(994)  completion{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(995)  representatives{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(996)  kuwait{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(997)  richard{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(998)  external{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(999)  employees{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(1000)  ecus{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(1001)  big{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(1002)  progress{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(1003)  helped{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(1004)  adjustment{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(1005)  series{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(1006)  commodities{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(1007)  san{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(1008)  slow{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(1009)  oecd{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(1010)  operate{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1011)  basic{Discrete}:
+	;;0.010, 77
+	 = y
+	;;0.990, 7902
+	 = n
+(1012)  predicted{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1013)  requirement{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(1014)  definitive{Discrete}:
+	;;0.011, 86
+	 = y
+	;;0.989, 7893
+	 = n
+(1015)  stood{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1016)  face{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1017)  cutting{Discrete}:
+	;;0.010, 83
+	 = y
+	;;0.990, 7896
+	 = n
+(1018)  raising{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1019)  release{Discrete}:
+	;;0.009, 70
+	 = y
+	;;0.991, 7909
+	 = n
+(1020)  imported{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(1021)  direct{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1022)  chinese{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(1023)  electronics{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(1024)  allowed{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1025)  rest{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1026)  ends{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1027)  failure{Discrete}:
+	;;0.009, 70
+	 = y
+	;;0.991, 7909
+	 = n
+(1028)  authority{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(1029)  activities{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1030)  reflected{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1031)  requirements{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1032)  facility{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(1033)  coming{Discrete}:
+	;;0.010, 83
+	 = y
+	;;0.990, 7896
+	 = n
+(1034)  caesars{Discrete}:
+	;;0.002, 17
+	 = y
+	;;0.998, 7962
+	 = n
+(1035)  valued{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1036)  failed{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1037)  medical{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(1038)  fields{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(1039)  wholly{Discrete}:
+	;;0.011, 91
+	 = y
+	;;0.989, 7888
+	 = n
+(1040)  seamen{Discrete}:
+	;;0.003, 24
+	 = y
+	;;0.997, 7955
+	 = n
+(1041)  cargo{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(1042)  proceeds{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1043)  ccc{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(1044)  building{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1045)  yield{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(1046)  preliminary{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1047)  metal{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(1048)  ways{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1049)  ussr{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(1050)  believed{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1051)  subsidies{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(1052)  effort{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1053)  cubic{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(1054)  meat{Discrete}:
+	;;0.004, 34
+	 = y
+	;;0.996, 7945
+	 = n
+(1055)  stop{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1056)  wanted{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1057)  ounce{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(1058)  nippon{Discrete}:
+	;;0.004, 30
+	 = y
+	;;0.996, 7949
+	 = n
+(1059)  primary{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1060)  hughes{Discrete}:
+	;;0.002, 19
+	 = y
+	;;0.998, 7960
+	 = n
+(1061)  hutton{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(1062)  grade{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(1063)  taxes{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(1064)  accept{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(1065)  hope{Discrete}:
+	;;0.011, 91
+	 = y
+	;;0.989, 7888
+	 = n
+(1066)  run{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1067)  specific{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1068)  bids{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(1069)  bureau{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(1070)  vegetable{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(1071)  warrants{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(1072)  discussions{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1073)  row{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(1074)  moves{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1075)  won{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(1076)  reason{Discrete}:
+	;;0.011, 89
+	 = y
+	;;0.989, 7890
+	 = n
+(1077)  nakasone{Discrete}:
+	;;0.004, 31
+	 = y
+	;;0.996, 7948
+	 = n
+(1078)  intent{Discrete}:
+	;;0.011, 91
+	 = y
+	;;0.989, 7888
+	 = n
+(1079)  cooperation{Discrete}:
+	;;0.011, 89
+	 = y
+	;;0.989, 7890
+	 = n
+(1080)  telecommunications{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(1081)  dealer{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(1082)  falls{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1083)  provisional{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(1084)  great{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(1085)  block{Discrete}:
+	;;0.007, 58
+	 = y
+	;;0.993, 7921
+	 = n
+(1086)  survey{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(1087)  recovery{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(1088)  continental{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(1089)  tin{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(1090)  trend{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1091)  subcommittee{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(1092)  representative{Discrete}:
+	;;0.011, 91
+	 = y
+	;;0.989, 7888
+	 = n
+(1093)  equivalent{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1094)  deposit{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(1095)  mortgage{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(1096)  john{Discrete}:
+	;;0.011, 89
+	 = y
+	;;0.989, 7890
+	 = n
+(1097)  spot{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(1098)  ship{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(1099)  customers{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1100)  authorities{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(1101)  voting{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1102)  malaysia{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(1103)  brown{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(1104)  benefit{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1105)  clear{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1106)  damage{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(1107)  transport{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1108)  accounts{Discrete}:
+	;;0.011, 91
+	 = y
+	;;0.989, 7888
+	 = n
+(1109)  lines{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(1110)  percentage{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1111)  wednesday{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(1112)  newspaper{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1113)  released{Discrete}:
+	;;0.012, 95
+	 = y
+	;;0.988, 7884
+	 = n
+(1114)  coal{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(1115)  harvest{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(1116)  considered{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1117)  bonds{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(1118)  left{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1119)  process{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1120)  met{Discrete}:
+	;;0.013, 100
+	 = y
+	;;0.987, 7879
+	 = n
+(1121)  vote{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(1122)  filed{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1123)  band{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(1124)  coast{Discrete}:
+	;;0.010, 77
+	 = y
+	;;0.990, 7902
+	 = n
+(1125)  largely{Discrete}:
+	;;0.012, 99
+	 = y
+	;;0.988, 7880
+	 = n
+(1126)  african{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(1127)  traded{Discrete}:
+	;;0.010, 82
+	 = y
+	;;0.990, 7897
+	 = n
+(1128)  singapore{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(1129)  electric{Discrete}:
+	;;0.009, 69
+	 = y
+	;;0.991, 7910
+	 = n
+(1130)  activity{Discrete}:
+	;;0.011, 86
+	 = y
+	;;0.989, 7893
+	 = n
+(1131)  television{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(1132)  icco{Discrete}:
+	;;0.004, 32
+	 = y
+	;;0.996, 7947
+	 = n
+(1133)  gdp{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(1134)  complete{Discrete}:
+	;;0.013, 101
+	 = y
+	;;0.987, 7878
+	 = n
+(1135)  telephone{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(1136)  involved{Discrete}:
+	;;0.012, 99
+	 = y
+	;;0.988, 7880
+	 = n
+(1137)  corporate{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1138)  night{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1139)  venezuela{Discrete}:
+	;;0.005, 41
+	 = y
+	;;0.995, 7938
+	 = n
+(1140)  weekly{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1141)  partly{Discrete}:
+	;;0.012, 97
+	 = y
+	;;0.988, 7882
+	 = n
+(1142)  question{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1143)  calendar{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1144)  post{Discrete}:
+	;;0.011, 89
+	 = y
+	;;0.989, 7890
+	 = n
+(1145)  find{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1146)  zealand{Discrete}:
+	;;0.008, 65
+	 = y
+	;;0.992, 7914
+	 = n
+(1147)  flow{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1148)  growers{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(1149)  aimed{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1150)  important{Discrete}:
+	;;0.012, 99
+	 = y
+	;;0.988, 7880
+	 = n
+(1151)  majority{Discrete}:
+	;;0.012, 94
+	 = y
+	;;0.988, 7885
+	 = n
+(1152)  view{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1153)  acreage{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(1154)  barley{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(1155)  cover{Discrete}:
+	;;0.012, 99
+	 = y
+	;;0.988, 7880
+	 = n
+(1156)  settlement{Discrete}:
+	;;0.010, 77
+	 = y
+	;;0.990, 7902
+	 = n
+(1157)  chrysler{Discrete}:
+	;;0.004, 28
+	 = y
+	;;0.996, 7951
+	 = n
+(1158)  spain{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(1159)  principle{Discrete}:
+	;;0.013, 106
+	 = y
+	;;0.987, 7873
+	 = n
+(1160)  hard{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1161)  measure{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1162)  accounting{Discrete}:
+	;;0.011, 89
+	 = y
+	;;0.989, 7890
+	 = n
+(1163)  developing{Discrete}:
+	;;0.010, 83
+	 = y
+	;;0.990, 7896
+	 = n
+(1164)  grow{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1165)  prepared{Discrete}:
+	;;0.013, 101
+	 = y
+	;;0.987, 7878
+	 = n
+(1166)  customer{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1167)  lost{Discrete}:
+	;;0.012, 97
+	 = y
+	;;0.988, 7882
+	 = n
+(1168)  royal{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(1169)  buyout{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(1170)  posted{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1171)  convertible{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1172)  expenses{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1173)  offset{Discrete}:
+	;;0.014, 109
+	 = y
+	;;0.986, 7870
+	 = n
+(1174)  gasoline{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(1175)  maintain{Discrete}:
+	;;0.013, 100
+	 = y
+	;;0.987, 7879
+	 = n
+(1176)  completes{Discrete}:
+	;;0.014, 111
+	 = y
+	;;0.986, 7868
+	 = n
+(1177)  construction{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1178)  temporary{Discrete}:
+	;;0.012, 97
+	 = y
+	;;0.988, 7882
+	 = n
+(1179)  regulatory{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1180)  bring{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1181)  started{Discrete}:
+	;;0.014, 111
+	 = y
+	;;0.986, 7868
+	 = n
+(1182)  add{Discrete}:
+	;;0.011, 86
+	 = y
+	;;0.989, 7893
+	 = n
+(1183)  accepted{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1184)  light{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1185)  monthly{Discrete}:
+	;;0.013, 106
+	 = y
+	;;0.987, 7873
+	 = n
+(1186)  source{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1187)  ton{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(1188)  rejected{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1189)  chicago{Discrete}:
+	;;0.010, 79
+	 = y
+	;;0.990, 7900
+	 = n
+(1190)  gnp{Discrete}:
+	;;0.006, 47
+	 = y
+	;;0.994, 7932
+	 = n
+(1191)  fully{Discrete}:
+	;;0.013, 104
+	 = y
+	;;0.987, 7875
+	 = n
+(1192)  economist{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1193)  cattle{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(1194)  dividends{Discrete}:
+	;;0.012, 95
+	 = y
+	;;0.988, 7884
+	 = n
+(1195)  colombia{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(1196)  piedmont{Discrete}:
+	;;0.003, 26
+	 = y
+	;;0.997, 7953
+	 = n
+(1197)  reach{Discrete}:
+	;;0.013, 106
+	 = y
+	;;0.987, 7873
+	 = n
+(1198)  rice{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(1199)  nation{Discrete}:
+	;;0.013, 104
+	 = y
+	;;0.987, 7875
+	 = n
+(1200)  remained{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1201)  bags{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(1202)  lyng{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(1203)  improvement{Discrete}:
+	;;0.013, 100
+	 = y
+	;;0.987, 7879
+	 = n
+(1204)  times{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1205)  combined{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1206)  affected{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1207)  field{Discrete}:
+	;;0.008, 63
+	 = y
+	;;0.992, 7916
+	 = n
+(1208)  top{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1209)  estate{Discrete}:
+	;;0.011, 85
+	 = y
+	;;0.989, 7894
+	 = n
+(1210)  announcement{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1211)  package{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1212)  attempt{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1213)  risk{Discrete}:
+	;;0.009, 73
+	 = y
+	;;0.991, 7906
+	 = n
+(1214)  fuel{Discrete}:
+	;;0.009, 71
+	 = y
+	;;0.991, 7908
+	 = n
+(1215)  consolidated{Discrete}:
+	;;0.010, 83
+	 = y
+	;;0.990, 7896
+	 = n
+(1216)  war{Discrete}:
+	;;0.010, 77
+	 = y
+	;;0.990, 7902
+	 = n
+(1217)  monday{Discrete}:
+	;;0.013, 106
+	 = y
+	;;0.987, 7873
+	 = n
+(1218)  produce{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1219)  minimum{Discrete}:
+	;;0.012, 95
+	 = y
+	;;0.988, 7884
+	 = n
+(1220)  supplies{Discrete}:
+	;;0.010, 83
+	 = y
+	;;0.990, 7896
+	 = n
+(1221)  competition{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1222)  manager{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1223)  swiss{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(1224)  transactions{Discrete}:
+	;;0.013, 101
+	 = y
+	;;0.987, 7878
+	 = n
+(1225)  investments{Discrete}:
+	;;0.013, 107
+	 = y
+	;;0.987, 7872
+	 = n
+(1226)  legislation{Discrete}:
+	;;0.011, 86
+	 = y
+	;;0.989, 7893
+	 = n
+(1227)  crowns{Discrete}:
+	;;0.005, 40
+	 = y
+	;;0.995, 7939
+	 = n
+(1228)  provisions{Discrete}:
+	;;0.011, 86
+	 = y
+	;;0.989, 7893
+	 = n
+(1229)  points{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1230)  health{Discrete}:
+	;;0.010, 82
+	 = y
+	;;0.990, 7897
+	 = n
+(1231)  aid{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(1232)  communications{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1233)  italy{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1234)  cent{Discrete}:
+	;;0.011, 89
+	 = y
+	;;0.989, 7890
+	 = n
+(1235)  crops{Discrete}:
+	;;0.010, 76
+	 = y
+	;;0.990, 7903
+	 = n
+(1236)  holds{Discrete}:
+	;;0.013, 103
+	 = y
+	;;0.987, 7876
+	 = n
+(1237)  semiconductor{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(1238)  means{Discrete}:
+	;;0.013, 103
+	 = y
+	;;0.987, 7876
+	 = n
+(1239)  project{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1240)  cable{Discrete}:
+	;;0.007, 56
+	 = y
+	;;0.993, 7923
+	 = n
+(1241)  property{Discrete}:
+	;;0.011, 87
+	 = y
+	;;0.989, 7892
+	 = n
+(1242)  iran{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(1243)  officer{Discrete}:
+	;;0.012, 95
+	 = y
+	;;0.988, 7884
+	 = n
+(1244)  dropped{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1245)  diluted{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(1246)  existing{Discrete}:
+	;;0.013, 107
+	 = y
+	;;0.987, 7872
+	 = n
+(1247)  expand{Discrete}:
+	;;0.013, 104
+	 = y
+	;;0.987, 7875
+	 = n
+(1248)  extended{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1249)  overseas{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1250)  beginning{Discrete}:
+	;;0.014, 114
+	 = y
+	;;0.986, 7865
+	 = n
+(1251)  difficult{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1252)  expansion{Discrete}:
+	;;0.013, 104
+	 = y
+	;;0.987, 7875
+	 = n
+(1253)  competitive{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1254)  law{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1255)  charges{Discrete}:
+	;;0.013, 100
+	 = y
+	;;0.987, 7879
+	 = n
+(1256)  california{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(1257)  guilders{Discrete}:
+	;;0.005, 38
+	 = y
+	;;0.995, 7941
+	 = n
+(1258)  sells{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1259)  express{Discrete}:
+	;;0.005, 42
+	 = y
+	;;0.995, 7937
+	 = n
+(1260)  purchased{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1261)  improve{Discrete}:
+	;;0.014, 113
+	 = y
+	;;0.986, 7866
+	 = n
+(1262)  drilling{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(1263)  sea{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1264)  remains{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1265)  normal{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1266)  changed{Discrete}:
+	;;0.014, 115
+	 = y
+	;;0.986, 7864
+	 = n
+(1267)  longer{Discrete}:
+	;;0.014, 110
+	 = y
+	;;0.986, 7869
+	 = n
+(1268)  hong{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(1269)  similar{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1270)  substantial{Discrete}:
+	;;0.015, 119
+	 = y
+	;;0.985, 7860
+	 = n
+(1271)  head{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1272)  india{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(1273)  notes{Discrete}:
+	;;0.011, 91
+	 = y
+	;;0.989, 7888
+	 = n
+(1274)  pipeline{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(1275)  silver{Discrete}:
+	;;0.006, 51
+	 = y
+	;;0.994, 7928
+	 = n
+(1276)  oils{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(1277)  greater{Discrete}:
+	;;0.014, 111
+	 = y
+	;;0.986, 7868
+	 = n
+(1278)  feed{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1279)  closing{Discrete}:
+	;;0.014, 114
+	 = y
+	;;0.986, 7865
+	 = n
+(1280)  required{Discrete}:
+	;;0.015, 121
+	 = y
+	;;0.985, 7858
+	 = n
+(1281)  limit{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1282)  parent{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1283)  efforts{Discrete}:
+	;;0.014, 114
+	 = y
+	;;0.986, 7865
+	 = n
+(1284)  act{Discrete}:
+	;;0.013, 103
+	 = y
+	;;0.987, 7876
+	 = n
+(1285)  information{Discrete}:
+	;;0.013, 106
+	 = y
+	;;0.987, 7873
+	 = n
+(1286)  prospects{Discrete}:
+	;;0.014, 112
+	 = y
+	;;0.986, 7867
+	 = n
+(1287)  interview{Discrete}:
+	;;0.013, 107
+	 = y
+	;;0.987, 7872
+	 = n
+(1288)  political{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1289)  shortage{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1290)  totalled{Discrete}:
+	;;0.013, 100
+	 = y
+	;;0.987, 7879
+	 = n
+(1291)  acquisitions{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1292)  taft{Discrete}:
+	;;0.003, 20
+	 = y
+	;;0.997, 7959
+	 = n
+(1293)  owns{Discrete}:
+	;;0.014, 114
+	 = y
+	;;0.986, 7865
+	 = n
+(1294)  stability{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1295)  arabia{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(1296)  northern{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1297)  potential{Discrete}:
+	;;0.014, 110
+	 = y
+	;;0.986, 7869
+	 = n
+(1298)  dixons{Discrete}:
+	;;0.003, 27
+	 = y
+	;;0.997, 7952
+	 = n
+(1299)  pound{Discrete}:
+	;;0.008, 64
+	 = y
+	;;0.992, 7915
+	 = n
+(1300)  corporation{Discrete}:
+	;;0.014, 113
+	 = y
+	;;0.986, 7866
+	 = n
+(1301)  case{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1302)  soybeans{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1303)  discuss{Discrete}:
+	;;0.014, 115
+	 = y
+	;;0.986, 7864
+	 = n
+(1304)  earned{Discrete}:
+	;;0.015, 121
+	 = y
+	;;0.985, 7858
+	 = n
+(1305)  outlook{Discrete}:
+	;;0.013, 107
+	 = y
+	;;0.987, 7872
+	 = n
+(1306)  kong{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(1307)  ore{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(1308)  performance{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1309)  unemployment{Discrete}:
+	;;0.008, 62
+	 = y
+	;;0.992, 7917
+	 = n
+(1310)  remaining{Discrete}:
+	;;0.016, 127
+	 = y
+	;;0.984, 7852
+	 = n
+(1311)  lawson{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(1312)  factors{Discrete}:
+	;;0.015, 122
+	 = y
+	;;0.985, 7857
+	 = n
+(1313)  operation{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1314)  policies{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1315)  james{Discrete}:
+	;;0.016, 127
+	 = y
+	;;0.984, 7852
+	 = n
+(1316)  bonus{Discrete}:
+	;;0.009, 73
+	 = y
+	;;0.991, 7906
+	 = n
+(1317)  land{Discrete}:
+	;;0.010, 81
+	 = y
+	;;0.990, 7898
+	 = n
+(1318)  periods{Discrete}:
+	;;0.015, 118
+	 = y
+	;;0.985, 7861
+	 = n
+(1319)  session{Discrete}:
+	;;0.012, 97
+	 = y
+	;;0.988, 7882
+	 = n
+(1320)  forecasts{Discrete}:
+	;;0.014, 111
+	 = y
+	;;0.986, 7868
+	 = n
+(1321)  caused{Discrete}:
+	;;0.016, 131
+	 = y
+	;;0.984, 7848
+	 = n
+(1322)  cotton{Discrete}:
+	;;0.007, 52
+	 = y
+	;;0.993, 7927
+	 = n
+(1323)  ships{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1324)  immediately{Discrete}:
+	;;0.017, 133
+	 = y
+	;;0.983, 7846
+	 = n
+(1325)  purolator{Discrete}:
+	;;0.003, 21
+	 = y
+	;;0.997, 7958
+	 = n
+(1326)  dispute{Discrete}:
+	;;0.012, 95
+	 = y
+	;;0.988, 7884
+	 = n
+(1327)  form{Discrete}:
+	;;0.016, 131
+	 = y
+	;;0.984, 7848
+	 = n
+(1328)  repurchase{Discrete}:
+	;;0.014, 109
+	 = y
+	;;0.986, 7870
+	 = n
+(1329)  revenue{Discrete}:
+	;;0.013, 103
+	 = y
+	;;0.987, 7876
+	 = n
+(1330)  businesses{Discrete}:
+	;;0.014, 112
+	 = y
+	;;0.986, 7867
+	 = n
+(1331)  palm{Discrete}:
+	;;0.006, 46
+	 = y
+	;;0.994, 7933
+	 = n
+(1332)  class{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1333)  paper{Discrete}:
+	;;0.013, 101
+	 = y
+	;;0.987, 7878
+	 = n
+(1334)  orders{Discrete}:
+	;;0.009, 69
+	 = y
+	;;0.991, 7910
+	 = n
+(1335)  controls{Discrete}:
+	;;0.013, 100
+	 = y
+	;;0.987, 7879
+	 = n
+(1336)  produced{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1337)  assistance{Discrete}:
+	;;0.013, 103
+	 = y
+	;;0.987, 7876
+	 = n
+(1338)  senate{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(1339)  don{Discrete}:
+	;;0.015, 123
+	 = y
+	;;0.985, 7856
+	 = n
+(1340)  august{Discrete}:
+	;;0.016, 128
+	 = y
+	;;0.984, 7851
+	 = n
+(1341)  shearson{Discrete}:
+	;;0.007, 54
+	 = y
+	;;0.993, 7925
+	 = n
+(1342)  continuing{Discrete}:
+	;;0.016, 130
+	 = y
+	;;0.984, 7849
+	 = n
+(1343)  significant{Discrete}:
+	;;0.017, 133
+	 = y
+	;;0.983, 7846
+	 = n
+(1344)  decided{Discrete}:
+	;;0.017, 136
+	 = y
+	;;0.983, 7843
+	 = n
+(1345)  undisclosed{Discrete}:
+	;;0.018, 144
+	 = y
+	;;0.982, 7835
+	 = n
+(1346)  mid{Discrete}:
+	;;0.016, 131
+	 = y
+	;;0.984, 7848
+	 = n
+(1347)  partnership{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1348)  filing{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1349)  organization{Discrete}:
+	;;0.016, 127
+	 = y
+	;;0.984, 7852
+	 = n
+(1350)  reflect{Discrete}:
+	;;0.017, 135
+	 = y
+	;;0.983, 7844
+	 = n
+(1351)  increasing{Discrete}:
+	;;0.017, 134
+	 = y
+	;;0.983, 7845
+	 = n
+(1352)  concern{Discrete}:
+	;;0.016, 130
+	 = y
+	;;0.984, 7849
+	 = n
+(1353)  place{Discrete}:
+	;;0.017, 136
+	 = y
+	;;0.983, 7843
+	 = n
+(1354)  winter{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(1355)  options{Discrete}:
+	;;0.011, 88
+	 = y
+	;;0.989, 7891
+	 = n
+(1356)  rises{Discrete}:
+	;;0.018, 140
+	 = y
+	;;0.982, 7839
+	 = n
+(1357)  regular{Discrete}:
+	;;0.018, 142
+	 = y
+	;;0.982, 7837
+	 = n
+(1358)  seasonally{Discrete}:
+	;;0.013, 101
+	 = y
+	;;0.987, 7878
+	 = n
+(1359)  call{Discrete}:
+	;;0.014, 113
+	 = y
+	;;0.986, 7866
+	 = n
+(1360)  acres{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(1361)  mines{Discrete}:
+	;;0.012, 97
+	 = y
+	;;0.988, 7882
+	 = n
+(1362)  disclosed{Discrete}:
+	;;0.019, 149
+	 = y
+	;;0.981, 7830
+	 = n
+(1363)  option{Discrete}:
+	;;0.013, 107
+	 = y
+	;;0.987, 7872
+	 = n
+(1364)  problem{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1365)  certificates{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(1366)  beef{Discrete}:
+	;;0.006, 48
+	 = y
+	;;0.994, 7931
+	 = n
+(1367)  air{Discrete}:
+	;;0.010, 78
+	 = y
+	;;0.990, 7901
+	 = n
+(1368)  improved{Discrete}:
+	;;0.017, 132
+	 = y
+	;;0.983, 7847
+	 = n
+(1369)  force{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1370)  refinery{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(1371)  press{Discrete}:
+	;;0.017, 137
+	 = y
+	;;0.983, 7842
+	 = n
+(1372)  delivery{Discrete}:
+	;;0.014, 110
+	 = y
+	;;0.986, 7869
+	 = n
+(1373)  consumption{Discrete}:
+	;;0.014, 113
+	 = y
+	;;0.986, 7866
+	 = n
+(1374)  falling{Discrete}:
+	;;0.017, 132
+	 = y
+	;;0.983, 7847
+	 = n
+(1375)  white{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1376)  offers{Discrete}:
+	;;0.015, 121
+	 = y
+	;;0.985, 7858
+	 = n
+(1377)  limited{Discrete}:
+	;;0.016, 131
+	 = y
+	;;0.984, 7848
+	 = n
+(1378)  feet{Discrete}:
+	;;0.008, 67
+	 = y
+	;;0.992, 7912
+	 = n
+(1379)  related{Discrete}:
+	;;0.018, 146
+	 = y
+	;;0.982, 7833
+	 = n
+(1380)  properties{Discrete}:
+	;;0.013, 102
+	 = y
+	;;0.987, 7877
+	 = n
+(1381)  ounces{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(1382)  shipment{Discrete}:
+	;;0.014, 110
+	 = y
+	;;0.986, 7869
+	 = n
+(1383)  provision{Discrete}:
+	;;0.015, 119
+	 = y
+	;;0.985, 7860
+	 = n
+(1384)  working{Discrete}:
+	;;0.016, 131
+	 = y
+	;;0.984, 7848
+	 = n
+(1385)  technology{Discrete}:
+	;;0.014, 112
+	 = y
+	;;0.986, 7867
+	 = n
+(1386)  review{Discrete}:
+	;;0.017, 136
+	 = y
+	;;0.983, 7843
+	 = n
+(1387)  interests{Discrete}:
+	;;0.016, 130
+	 = y
+	;;0.984, 7849
+	 = n
+(1388)  chemical{Discrete}:
+	;;0.012, 99
+	 = y
+	;;0.988, 7880
+	 = n
+(1389)  liquidity{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1390)  vice{Discrete}:
+	;;0.017, 139
+	 = y
+	;;0.983, 7840
+	 = n
+(1391)  brazilian{Discrete}:
+	;;0.012, 98
+	 = y
+	;;0.988, 7881
+	 = n
+(1392)  volume{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1393)  retail{Discrete}:
+	;;0.012, 97
+	 = y
+	;;0.988, 7882
+	 = n
+(1394)  gave{Discrete}:
+	;;0.019, 154
+	 = y
+	;;0.981, 7825
+	 = n
+(1395)  africa{Discrete}:
+	;;0.010, 83
+	 = y
+	;;0.990, 7896
+	 = n
+(1396)  fixed{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1397)  dollars{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1398)  yeutter{Discrete}:
+	;;0.007, 57
+	 = y
+	;;0.993, 7922
+	 = n
+(1399)  ico{Discrete}:
+	;;0.006, 50
+	 = y
+	;;0.994, 7929
+	 = n
+(1400)  needed{Discrete}:
+	;;0.018, 144
+	 = y
+	;;0.982, 7835
+	 = n
+(1401)  key{Discrete}:
+	;;0.017, 136
+	 = y
+	;;0.983, 7843
+	 = n
+(1402)  home{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1403)  began{Discrete}:
+	;;0.019, 150
+	 = y
+	;;0.981, 7829
+	 = n
+(1404)  offering{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1405)  rubber{Discrete}:
+	;;0.007, 55
+	 = y
+	;;0.993, 7924
+	 = n
+(1406)  life{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1407)  deposits{Discrete}:
+	;;0.012, 95
+	 = y
+	;;0.988, 7884
+	 = n
+(1408)  standard{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1409)  credits{Discrete}:
+	;;0.016, 126
+	 = y
+	;;0.984, 7853
+	 = n
+(1410)  seek{Discrete}:
+	;;0.019, 150
+	 = y
+	;;0.981, 7829
+	 = n
+(1411)  response{Discrete}:
+	;;0.019, 152
+	 = y
+	;;0.981, 7827
+	 = n
+(1412)  maize{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(1413)  heavy{Discrete}:
+	;;0.016, 130
+	 = y
+	;;0.984, 7849
+	 = n
+(1414)  ecuador{Discrete}:
+	;;0.006, 45
+	 = y
+	;;0.994, 7934
+	 = n
+(1415)  gross{Discrete}:
+	;;0.018, 146
+	 = y
+	;;0.982, 7833
+	 = n
+(1416)  city{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1417)  receive{Discrete}:
+	;;0.018, 143
+	 = y
+	;;0.982, 7836
+	 = n
+(1418)  quoted{Discrete}:
+	;;0.017, 132
+	 = y
+	;;0.983, 7847
+	 = n
+(1419)  consumers{Discrete}:
+	;;0.012, 92
+	 = y
+	;;0.988, 7887
+	 = n
+(1420)  research{Discrete}:
+	;;0.016, 125
+	 = y
+	;;0.984, 7854
+	 = n
+(1421)  america{Discrete}:
+	;;0.018, 141
+	 = y
+	;;0.982, 7838
+	 = n
+(1422)  pretax{Discrete}:
+	;;0.017, 134
+	 = y
+	;;0.983, 7845
+	 = n
+(1423)  adding{Discrete}:
+	;;0.019, 153
+	 = y
+	;;0.981, 7826
+	 = n
+(1424)  raises{Discrete}:
+	;;0.021, 167
+	 = y
+	;;0.979, 7812
+	 = n
+(1425)  southern{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1426)  local{Discrete}:
+	;;0.015, 122
+	 = y
+	;;0.985, 7857
+	 = n
+(1427)  shareholder{Discrete}:
+	;;0.019, 152
+	 = y
+	;;0.981, 7827
+	 = n
+(1428)  reduction{Discrete}:
+	;;0.019, 148
+	 = y
+	;;0.981, 7831
+	 = n
+(1429)  shipping{Discrete}:
+	;;0.014, 115
+	 = y
+	;;0.986, 7864
+	 = n
+(1430)  weather{Discrete}:
+	;;0.012, 94
+	 = y
+	;;0.988, 7885
+	 = n
+(1431)  addition{Discrete}:
+	;;0.021, 166
+	 = y
+	;;0.979, 7813
+	 = n
+(1432)  scheduled{Discrete}:
+	;;0.019, 155
+	 = y
+	;;0.981, 7824
+	 = n
+(1433)  east{Discrete}:
+	;;0.015, 122
+	 = y
+	;;0.985, 7857
+	 = n
+(1434)  figure{Discrete}:
+	;;0.018, 146
+	 = y
+	;;0.982, 7833
+	 = n
+(1435)  people{Discrete}:
+	;;0.016, 130
+	 = y
+	;;0.984, 7849
+	 = n
+(1436)  growing{Discrete}:
+	;;0.018, 142
+	 = y
+	;;0.982, 7837
+	 = n
+(1437)  venture{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1438)  reports{Discrete}:
+	;;0.019, 151
+	 = y
+	;;0.981, 7828
+	 = n
+(1439)  europe{Discrete}:
+	;;0.014, 113
+	 = y
+	;;0.986, 7866
+	 = n
+(1440)  situation{Discrete}:
+	;;0.019, 153
+	 = y
+	;;0.981, 7826
+	 = n
+(1441)  morning{Discrete}:
+	;;0.018, 145
+	 = y
+	;;0.982, 7834
+	 = n
+(1442)  producing{Discrete}:
+	;;0.017, 136
+	 = y
+	;;0.983, 7843
+	 = n
+(1443)  power{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1444)  closed{Discrete}:
+	;;0.017, 139
+	 = y
+	;;0.983, 7840
+	 = n
+(1445)  boost{Discrete}:
+	;;0.018, 141
+	 = y
+	;;0.982, 7838
+	 = n
+(1446)  lending{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1447)  contracts{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1448)  seeking{Discrete}:
+	;;0.020, 159
+	 = y
+	;;0.980, 7820
+	 = n
+(1449)  buys{Discrete}:
+	;;0.022, 174
+	 = y
+	;;0.978, 7805
+	 = n
+(1450)  discount{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1451)  manufacturing{Discrete}:
+	;;0.016, 125
+	 = y
+	;;0.984, 7854
+	 = n
+(1452)  port{Discrete}:
+	;;0.012, 93
+	 = y
+	;;0.988, 7886
+	 = n
+(1453)  initial{Discrete}:
+	;;0.017, 138
+	 = y
+	;;0.983, 7841
+	 = n
+(1454)  return{Discrete}:
+	;;0.018, 146
+	 = y
+	;;0.982, 7833
+	 = n
+(1455)  shipments{Discrete}:
+	;;0.014, 112
+	 = y
+	;;0.986, 7867
+	 = n
+(1456)  dec{Discrete}:
+	;;0.019, 149
+	 = y
+	;;0.981, 7830
+	 = n
+(1457)  rules{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1458)  cyclops{Discrete}:
+	;;0.005, 36
+	 = y
+	;;0.995, 7943
+	 = n
+(1459)  security{Discrete}:
+	;;0.013, 101
+	 = y
+	;;0.987, 7878
+	 = n
+(1460)  investor{Discrete}:
+	;;0.018, 141
+	 = y
+	;;0.982, 7838
+	 = n
+(1461)  twa{Discrete}:
+	;;0.004, 29
+	 = y
+	;;0.996, 7950
+	 = n
+(1462)  computer{Discrete}:
+	;;0.014, 109
+	 = y
+	;;0.986, 7870
+	 = n
+(1463)  date{Discrete}:
+	;;0.019, 149
+	 = y
+	;;0.981, 7830
+	 = n
+(1464)  impact{Discrete}:
+	;;0.020, 160
+	 = y
+	;;0.980, 7819
+	 = n
+(1465)  directors{Discrete}:
+	;;0.018, 146
+	 = y
+	;;0.982, 7833
+	 = n
+(1466)  office{Discrete}:
+	;;0.017, 135
+	 = y
+	;;0.983, 7844
+	 = n
+(1467)  tariffs{Discrete}:
+	;;0.016, 128
+	 = y
+	;;0.984, 7851
+	 = n
+(1468)  order{Discrete}:
+	;;0.017, 139
+	 = y
+	;;0.983, 7840
+	 = n
+(1469)  institute{Discrete}:
+	;;0.016, 130
+	 = y
+	;;0.984, 7849
+	 = n
+(1470)  hit{Discrete}:
+	;;0.019, 151
+	 = y
+	;;0.981, 7828
+	 = n
+(1471)  director{Discrete}:
+	;;0.019, 154
+	 = y
+	;;0.981, 7825
+	 = n
+(1472)  exporters{Discrete}:
+	;;0.016, 126
+	 = y
+	;;0.984, 7853
+	 = n
+(1473)  pre{Discrete}:
+	;;0.019, 150
+	 = y
+	;;0.981, 7829
+	 = n
+(1474)  included{Discrete}:
+	;;0.021, 168
+	 = y
+	;;0.979, 7811
+	 = n
+(1475)  tokyo{Discrete}:
+	;;0.015, 119
+	 = y
+	;;0.985, 7860
+	 = n
+(1476)  agreements{Discrete}:
+	;;0.018, 147
+	 = y
+	;;0.982, 7832
+	 = n
+(1477)  indonesia{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(1478)  sharply{Discrete}:
+	;;0.021, 167
+	 = y
+	;;0.979, 7812
+	 = n
+(1479)  lead{Discrete}:
+	;;0.019, 151
+	 = y
+	;;0.981, 7828
+	 = n
+(1480)  tons{Discrete}:
+	;;0.009, 68
+	 = y
+	;;0.991, 7911
+	 = n
+(1481)  study{Discrete}:
+	;;0.012, 99
+	 = y
+	;;0.988, 7880
+	 = n
+(1482)  korea{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1483)  workers{Discrete}:
+	;;0.014, 112
+	 = y
+	;;0.986, 7867
+	 = n
+(1484)  gatt{Discrete}:
+	;;0.008, 60
+	 = y
+	;;0.992, 7919
+	 = n
+(1485)  small{Discrete}:
+	;;0.021, 165
+	 = y
+	;;0.979, 7814
+	 = n
+(1486)  declared{Discrete}:
+	;;0.021, 171
+	 = y
+	;;0.979, 7808
+	 = n
+(1487)  agricultural{Discrete}:
+	;;0.017, 133
+	 = y
+	;;0.983, 7846
+	 = n
+(1488)  leading{Discrete}:
+	;;0.019, 151
+	 = y
+	;;0.981, 7828
+	 = n
+(1489)  slightly{Discrete}:
+	;;0.019, 155
+	 = y
+	;;0.981, 7824
+	 = n
+(1490)  increases{Discrete}:
+	;;0.021, 165
+	 = y
+	;;0.979, 7814
+	 = n
+(1491)  led{Discrete}:
+	;;0.021, 169
+	 = y
+	;;0.979, 7810
+	 = n
+(1492)  issues{Discrete}:
+	;;0.017, 133
+	 = y
+	;;0.983, 7846
+	 = n
+(1493)  planned{Discrete}:
+	;;0.021, 167
+	 = y
+	;;0.979, 7812
+	 = n
+(1494)  financing{Discrete}:
+	;;0.018, 145
+	 = y
+	;;0.982, 7834
+	 = n
+(1495)  mining{Discrete}:
+	;;0.015, 120
+	 = y
+	;;0.985, 7859
+	 = n
+(1496)  sharp{Discrete}:
+	;;0.020, 157
+	 = y
+	;;0.980, 7822
+	 = n
+(1497)  tomorrow{Discrete}:
+	;;0.019, 153
+	 = y
+	;;0.981, 7826
+	 = n
+(1498)  estimates{Discrete}:
+	;;0.018, 142
+	 = y
+	;;0.982, 7837
+	 = n
+(1499)  daily{Discrete}:
+	;;0.017, 139
+	 = y
+	;;0.983, 7840
+	 = n
+(1500)  equipment{Discrete}:
+	;;0.019, 149
+	 = y
+	;;0.981, 7830
+	 = n
+(1501)  proposals{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1502)  bankers{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1503)  statistics{Discrete}:
+	;;0.022, 173
+	 = y
+	;;0.978, 7806
+	 = n
+(1504)  capacity{Discrete}:
+	;;0.016, 130
+	 = y
+	;;0.984, 7849
+	 = n
+(1505)  spending{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1506)  estimate{Discrete}:
+	;;0.020, 156
+	 = y
+	;;0.980, 7823
+	 = n
+(1507)  rights{Discrete}:
+	;;0.016, 124
+	 = y
+	;;0.984, 7855
+	 = n
+(1508)  restructuring{Discrete}:
+	;;0.018, 145
+	 = y
+	;;0.982, 7834
+	 = n
+(1509)  copper{Discrete}:
+	;;0.008, 66
+	 = y
+	;;0.992, 7913
+	 = n
+(1510)  range{Discrete}:
+	;;0.020, 160
+	 = y
+	;;0.980, 7819
+	 = n
+(1511)  congress{Discrete}:
+	;;0.016, 127
+	 = y
+	;;0.984, 7852
+	 = n
+(1512)  reporters{Discrete}:
+	;;0.022, 177
+	 = y
+	;;0.978, 7802
+	 = n
+(1513)  distribution{Discrete}:
+	;;0.017, 139
+	 = y
+	;;0.983, 7840
+	 = n
+(1514)  problems{Discrete}:
+	;;0.020, 163
+	 = y
+	;;0.980, 7816
+	 = n
+(1515)  australian{Discrete}:
+	;;0.014, 112
+	 = y
+	;;0.986, 7867
+	 = n
+(1516)  season{Discrete}:
+	;;0.013, 105
+	 = y
+	;;0.987, 7874
+	 = n
+(1517)  holders{Discrete}:
+	;;0.021, 170
+	 = y
+	;;0.979, 7809
+	 = n
+(1518)  details{Discrete}:
+	;;0.024, 191
+	 = y
+	;;0.976, 7788
+	 = n
+(1519)  equity{Discrete}:
+	;;0.019, 148
+	 = y
+	;;0.981, 7831
+	 = n
+(1520)  stores{Discrete}:
+	;;0.016, 125
+	 = y
+	;;0.984, 7854
+	 = n
+(1521)  cuts{Discrete}:
+	;;0.020, 160
+	 = y
+	;;0.980, 7819
+	 = n
+(1522)  strike{Discrete}:
+	;;0.010, 80
+	 = y
+	;;0.990, 7899
+	 = n
+(1523)  bond{Discrete}:
+	;;0.009, 75
+	 = y
+	;;0.991, 7904
+	 = n
+(1524)  hold{Discrete}:
+	;;0.022, 175
+	 = y
+	;;0.978, 7804
+	 = n
+(1525)  commerce{Discrete}:
+	;;0.017, 137
+	 = y
+	;;0.983, 7842
+	 = n
+(1526)  britain{Discrete}:
+	;;0.019, 151
+	 = y
+	;;0.981, 7828
+	 = n
+(1527)  provide{Discrete}:
+	;;0.023, 187
+	 = y
+	;;0.977, 7792
+	 = n
+(1528)  ministers{Discrete}:
+	;;0.013, 106
+	 = y
+	;;0.987, 7873
+	 = n
+(1529)  worth{Discrete}:
+	;;0.021, 166
+	 = y
+	;;0.979, 7813
+	 = n
+(1530)  start{Discrete}:
+	;;0.022, 179
+	 = y
+	;;0.978, 7800
+	 = n
+(1531)  rising{Discrete}:
+	;;0.021, 169
+	 = y
+	;;0.979, 7810
+	 = n
+(1532)  purchases{Discrete}:
+	;;0.020, 157
+	 = y
+	;;0.980, 7822
+	 = n
+(1533)  showed{Discrete}:
+	;;0.020, 160
+	 = y
+	;;0.980, 7819
+	 = n
+(1534)  position{Discrete}:
+	;;0.022, 177
+	 = y
+	;;0.978, 7802
+	 = n
+(1535)  bills{Discrete}:
+	;;0.014, 115
+	 = y
+	;;0.986, 7864
+	 = n
+(1536)  gencorp{Discrete}:
+	;;0.005, 37
+	 = y
+	;;0.995, 7942
+	 = n
+(1537)  november{Discrete}:
+	;;0.019, 148
+	 = y
+	;;0.981, 7831
+	 = n
+(1538)  reduced{Discrete}:
+	;;0.024, 188
+	 = y
+	;;0.976, 7791
+	 = n
+(1539)  continued{Discrete}:
+	;;0.023, 187
+	 = y
+	;;0.977, 7792
+	 = n
+(1540)  currencies{Discrete}:
+	;;0.018, 142
+	 = y
+	;;0.982, 7837
+	 = n
+(1541)  payment{Discrete}:
+	;;0.021, 167
+	 = y
+	;;0.979, 7812
+	 = n
+(1542)  letter{Discrete}:
+	;;0.021, 166
+	 = y
+	;;0.979, 7813
+	 = n
+(1543)  dutch{Discrete}:
+	;;0.012, 99
+	 = y
+	;;0.988, 7880
+	 = n
+(1544)  court{Discrete}:
+	;;0.013, 107
+	 = y
+	;;0.987, 7872
+	 = n
+(1545)  turnover{Discrete}:
+	;;0.017, 136
+	 = y
+	;;0.983, 7843
+	 = n
+(1546)  saudi{Discrete}:
+	;;0.008, 61
+	 = y
+	;;0.992, 7918
+	 = n
+(1547)  producer{Discrete}:
+	;;0.019, 148
+	 = y
+	;;0.981, 7831
+	 = n
+(1548)  senior{Discrete}:
+	;;0.021, 171
+	 = y
+	;;0.979, 7808
+	 = n
+(1549)  selling{Discrete}:
+	;;0.023, 181
+	 = y
+	;;0.977, 7798
+	 = n
+(1550)  reached{Discrete}:
+	;;0.025, 197
+	 = y
+	;;0.975, 7782
+	 = n
+(1551)  commodity{Discrete}:
+	;;0.018, 147
+	 = y
+	;;0.982, 7832
+	 = n
+(1552)  expect{Discrete}:
+	;;0.023, 184
+	 = y
+	;;0.977, 7795
+	 = n
+(1553)  delegates{Discrete}:
+	;;0.009, 74
+	 = y
+	;;0.991, 7905
+	 = n
+(1554)  signed{Discrete}:
+	;;0.025, 201
+	 = y
+	;;0.975, 7778
+	 = n
+(1555)  meet{Discrete}:
+	;;0.022, 179
+	 = y
+	;;0.978, 7800
+	 = n
+(1556)  measures{Discrete}:
+	;;0.021, 165
+	 = y
+	;;0.979, 7814
+	 = n
+(1557)  member{Discrete}:
+	;;0.021, 166
+	 = y
+	;;0.979, 7813
+	 = n
+(1558)  joint{Discrete}:
+	;;0.021, 166
+	 = y
+	;;0.979, 7813
+	 = n
+(1559)  free{Discrete}:
+	;;0.021, 168
+	 = y
+	;;0.979, 7811
+	 = n
+(1560)  fund{Discrete}:
+	;;0.019, 152
+	 = y
+	;;0.981, 7827
+	 = n
+(1561)  charge{Discrete}:
+	;;0.020, 159
+	 = y
+	;;0.980, 7820
+	 = n
+(1562)  england{Discrete}:
+	;;0.021, 171
+	 = y
+	;;0.979, 7808
+	 = n
+(1563)  partners{Discrete}:
+	;;0.018, 145
+	 = y
+	;;0.982, 7834
+	 = n
+(1564)  pressure{Discrete}:
+	;;0.022, 178
+	 = y
+	;;0.978, 7801
+	 = n
+(1565)  insurance{Discrete}:
+	;;0.019, 149
+	 = y
+	;;0.981, 7830
+	 = n
+(1566)  latest{Discrete}:
+	;;0.024, 191
+	 = y
+	;;0.976, 7788
+	 = n
+(1567)  bundesbank{Discrete}:
+	;;0.009, 72
+	 = y
+	;;0.991, 7907
+	 = n
+(1568)  friday{Discrete}:
+	;;0.022, 175
+	 = y
+	;;0.978, 7804
+	 = n
+(1569)  october{Discrete}:
+	;;0.022, 176
+	 = y
+	;;0.978, 7803
+	 = n
+(1570)  conditions{Discrete}:
+	;;0.023, 186
+	 = y
+	;;0.977, 7793
+	 = n
+(1571)  marketing{Discrete}:
+	;;0.018, 144
+	 = y
+	;;0.982, 7835
+	 = n
+(1572)  present{Discrete}:
+	;;0.023, 186
+	 = y
+	;;0.977, 7793
+	 = n
+(1573)  payout{Discrete}:
+	;;0.027, 218
+	 = y
+	;;0.973, 7761
+	 = n
+(1574)  units{Discrete}:
+	;;0.018, 143
+	 = y
+	;;0.982, 7836
+	 = n
+(1575)  received{Discrete}:
+	;;0.025, 200
+	 = y
+	;;0.975, 7779
+	 = n
+(1576)  sterling{Discrete}:
+	;;0.011, 91
+	 = y
+	;;0.989, 7888
+	 = n
+(1577)  australia{Discrete}:
+	;;0.015, 121
+	 = y
+	;;0.985, 7858
+	 = n
+(1578)  exploration{Discrete}:
+	;;0.014, 111
+	 = y
+	;;0.986, 7868
+	 = n
+(1579)  barrel{Discrete}:
+	;;0.017, 133
+	 = y
+	;;0.983, 7846
+	 = n
+(1580)  areas{Discrete}:
+	;;0.021, 165
+	 = y
+	;;0.979, 7814
+	 = n
+(1581)  discontinued{Discrete}:
+	;;0.022, 176
+	 = y
+	;;0.978, 7803
+	 = n
+(1582)  food{Discrete}:
+	;;0.018, 147
+	 = y
+	;;0.982, 7832
+	 = n
+(1583)  negotiations{Discrete}:
+	;;0.021, 165
+	 = y
+	;;0.979, 7814
+	 = n
+(1584)  washington{Discrete}:
+	;;0.020, 160
+	 = y
+	;;0.980, 7819
+	 = n
+(1585)  texas{Discrete}:
+	;;0.017, 137
+	 = y
+	;;0.983, 7842
+	 = n
+(1586)  natural{Discrete}:
+	;;0.018, 145
+	 = y
+	;;0.982, 7834
+	 = n
+(1587)  preferred{Discrete}:
+	;;0.019, 155
+	 = y
+	;;0.981, 7824
+	 = n
+(1588)  main{Discrete}:
+	;;0.025, 197
+	 = y
+	;;0.975, 7782
+	 = n
+(1589)  effect{Discrete}:
+	;;0.026, 206
+	 = y
+	;;0.974, 7773
+	 = n
+(1590)  area{Discrete}:
+	;;0.019, 155
+	 = y
+	;;0.981, 7824
+	 = n
+(1591)  raise{Discrete}:
+	;;0.024, 195
+	 = y
+	;;0.976, 7784
+	 = n
+(1592)  tonne{Discrete}:
+	;;0.019, 155
+	 = y
+	;;0.981, 7824
+	 = n
+(1593)  holding{Discrete}:
+	;;0.023, 181
+	 = y
+	;;0.977, 7798
+	 = n
+(1594)  chief{Discrete}:
+	;;0.024, 191
+	 = y
+	;;0.976, 7788
+	 = n
+(1595)  special{Discrete}:
+	;;0.023, 184
+	 = y
+	;;0.977, 7795
+	 = n
+(1596)  index{Discrete}:
+	;;0.014, 108
+	 = y
+	;;0.986, 7871
+	 = n
+(1597)  paid{Discrete}:
+	;;0.027, 216
+	 = y
+	;;0.973, 7763
+	 = n
+(1598)  quotas{Discrete}:
+	;;0.014, 110
+	 = y
+	;;0.986, 7869
+	 = n
+(1599)  work{Discrete}:
+	;;0.025, 196
+	 = y
+	;;0.975, 7783
+	 = n
+(1600)  unchanged{Discrete}:
+	;;0.023, 182
+	 = y
+	;;0.977, 7797
+	 = n
+(1601)  give{Discrete}:
+	;;0.028, 224
+	 = y
+	;;0.972, 7755
+	 = n
+(1602)  investors{Discrete}:
+	;;0.021, 169
+	 = y
+	;;0.979, 7810
+	 = n
+(1603)  division{Discrete}:
+	;;0.020, 163
+	 = y
+	;;0.980, 7816
+	 = n
+(1604)  economists{Discrete}:
+	;;0.014, 109
+	 = y
+	;;0.986, 7870
+	 = n
+(1605)  mark{Discrete}:
+	;;0.018, 144
+	 = y
+	;;0.982, 7835
+	 = n
+(1606)  france{Discrete}:
+	;;0.021, 168
+	 = y
+	;;0.979, 7811
+	 = n
+(1607)  put{Discrete}:
+	;;0.027, 215
+	 = y
+	;;0.973, 7764
+	 = n
+(1608)  issued{Discrete}:
+	;;0.026, 209
+	 = y
+	;;0.974, 7770
+	 = n
+(1609)  weeks{Discrete}:
+	;;0.026, 206
+	 = y
+	;;0.974, 7773
+	 = n
+(1610)  july{Discrete}:
+	;;0.025, 199
+	 = y
+	;;0.975, 7780
+	 = n
+(1611)  western{Discrete}:
+	;;0.019, 148
+	 = y
+	;;0.981, 7831
+	 = n
+(1612)  north{Discrete}:
+	;;0.022, 176
+	 = y
+	;;0.978, 7803
+	 = n
+(1613)  soybean{Discrete}:
+	;;0.011, 84
+	 = y
+	;;0.989, 7895
+	 = n
+(1614)  remain{Discrete}:
+	;;0.027, 213
+	 = y
+	;;0.973, 7766
+	 = n
+(1615)  offered{Discrete}:
+	;;0.024, 189
+	 = y
+	;;0.976, 7790
+	 = n
+(1616)  raised{Discrete}:
+	;;0.027, 219
+	 = y
+	;;0.973, 7760
+	 = n
+(1617)  buffer{Discrete}:
+	;;0.007, 53
+	 = y
+	;;0.993, 7926
+	 = n
+(1618)  conference{Discrete}:
+	;;0.026, 206
+	 = y
+	;;0.974, 7773
+	 = n
+(1619)  gains{Discrete}:
+	;;0.025, 196
+	 = y
+	;;0.975, 7783
+	 = n
+(1620)  steel{Discrete}:
+	;;0.014, 110
+	 = y
+	;;0.986, 7869
+	 = n
+(1621)  transaction{Discrete}:
+	;;0.025, 203
+	 = y
+	;;0.975, 7776
+	 = n
+(1622)  farmers{Discrete}:
+	;;0.017, 134
+	 = y
+	;;0.983, 7845
+	 = n
+(1623)  commercial{Discrete}:
+	;;0.023, 186
+	 = y
+	;;0.977, 7793
+	 = n
+(1624)  usair{Discrete}:
+	;;0.005, 43
+	 = y
+	;;0.995, 7936
+	 = n
+(1625)  data{Discrete}:
+	;;0.022, 176
+	 = y
+	;;0.978, 7803
+	 = n
+(1626)  buying{Discrete}:
+	;;0.026, 206
+	 = y
+	;;0.974, 7773
+	 = n
+(1627)  large{Discrete}:
+	;;0.028, 225
+	 = y
+	;;0.972, 7754
+	 = n
+(1628)  contract{Discrete}:
+	;;0.020, 156
+	 = y
+	;;0.980, 7823
+	 = n
+(1629)  line{Discrete}:
+	;;0.025, 202
+	 = y
+	;;0.975, 7777
+	 = n
+(1630)  holdings{Discrete}:
+	;;0.026, 205
+	 = y
+	;;0.974, 7774
+	 = n
+(1631)  called{Discrete}:
+	;;0.029, 230
+	 = y
+	;;0.971, 7749
+	 = n
+(1632)  cents{Discrete}:
+	;;0.017, 134
+	 = y
+	;;0.983, 7845
+	 = n
+(1633)  product{Discrete}:
+	;;0.027, 219
+	 = y
+	;;0.973, 7760
+	 = n
+(1634)  excludes{Discrete}:
+	;;0.025, 198
+	 = y
+	;;0.975, 7781
+	 = n
+(1635)  quota{Discrete}:
+	;;0.014, 112
+	 = y
+	;;0.986, 7867
+	 = n
+(1636)  reagan{Discrete}:
+	;;0.019, 155
+	 = y
+	;;0.981, 7824
+	 = n
+(1637)  london{Discrete}:
+	;;0.023, 183
+	 = y
+	;;0.977, 7796
+	 = n
+(1638)  news{Discrete}:
+	;;0.030, 238
+	 = y
+	;;0.970, 7741
+	 = n
+(1639)  executive{Discrete}:
+	;;0.027, 213
+	 = y
+	;;0.973, 7766
+	 = n
+(1640)  extraordinary{Discrete}:
+	;;0.027, 219
+	 = y
+	;;0.973, 7760
+	 = n
+(1641)  real{Discrete}:
+	;;0.026, 210
+	 = y
+	;;0.974, 7769
+	 = n
+(1642)  comment{Discrete}:
+	;;0.027, 215
+	 = y
+	;;0.973, 7764
+	 = n
+(1643)  accord{Discrete}:
+	;;0.021, 164
+	 = y
+	;;0.979, 7815
+	 = n
+(1644)  plant{Discrete}:
+	;;0.020, 163
+	 = y
+	;;0.980, 7816
+	 = n
+(1645)  analyst{Discrete}:
+	;;0.019, 152
+	 = y
+	;;0.981, 7827
+	 = n
+(1646)  takeover{Discrete}:
+	;;0.022, 175
+	 = y
+	;;0.978, 7804
+	 = n
+(1647)  final{Discrete}:
+	;;0.027, 216
+	 = y
+	;;0.973, 7763
+	 = n
+(1648)  additional{Discrete}:
+	;;0.029, 233
+	 = y
+	;;0.971, 7746
+	 = n
+(1649)  number{Discrete}:
+	;;0.029, 231
+	 = y
+	;;0.971, 7748
+	 = n
+(1650)  trust{Discrete}:
+	;;0.021, 165
+	 = y
+	;;0.979, 7814
+	 = n
+(1651)  cocoa{Discrete}:
+	;;0.007, 59
+	 = y
+	;;0.993, 7920
+	 = n
+(1652)  effective{Discrete}:
+	;;0.031, 250
+	 = y
+	;;0.969, 7729
+	 = n
+(1653)  firms{Discrete}:
+	;;0.022, 176
+	 = y
+	;;0.978, 7803
+	 = n
+(1654)  baker{Discrete}:
+	;;0.012, 96
+	 = y
+	;;0.988, 7883
+	 = n
+(1655)  good{Discrete}:
+	;;0.027, 216
+	 = y
+	;;0.973, 7763
+	 = n
+(1656)  decision{Discrete}:
+	;;0.028, 221
+	 = y
+	;;0.972, 7758
+	 = n
+(1657)  payable{Discrete}:
+	;;0.033, 264
+	 = y
+	;;0.967, 7715
+	 = n
+(1658)  agency{Discrete}:
+	;;0.023, 183
+	 = y
+	;;0.977, 7796
+	 = n
+(1659)  service{Discrete}:
+	;;0.026, 210
+	 = y
+	;;0.974, 7769
+	 = n
+(1660)  pacific{Discrete}:
+	;;0.018, 141
+	 = y
+	;;0.982, 7838
+	 = n
+(1661)  balance{Discrete}:
+	;;0.028, 224
+	 = y
+	;;0.972, 7755
+	 = n
+(1662)  basis{Discrete}:
+	;;0.028, 222
+	 = y
+	;;0.972, 7757
+	 = n
+(1663)  late{Discrete}:
+	;;0.030, 238
+	 = y
+	;;0.970, 7741
+	 = n
+(1664)  amount{Discrete}:
+	;;0.031, 246
+	 = y
+	;;0.969, 7733
+	 = n
+(1665)  making{Discrete}:
+	;;0.032, 258
+	 = y
+	;;0.968, 7721
+	 = n
+(1666)  nil{Discrete}:
+	;;0.016, 127
+	 = y
+	;;0.984, 7852
+	 = n
+(1667)  base{Discrete}:
+	;;0.023, 187
+	 = y
+	;;0.977, 7792
+	 = n
+(1668)  show{Discrete}:
+	;;0.029, 235
+	 = y
+	;;0.971, 7744
+	 = n
+(1669)  members{Discrete}:
+	;;0.025, 200
+	 = y
+	;;0.975, 7779
+	 = n
+(1670)  taiwan{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1671)  subject{Discrete}:
+	;;0.034, 269
+	 = y
+	;;0.966, 7710
+	 = n
+(1672)  target{Discrete}:
+	;;0.027, 215
+	 = y
+	;;0.973, 7764
+	 = n
+(1673)  deal{Discrete}:
+	;;0.027, 217
+	 = y
+	;;0.973, 7762
+	 = n
+(1674)  council{Discrete}:
+	;;0.022, 176
+	 = y
+	;;0.978, 7803
+	 = n
+(1675)  administration{Discrete}:
+	;;0.022, 175
+	 = y
+	;;0.978, 7804
+	 = n
+(1676)  secretary{Discrete}:
+	;;0.029, 232
+	 = y
+	;;0.971, 7747
+	 = n
+(1677)  approved{Discrete}:
+	;;0.031, 247
+	 = y
+	;;0.969, 7732
+	 = n
+(1678)  germany{Discrete}:
+	;;0.024, 194
+	 = y
+	;;0.976, 7785
+	 = n
+(1679)  open{Discrete}:
+	;;0.030, 240
+	 = y
+	;;0.970, 7739
+	 = n
+(1680)  savings{Discrete}:
+	;;0.020, 157
+	 = y
+	;;0.980, 7822
+	 = n
+(1681)  resources{Discrete}:
+	;;0.027, 213
+	 = y
+	;;0.973, 7766
+	 = n
+(1682)  prime{Discrete}:
+	;;0.022, 177
+	 = y
+	;;0.978, 7802
+	 = n
+(1683)  noted{Discrete}:
+	;;0.030, 238
+	 = y
+	;;0.970, 7741
+	 = n
+(1684)  close{Discrete}:
+	;;0.033, 266
+	 = y
+	;;0.967, 7713
+	 = n
+(1685)  monetary{Discrete}:
+	;;0.022, 175
+	 = y
+	;;0.978, 7804
+	 = n
+(1686)  support{Discrete}:
+	;;0.027, 217
+	 = y
+	;;0.973, 7762
+	 = n
+(1687)  quarterly{Discrete}:
+	;;0.033, 265
+	 = y
+	;;0.967, 7714
+	 = n
+(1688)  adjusted{Discrete}:
+	;;0.027, 214
+	 = y
+	;;0.973, 7765
+	 = n
+(1689)  systems{Discrete}:
+	;;0.026, 206
+	 = y
+	;;0.974, 7773
+	 = n
+(1690)  control{Discrete}:
+	;;0.028, 226
+	 = y
+	;;0.972, 7753
+	 = n
+(1691)  consumer{Discrete}:
+	;;0.023, 186
+	 = y
+	;;0.977, 7793
+	 = n
+(1692)  sector{Discrete}:
+	;;0.021, 169
+	 = y
+	;;0.979, 7810
+	 = n
+(1693)  community{Discrete}:
+	;;0.029, 228
+	 = y
+	;;0.971, 7751
+	 = n
+(1694)  declined{Discrete}:
+	;;0.035, 276
+	 = y
+	;;0.965, 7703
+	 = n
+(1695)  acquired{Discrete}:
+	;;0.035, 281
+	 = y
+	;;0.965, 7698
+	 = n
+(1696)  revenues{Discrete}:
+	;;0.027, 212
+	 = y
+	;;0.973, 7767
+	 = n
+(1697)  banking{Discrete}:
+	;;0.026, 208
+	 = y
+	;;0.974, 7771
+	 = n
+(1698)  approval{Discrete}:
+	;;0.034, 273
+	 = y
+	;;0.966, 7706
+	 = n
+(1699)  loans{Discrete}:
+	;;0.021, 171
+	 = y
+	;;0.979, 7808
+	 = n
+(1700)  completed{Discrete}:
+	;;0.036, 289
+	 = y
+	;;0.964, 7690
+	 = n
+(1701)  futures{Discrete}:
+	;;0.013, 104
+	 = y
+	;;0.987, 7875
+	 = n
+(1702)  largest{Discrete}:
+	;;0.033, 264
+	 = y
+	;;0.967, 7715
+	 = n
+(1703)  reduce{Discrete}:
+	;;0.032, 252
+	 = y
+	;;0.968, 7727
+	 = n
+(1704)  farm{Discrete}:
+	;;0.019, 149
+	 = y
+	;;0.981, 7830
+	 = n
+(1705)  strong{Discrete}:
+	;;0.032, 257
+	 = y
+	;;0.968, 7722
+	 = n
+(1706)  losses{Discrete}:
+	;;0.028, 226
+	 = y
+	;;0.972, 7753
+	 = n
+(1707)  gulf{Discrete}:
+	;;0.014, 113
+	 = y
+	;;0.986, 7866
+	 = n
+(1708)  goods{Discrete}:
+	;;0.024, 195
+	 = y
+	;;0.976, 7784
+	 = n
+(1709)  asked{Discrete}:
+	;;0.034, 274
+	 = y
+	;;0.966, 7705
+	 = n
+(1710)  drop{Discrete}:
+	;;0.030, 242
+	 = y
+	;;0.970, 7737
+	 = n
+(1711)  crop{Discrete}:
+	;;0.018, 147
+	 = y
+	;;0.982, 7832
+	 = n
+(1712)  british{Discrete}:
+	;;0.025, 199
+	 = y
+	;;0.975, 7780
+	 = n
+(1713)  change{Discrete}:
+	;;0.032, 252
+	 = y
+	;;0.968, 7727
+	 = n
+(1714)  move{Discrete}:
+	;;0.033, 265
+	 = y
+	;;0.967, 7714
+	 = n
+(1715)  private{Discrete}:
+	;;0.032, 255
+	 = y
+	;;0.968, 7724
+	 = n
+(1716)  services{Discrete}:
+	;;0.030, 243
+	 = y
+	;;0.970, 7736
+	 = n
+(1717)  account{Discrete}:
+	;;0.026, 206
+	 = y
+	;;0.974, 7773
+	 = n
+(1718)  nations{Discrete}:
+	;;0.027, 216
+	 = y
+	;;0.973, 7763
+	 = n
+(1719)  action{Discrete}:
+	;;0.032, 259
+	 = y
+	;;0.968, 7720
+	 = n
+(1720)  include{Discrete}:
+	;;0.035, 283
+	 = y
+	;;0.965, 7696
+	 = n
+(1721)  revised{Discrete}:
+	;;0.025, 201
+	 = y
+	;;0.975, 7778
+	 = n
+(1722)  september{Discrete}:
+	;;0.034, 272
+	 = y
+	;;0.966, 7707
+	 = n
+(1723)  feb{Discrete}:
+	;;0.038, 302
+	 = y
+	;;0.962, 7677
+	 = n
+(1724)  point{Discrete}:
+	;;0.027, 219
+	 = y
+	;;0.973, 7760
+	 = n
+(1725)  proposal{Discrete}:
+	;;0.026, 211
+	 = y
+	;;0.974, 7768
+	 = n
+(1726)  french{Discrete}:
+	;;0.020, 163
+	 = y
+	;;0.980, 7816
+	 = n
+(1727)  inflation{Discrete}:
+	;;0.021, 169
+	 = y
+	;;0.979, 7810
+	 = n
+(1728)  pact{Discrete}:
+	;;0.022, 177
+	 = y
+	;;0.978, 7802
+	 = n
+(1729)  funds{Discrete}:
+	;;0.027, 213
+	 = y
+	;;0.973, 7766
+	 = n
+(1730)  paris{Discrete}:
+	;;0.021, 170
+	 = y
+	;;0.979, 7809
+	 = n
+(1731)  intervention{Discrete}:
+	;;0.021, 170
+	 = y
+	;;0.979, 7809
+	 = n
+(1732)  payments{Discrete}:
+	;;0.027, 214
+	 = y
+	;;0.973, 7765
+	 = n
+(1733)  association{Discrete}:
+	;;0.032, 255
+	 = y
+	;;0.968, 7724
+	 = n
+(1734)  future{Discrete}:
+	;;0.036, 287
+	 = y
+	;;0.964, 7692
+	 = n
+(1735)  decline{Discrete}:
+	;;0.031, 249
+	 = y
+	;;0.969, 7730
+	 = n
+(1736)  import{Discrete}:
+	;;0.027, 218
+	 = y
+	;;0.973, 7761
+	 = n
+(1737)  short{Discrete}:
+	;;0.031, 249
+	 = y
+	;;0.969, 7730
+	 = n
+(1738)  days{Discrete}:
+	;;0.031, 250
+	 = y
+	;;0.969, 7729
+	 = n
+(1739)  barrels{Discrete}:
+	;;0.021, 165
+	 = y
+	;;0.979, 7814
+	 = n
+(1740)  stocks{Discrete}:
+	;;0.024, 195
+	 = y
+	;;0.976, 7784
+	 = n
+(1741)  fourth{Discrete}:
+	;;0.028, 221
+	 = y
+	;;0.972, 7758
+	 = n
+(1742)  german{Discrete}:
+	;;0.024, 193
+	 = y
+	;;0.976, 7786
+	 = n
+(1743)  result{Discrete}:
+	;;0.040, 319
+	 = y
+	;;0.960, 7660
+	 = n
+(1744)  york{Discrete}:
+	;;0.034, 271
+	 = y
+	;;0.966, 7708
+	 = n
+(1745)  budget{Discrete}:
+	;;0.024, 189
+	 = y
+	;;0.976, 7790
+	 = n
+(1746)  francs{Discrete}:
+	;;0.015, 116
+	 = y
+	;;0.985, 7863
+	 = n
+(1747)  cost{Discrete}:
+	;;0.033, 261
+	 = y
+	;;0.967, 7718
+	 = n
+(1748)  public{Discrete}:
+	;;0.035, 278
+	 = y
+	;;0.965, 7701
+	 = n
+(1749)  levels{Discrete}:
+	;;0.033, 265
+	 = y
+	;;0.967, 7714
+	 = n
+(1750)  reserve{Discrete}:
+	;;0.035, 283
+	 = y
+	;;0.965, 7696
+	 = n
+(1751)  committee{Discrete}:
+	;;0.030, 236
+	 = y
+	;;0.970, 7743
+	 = n
+(1752)  bought{Discrete}:
+	;;0.037, 297
+	 = y
+	;;0.963, 7682
+	 = n
+(1753)  bpd{Discrete}:
+	;;0.011, 90
+	 = y
+	;;0.989, 7889
+	 = n
+(1754)  plc{Discrete}:
+	;;0.036, 284
+	 = y
+	;;0.964, 7695
+	 = n
+(1755)  soviet{Discrete}:
+	;;0.018, 140
+	 = y
+	;;0.982, 7839
+	 = n
+(1756)  sees{Discrete}:
+	;;0.045, 356
+	 = y
+	;;0.955, 7623
+	 = n
+(1757)  development{Discrete}:
+	;;0.037, 298
+	 = y
+	;;0.963, 7681
+	 = n
+(1758)  country{Discrete}:
+	;;0.039, 314
+	 = y
+	;;0.961, 7665
+	 = n
+(1759)  petroleum{Discrete}:
+	;;0.034, 268
+	 = y
+	;;0.966, 7711
+	 = n
+(1760)  house{Discrete}:
+	;;0.031, 247
+	 = y
+	;;0.969, 7732
+	 = n
+(1761)  bill{Discrete}:
+	;;0.021, 170
+	 = y
+	;;0.979, 7809
+	 = n
+(1762)  held{Discrete}:
+	;;0.042, 339
+	 = y
+	;;0.958, 7640
+	 = n
+(1763)  china{Discrete}:
+	;;0.016, 125
+	 = y
+	;;0.984, 7854
+	 = n
+(1764)  profits{Discrete}:
+	;;0.029, 232
+	 = y
+	;;0.971, 7747
+	 = n
+(1765)  treasury{Discrete}:
+	;;0.030, 243
+	 = y
+	;;0.970, 7736
+	 = n
+(1766)  issue{Discrete}:
+	;;0.033, 266
+	 = y
+	;;0.967, 7713
+	 = n
+(1767)  mths{Discrete}:
+	;;0.040, 322
+	 = y
+	;;0.960, 7657
+	 = n
+(1768)  acquire{Discrete}:
+	;;0.041, 328
+	 = y
+	;;0.959, 7651
+	 = n
+(1769)  jan{Discrete}:
+	;;0.048, 384
+	 = y
+	;;0.952, 7595
+	 = n
+(1770)  finance{Discrete}:
+	;;0.039, 309
+	 = y
+	;;0.961, 7670
+	 = n
+(1771)  sets{Discrete}:
+	;;0.050, 402
+	 = y
+	;;0.950, 7577
+	 = n
+(1772)  full{Discrete}:
+	;;0.043, 346
+	 = y
+	;;0.957, 7633
+	 = n
+(1773)  costs{Discrete}:
+	;;0.038, 302
+	 = y
+	;;0.962, 7677
+	 = n
+(1774)  including{Discrete}:
+	;;0.047, 376
+	 = y
+	;;0.953, 7603
+	 = n
+(1775)  ministry{Discrete}:
+	;;0.031, 249
+	 = y
+	;;0.969, 7730
+	 = n
+(1776)  previously{Discrete}:
+	;;0.047, 375
+	 = y
+	;;0.953, 7604
+	 = n
+(1777)  opec{Discrete}:
+	;;0.012, 97
+	 = y
+	;;0.988, 7882
+	 = n
+(1778)  usda{Discrete}:
+	;;0.026, 204
+	 = y
+	;;0.974, 7775
+	 = n
+(1779)  purchase{Discrete}:
+	;;0.042, 335
+	 = y
+	;;0.958, 7644
+	 = n
+(1780)  fed{Discrete}:
+	;;0.022, 174
+	 = y
+	;;0.978, 7805
+	 = n
+(1781)  part{Discrete}:
+	;;0.046, 365
+	 = y
+	;;0.954, 7614
+	 = n
+(1782)  reuters{Discrete}:
+	;;0.046, 366
+	 = y
+	;;0.954, 7613
+	 = n
+(1783)  proposed{Discrete}:
+	;;0.040, 323
+	 = y
+	;;0.960, 7656
+	 = n
+(1784)  sold{Discrete}:
+	;;0.044, 349
+	 = y
+	;;0.956, 7630
+	 = n
+(1785)  operating{Discrete}:
+	;;0.037, 296
+	 = y
+	;;0.963, 7683
+	 = n
+(1786)  forecast{Discrete}:
+	;;0.033, 261
+	 = y
+	;;0.967, 7718
+	 = n
+(1787)  supply{Discrete}:
+	;;0.038, 300
+	 = y
+	;;0.962, 7679
+	 = n
+(1788)  traders{Discrete}:
+	;;0.029, 229
+	 = y
+	;;0.971, 7750
+	 = n
+(1789)  dealers{Discrete}:
+	;;0.027, 215
+	 = y
+	;;0.973, 7764
+	 = n
+(1790)  june{Discrete}:
+	;;0.042, 339
+	 = y
+	;;0.958, 7640
+	 = n
+(1791)  industrial{Discrete}:
+	;;0.037, 299
+	 = y
+	;;0.963, 7680
+	 = n
+(1792)  early{Discrete}:
+	;;0.044, 353
+	 = y
+	;;0.956, 7626
+	 = n
+(1793)  fiscal{Discrete}:
+	;;0.034, 270
+	 = y
+	;;0.966, 7709
+	 = n
+(1794)  firm{Discrete}:
+	;;0.039, 308
+	 = y
+	;;0.961, 7671
+	 = n
+(1795)  continue{Discrete}:
+	;;0.046, 370
+	 = y
+	;;0.954, 7609
+	 = n
+(1796)  qtly{Discrete}:
+	;;0.049, 393
+	 = y
+	;;0.951, 7586
+	 = n
+(1797)  previous{Discrete}:
+	;;0.044, 348
+	 = y
+	;;0.956, 7631
+	 = n
+(1798)  management{Discrete}:
+	;;0.040, 320
+	 = y
+	;;0.960, 7659
+	 = n
+(1799)  outstanding{Discrete}:
+	;;0.045, 363
+	 = y
+	;;0.955, 7616
+	 = n
+(1800)  estimated{Discrete}:
+	;;0.045, 360
+	 = y
+	;;0.955, 7619
+	 = n
+(1801)  bid{Discrete}:
+	;;0.034, 274
+	 = y
+	;;0.966, 7705
+	 = n
+(1802)  loan{Discrete}:
+	;;0.029, 232
+	 = y
+	;;0.971, 7747
+	 = n
+(1803)  energy{Discrete}:
+	;;0.031, 248
+	 = y
+	;;0.969, 7731
+	 = n
+(1804)  split{Discrete}:
+	;;0.031, 249
+	 = y
+	;;0.969, 7730
+	 = n
+(1805)  owned{Discrete}:
+	;;0.049, 392
+	 = y
+	;;0.951, 7587
+	 = n
+(1806)  income{Discrete}:
+	;;0.039, 312
+	 = y
+	;;0.961, 7667
+	 = n
+(1807)  subsidiary{Discrete}:
+	;;0.049, 390
+	 = y
+	;;0.951, 7589
+	 = n
+(1808)  increased{Discrete}:
+	;;0.046, 371
+	 = y
+	;;0.954, 7608
+	 = n
+(1809)  economy{Discrete}:
+	;;0.030, 241
+	 = y
+	;;0.970, 7738
+	 = n
+(1810)  brazil{Discrete}:
+	;;0.022, 174
+	 = y
+	;;0.978, 7805
+	 = n
+(1811)  program{Discrete}:
+	;;0.032, 255
+	 = y
+	;;0.968, 7724
+	 = n
+(1812)  average{Discrete}:
+	;;0.039, 310
+	 = y
+	;;0.961, 7669
+	 = n
+(1813)  marks{Discrete}:
+	;;0.017, 136
+	 = y
+	;;0.983, 7843
+	 = n
+(1814)  producers{Discrete}:
+	;;0.031, 248
+	 = y
+	;;0.969, 7731
+	 = n
+(1815)  terms{Discrete}:
+	;;0.053, 423
+	 = y
+	;;0.947, 7556
+	 = n
+(1816)  canadian{Discrete}:
+	;;0.026, 211
+	 = y
+	;;0.974, 7768
+	 = n
+(1817)  long{Discrete}:
+	;;0.046, 366
+	 = y
+	;;0.954, 7613
+	 = n
+(1818)  plan{Discrete}:
+	;;0.038, 302
+	 = y
+	;;0.962, 7677
+	 = n
+(1819)  level{Discrete}:
+	;;0.049, 394
+	 = y
+	;;0.951, 7585
+	 = n
+(1820)  plans{Discrete}:
+	;;0.050, 400
+	 = y
+	;;0.950, 7579
+	 = n
+(1821)  results{Discrete}:
+	;;0.045, 360
+	 = y
+	;;0.955, 7619
+	 = n
+(1822)  assets{Discrete}:
+	;;0.043, 346
+	 = y
+	;;0.957, 7633
+	 = n
+(1823)  industries{Discrete}:
+	;;0.050, 401
+	 = y
+	;;0.950, 7578
+	 = n
+(1824)  system{Discrete}:
+	;;0.044, 354
+	 = y
+	;;0.956, 7625
+	 = n
+(1825)  demand{Discrete}:
+	;;0.040, 323
+	 = y
+	;;0.960, 7656
+	 = n
+(1826)  announced{Discrete}:
+	;;0.057, 455
+	 = y
+	;;0.943, 7524
+	 = n
+(1827)  day{Discrete}:
+	;;0.047, 374
+	 = y
+	;;0.953, 7605
+	 = n
+(1828)  crude{Discrete}:
+	;;0.031, 246
+	 = y
+	;;0.969, 7733
+	 = n
+(1829)  agriculture{Discrete}:
+	;;0.047, 374
+	 = y
+	;;0.953, 7605
+	 = n
+(1830)  corn{Discrete}:
+	;;0.021, 170
+	 = y
+	;;0.979, 7809
+	 = n
+(1831)  expects{Discrete}:
+	;;0.051, 407
+	 = y
+	;;0.949, 7572
+	 = n
+(1832)  south{Discrete}:
+	;;0.033, 260
+	 = y
+	;;0.967, 7719
+	 = n
+(1833)  european{Discrete}:
+	;;0.042, 339
+	 = y
+	;;0.958, 7640
+	 = n
+(1834)  surplus{Discrete}:
+	;;0.031, 249
+	 = y
+	;;0.969, 7730
+	 = n
+(1835)  union{Discrete}:
+	;;0.032, 255
+	 = y
+	;;0.968, 7724
+	 = n
+(1836)  annual{Discrete}:
+	;;0.057, 451
+	 = y
+	;;0.943, 7528
+	 = n
+(1837)  figures{Discrete}:
+	;;0.045, 363
+	 = y
+	;;0.955, 7616
+	 = n
+(1838)  term{Discrete}:
+	;;0.043, 346
+	 = y
+	;;0.957, 7633
+	 = n
+(1839)  domestic{Discrete}:
+	;;0.046, 369
+	 = y
+	;;0.954, 7610
+	 = n
+(1840)  high{Discrete}:
+	;;0.051, 409
+	 = y
+	;;0.949, 7570
+	 = n
+(1841)  based{Discrete}:
+	;;0.059, 470
+	 = y
+	;;0.941, 7509
+	 = n
+(1842)  tender{Discrete}:
+	;;0.039, 312
+	 = y
+	;;0.961, 7667
+	 = n
+(1843)  grain{Discrete}:
+	;;0.028, 220
+	 = y
+	;;0.972, 7759
+	 = n
+(1844)  output{Discrete}:
+	;;0.032, 257
+	 = y
+	;;0.968, 7722
+	 = n
+(1845)  yesterday{Discrete}:
+	;;0.054, 430
+	 = y
+	;;0.946, 7549
+	 = n
+(1846)  ended{Discrete}:
+	;;0.059, 468
+	 = y
+	;;0.941, 7511
+	 = n
+(1847)  minister{Discrete}:
+	;;0.047, 375
+	 = y
+	;;0.953, 7604
+	 = n
+(1848)  policy{Discrete}:
+	;;0.037, 296
+	 = y
+	;;0.963, 7683
+	 = n
+(1849)  gold{Discrete}:
+	;;0.022, 179
+	 = y
+	;;0.978, 7800
+	 = n
+(1850)  talks{Discrete}:
+	;;0.041, 324
+	 = y
+	;;0.959, 7655
+	 = n
+(1851)  set{Discrete}:
+	;;0.057, 456
+	 = y
+	;;0.943, 7523
+	 = n
+(1852)  state{Discrete}:
+	;;0.050, 399
+	 = y
+	;;0.950, 7580
+	 = n
+(1853)  coffee{Discrete}:
+	;;0.016, 131
+	 = y
+	;;0.984, 7848
+	 = n
+(1854)  chairman{Discrete}:
+	;;0.058, 460
+	 = y
+	;;0.942, 7519
+	 = n
+(1855)  period{Discrete}:
+	;;0.056, 444
+	 = y
+	;;0.944, 7535
+	 = n
+(1856)  gain{Discrete}:
+	;;0.052, 413
+	 = y
+	;;0.948, 7566
+	 = n
+(1857)  markets{Discrete}:
+	;;0.050, 395
+	 = y
+	;;0.950, 7584
+	 = n
+(1858)  commission{Discrete}:
+	;;0.052, 411
+	 = y
+	;;0.948, 7568
+	 = n
+(1859)  div{Discrete}:
+	;;0.064, 510
+	 = y
+	;;0.936, 7469
+	 = n
+(1860)  canada{Discrete}:
+	;;0.039, 309
+	 = y
+	;;0.961, 7670
+	 = n
+(1861)  sell{Discrete}:
+	;;0.052, 415
+	 = y
+	;;0.948, 7564
+	 = n
+(1862)  credit{Discrete}:
+	;;0.044, 350
+	 = y
+	;;0.956, 7629
+	 = n
+(1863)  merger{Discrete}:
+	;;0.035, 283
+	 = y
+	;;0.965, 7696
+	 = n
+(1864)  general{Discrete}:
+	;;0.049, 391
+	 = y
+	;;0.951, 7588
+	 = n
+(1865)  includes{Discrete}:
+	;;0.059, 467
+	 = y
+	;;0.941, 7512
+	 = n
+(1866)  deficit{Discrete}:
+	;;0.034, 274
+	 = y
+	;;0.966, 7705
+	 = n
+(1867)  reported{Discrete}:
+	;;0.061, 490
+	 = y
+	;;0.939, 7489
+	 = n
+(1868)  reserves{Discrete}:
+	;;0.035, 278
+	 = y
+	;;0.965, 7701
+	 = n
+(1869)  statement{Discrete}:
+	;;0.056, 446
+	 = y
+	;;0.944, 7533
+	 = n
+(1870)  gas{Discrete}:
+	;;0.035, 282
+	 = y
+	;;0.965, 7697
+	 = n
+(1871)  states{Discrete}:
+	;;0.050, 400
+	 = y
+	;;0.950, 7579
+	 = n
+(1872)  fall{Discrete}:
+	;;0.054, 431
+	 = y
+	;;0.946, 7548
+	 = n
+(1873)  united{Discrete}:
+	;;0.052, 418
+	 = y
+	;;0.948, 7561
+	 = n
+(1874)  west{Discrete}:
+	;;0.049, 390
+	 = y
+	;;0.951, 7589
+	 = n
+(1875)  trading{Discrete}:
+	;;0.051, 407
+	 = y
+	;;0.949, 7572
+	 = n
+(1876)  currency{Discrete}:
+	;;0.042, 332
+	 = y
+	;;0.958, 7647
+	 = n
+(1877)  products{Discrete}:
+	;;0.054, 429
+	 = y
+	;;0.946, 7550
+	 = n
+(1878)  higher{Discrete}:
+	;;0.059, 468
+	 = y
+	;;0.941, 7511
+	 = n
+(1879)  federal{Discrete}:
+	;;0.054, 431
+	 = y
+	;;0.946, 7548
+	 = n
+(1880)  securities{Discrete}:
+	;;0.059, 468
+	 = y
+	;;0.941, 7511
+	 = n
+(1881)  companies{Discrete}:
+	;;0.051, 405
+	 = y
+	;;0.949, 7574
+	 = n
+(1882)  central{Discrete}:
+	;;0.049, 388
+	 = y
+	;;0.951, 7591
+	 = n
+(1883)  shareholders{Discrete}:
+	;;0.057, 454
+	 = y
+	;;0.943, 7525
+	 = n
+(1884)  time{Discrete}:
+	;;0.065, 515
+	 = y
+	;;0.935, 7464
+	 = n
+(1885)  capital{Discrete}:
+	;;0.054, 427
+	 = y
+	;;0.946, 7552
+	 = n
+(1886)  acquisition{Discrete}:
+	;;0.058, 465
+	 = y
+	;;0.942, 7514
+	 = n
+(1887)  president{Discrete}:
+	;;0.064, 511
+	 = y
+	;;0.936, 7468
+	 = n
+(1888)  years{Discrete}:
+	;;0.061, 490
+	 = y
+	;;0.939, 7489
+	 = n
+(1889)  due{Discrete}:
+	;;0.071, 565
+	 = y
+	;;0.929, 7414
+	 = n
+(1890)  cut{Discrete}:
+	;;0.052, 417
+	 = y
+	;;0.948, 7562
+	 = n
+(1891)  prior{Discrete}:
+	;;0.075, 600
+	 = y
+	;;0.925, 7379
+	 = n
+(1892)  sugar{Discrete}:
+	;;0.020, 159
+	 = y
+	;;0.980, 7820
+	 = n
+(1893)  shrs{Discrete}:
+	;;0.052, 418
+	 = y
+	;;0.948, 7561
+	 = n
+(1894)  sources{Discrete}:
+	;;0.047, 372
+	 = y
+	;;0.953, 7607
+	 = n
+(1895)  yen{Discrete}:
+	;;0.030, 243
+	 = y
+	;;0.970, 7736
+	 = n
+(1896)  avg{Discrete}:
+	;;0.052, 412
+	 = y
+	;;0.948, 7567
+	 = n
+(1897)  agreed{Discrete}:
+	;;0.069, 550
+	 = y
+	;;0.931, 7429
+	 = n
+(1898)  imports{Discrete}:
+	;;0.045, 359
+	 = y
+	;;0.955, 7620
+	 = n
+(1899)  stake{Discrete}:
+	;;0.048, 384
+	 = y
+	;;0.952, 7595
+	 = n
+(1900)  compared{Discrete}:
+	;;0.063, 505
+	 = y
+	;;0.937, 7474
+	 = n
+(1901)  debt{Discrete}:
+	;;0.044, 352
+	 = y
+	;;0.956, 7627
+	 = n
+(1902)  national{Discrete}:
+	;;0.059, 474
+	 = y
+	;;0.941, 7505
+	 = n
+(1903)  financial{Discrete}:
+	;;0.064, 509
+	 = y
+	;;0.936, 7470
+	 = n
+(1904)  investment{Discrete}:
+	;;0.065, 520
+	 = y
+	;;0.935, 7459
+	 = n
+(1905)  operations{Discrete}:
+	;;0.064, 510
+	 = y
+	;;0.936, 7469
+	 = n
+(1906)  business{Discrete}:
+	;;0.062, 491
+	 = y
+	;;0.938, 7488
+	 = n
+(1907)  officials{Discrete}:
+	;;0.052, 417
+	 = y
+	;;0.948, 7562
+	 = n
+(1908)  fell{Discrete}:
+	;;0.055, 436
+	 = y
+	;;0.945, 7543
+	 = n
+(1909)  major{Discrete}:
+	;;0.071, 564
+	 = y
+	;;0.929, 7415
+	 = n
+(1910)  buy{Discrete}:
+	;;0.068, 540
+	 = y
+	;;0.932, 7439
+	 = n
+(1911)  spokesman{Discrete}:
+	;;0.062, 493
+	 = y
+	;;0.938, 7486
+	 = n
+(1912)  report{Discrete}:
+	;;0.054, 434
+	 = y
+	;;0.946, 7545
+	 = n
+(1913)  analysts{Discrete}:
+	;;0.038, 301
+	 = y
+	;;0.962, 7678
+	 = n
+(1914)  economic{Discrete}:
+	;;0.055, 438
+	 = y
+	;;0.945, 7541
+	 = n
+(1915)  cash{Discrete}:
+	;;0.068, 544
+	 = y
+	;;0.932, 7435
+	 = n
+(1916)  department{Discrete}:
+	;;0.055, 439
+	 = y
+	;;0.945, 7540
+	 = n
+(1917)  countries{Discrete}:
+	;;0.055, 442
+	 = y
+	;;0.945, 7537
+	 = n
+(1918)  american{Discrete}:
+	;;0.052, 412
+	 = y
+	;;0.948, 7567
+	 = n
+(1919)  japanese{Discrete}:
+	;;0.037, 294
+	 = y
+	;;0.963, 7685
+	 = n
+(1920)  pay{Discrete}:
+	;;0.084, 674
+	 = y
+	;;0.916, 7305
+	 = n
+(1921)  money{Discrete}:
+	;;0.049, 394
+	 = y
+	;;0.951, 7585
+	 = n
+(1922)  months{Discrete}:
+	;;0.072, 577
+	 = y
+	;;0.928, 7402
+	 = n
+(1923)  common{Discrete}:
+	;;0.066, 525
+	 = y
+	;;0.934, 7454
+	 = n
+(1924)  industry{Discrete}:
+	;;0.059, 470
+	 = y
+	;;0.941, 7509
+	 = n
+(1925)  unit{Discrete}:
+	;;0.071, 566
+	 = y
+	;;0.929, 7413
+	 = n
+(1926)  meeting{Discrete}:
+	;;0.065, 520
+	 = y
+	;;0.935, 7459
+	 = n
+(1927)  wheat{Discrete}:
+	;;0.032, 254
+	 = y
+	;;0.968, 7725
+	 = n
+(1928)  sale{Discrete}:
+	;;0.068, 544
+	 = y
+	;;0.932, 7435
+	 = n
+(1929)  december{Discrete}:
+	;;0.058, 466
+	 = y
+	;;0.942, 7513
+	 = n
+(1930)  banks{Discrete}:
+	;;0.046, 368
+	 = y
+	;;0.954, 7611
+	 = n
+(1931)  export{Discrete}:
+	;;0.059, 471
+	 = y
+	;;0.941, 7508
+	 = n
+(1932)  earnings{Discrete}:
+	;;0.058, 465
+	 = y
+	;;0.942, 7514
+	 = n
+(1933)  growth{Discrete}:
+	;;0.051, 406
+	 = y
+	;;0.949, 7573
+	 = n
+(1934)  added{Discrete}:
+	;;0.087, 693
+	 = y
+	;;0.913, 7286
+	 = n
+(1935)  exports{Discrete}:
+	;;0.058, 459
+	 = y
+	;;0.942, 7520
+	 = n
+(1936)  dividend{Discrete}:
+	;;0.069, 552
+	 = y
+	;;0.931, 7427
+	 = n
+(1937)  earlier{Discrete}:
+	;;0.083, 664
+	 = y
+	;;0.917, 7315
+	 = n
+(1938)  official{Discrete}:
+	;;0.068, 539
+	 = y
+	;;0.932, 7440
+	 = n
+(1939)  increase{Discrete}:
+	;;0.083, 661
+	 = y
+	;;0.917, 7318
+	 = n
+(1940)  board{Discrete}:
+	;;0.079, 629
+	 = y
+	;;0.921, 7350
+	 = n
+(1941)  oper{Discrete}:
+	;;0.033, 261
+	 = y
+	;;0.967, 7718
+	 = n
+(1942)  world{Discrete}:
+	;;0.064, 511
+	 = y
+	;;0.936, 7468
+	 = n
+(1943)  rates{Discrete}:
+	;;0.051, 410
+	 = y
+	;;0.949, 7569
+	 = n
+(1944)  month{Discrete}:
+	;;0.084, 673
+	 = y
+	;;0.916, 7306
+	 = n
+(1945)  total{Discrete}:
+	;;0.091, 724
+	 = y
+	;;0.909, 7255
+	 = n
+(1946)  interest{Discrete}:
+	;;0.079, 630
+	 = y
+	;;0.921, 7349
+	 = n
+(1947)  stg{Discrete}:
+	;;0.037, 297
+	 = y
+	;;0.963, 7682
+	 = n
+(1948)  rise{Discrete}:
+	;;0.076, 608
+	 = y
+	;;0.924, 7371
+	 = n
+(1949)  dlr{Discrete}:
+	;;0.093, 744
+	 = y
+	;;0.907, 7235
+	 = n
+(1950)  current{Discrete}:
+	;;0.091, 724
+	 = y
+	;;0.909, 7255
+	 = n
+(1951)  note{Discrete}:
+	;;0.129, 1027
+	 = y
+	;;0.871, 6952
+	 = n
+(1952)  record{Discrete}:
+	;;0.115, 918
+	 = y
+	;;0.885, 7061
+	 = n
+(1953)  expected{Discrete}:
+	;;0.097, 770
+	 = y
+	;;0.903, 7209
+	 = n
+(1954)  tax{Discrete}:
+	;;0.079, 629
+	 = y
+	;;0.921, 7350
+	 = n
+(1955)  rose{Discrete}:
+	;;0.075, 601
+	 = y
+	;;0.925, 7378
+	 = n
+(1956)  told{Discrete}:
+	;;0.114, 906
+	 = y
+	;;0.886, 7073
+	 = n
+(1957)  international{Discrete}:
+	;;0.100, 795
+	 = y
+	;;0.900, 7184
+	 = n
+(1958)  foreign{Discrete}:
+	;;0.076, 604
+	 = y
+	;;0.924, 7375
+	 = n
+(1959)  production{Discrete}:
+	;;0.067, 538
+	 = y
+	;;0.933, 7441
+	 = n
+(1960)  today{Discrete}:
+	;;0.108, 863
+	 = y
+	;;0.892, 7116
+	 = n
+(1961)  agreement{Discrete}:
+	;;0.094, 751
+	 = y
+	;;0.906, 7228
+	 = n
+(1962)  dollar{Discrete}:
+	;;0.057, 455
+	 = y
+	;;0.943, 7524
+	 = n
+(1963)  offer{Discrete}:
+	;;0.065, 517
+	 = y
+	;;0.935, 7462
+	 = n
+(1964)  exchange{Discrete}:
+	;;0.096, 764
+	 = y
+	;;0.904, 7215
+	 = n
+(1965)  week{Discrete}:
+	;;0.093, 743
+	 = y
+	;;0.907, 7236
+	 = n
+(1966)  government{Discrete}:
+	;;0.090, 722
+	 = y
+	;;0.910, 7257
+	 = n
+(1967)  price{Discrete}:
+	;;0.096, 765
+	 = y
+	;;0.904, 7214
+	 = n
+(1968)  rate{Discrete}:
+	;;0.084, 669
+	 = y
+	;;0.916, 7310
+	 = n
+(1969)  japan{Discrete}:
+	;;0.064, 511
+	 = y
+	;;0.936, 7468
+	 = n
+(1970)  quarter{Discrete}:
+	;;0.080, 637
+	 = y
+	;;0.920, 7342
+	 = n
+(1971)  group{Discrete}:
+	;;0.111, 887
+	 = y
+	;;0.889, 7092
+	 = n
+(1972)  april{Discrete}:
+	;;0.145, 1154
+	 = y
+	;;0.855, 6825
+	 = n
+(1973)  revs{Discrete}:
+	;;0.121, 969
+	 = y
+	;;0.879, 7010
+	 = n
+(1974)  january{Discrete}:
+	;;0.086, 685
+	 = y
+	;;0.914, 7294
+	 = n
+(1975)  february{Discrete}:
+	;;0.084, 672
+	 = y
+	;;0.916, 7307
+	 = n
+(1976)  qtr{Discrete}:
+	;;0.159, 1268
+	 = y
+	;;0.841, 6711
+	 = n
+(1977)  sales{Discrete}:
+	;;0.113, 904
+	 = y
+	;;0.887, 7075
+	 = n
+(1978)  prices{Discrete}:
+	;;0.096, 764
+	 = y
+	;;0.904, 7215
+	 = n
+(1979)  march{Discrete}:
+	;;0.151, 1204
+	 = y
+	;;0.849, 6775
+	 = n
+(1980)  tonnes{Discrete}:
+	;;0.071, 570
+	 = y
+	;;0.929, 7409
+	 = n
+(1981)  stock{Discrete}:
+	;;0.126, 1004
+	 = y
+	;;0.874, 6975
+	 = n
+(1982)  shares{Discrete}:
+	;;0.114, 907
+	 = y
+	;;0.886, 7072
+	 = n
+(1983)  market{Discrete}:
+	;;0.137, 1095
+	 = y
+	;;0.863, 6884
+	 = n
+(1984)  profit{Discrete}:
+	;;0.106, 845
+	 = y
+	;;0.894, 7134
+	 = n
+(1985)  share{Discrete}:
+	;;0.160, 1277
+	 = y
+	;;0.840, 6702
+	 = n
+(1986)  trade{Discrete}:
+	;;0.109, 867
+	 = y
+	;;0.891, 7112
+	 = n
+(1987)  corp{Discrete}:
+	;;0.230, 1838
+	 = y
+	;;0.770, 6141
+	 = n
+(1988)  oil{Discrete}:
+	;;0.094, 753
+	 = y
+	;;0.906, 7226
+	 = n
+(1989)  shr{Discrete}:
+	;;0.191, 1524
+	 = y
+	;;0.809, 6455
+	 = n
+(1990)  bank{Discrete}:
+	;;0.126, 1009
+	 = y
+	;;0.874, 6970
+	 = n
+(1991)  company{Discrete}:
+	;;0.236, 1885
+	 = y
+	;;0.764, 6094
+	 = n
+(1992)  loss{Discrete}:
+	;;0.135, 1077
+	 = y
+	;;0.865, 6902
+	 = n
+(1993)  billion{Discrete}:
+	;;0.153, 1219
+	 = y
+	;;0.847, 6760
+	 = n
+(1994)  net{Discrete}:
+	;;0.245, 1953
+	 = y
+	;;0.755, 6026
+	 = n
+(1995)  cts{Discrete}:
+	;;0.271, 2165
+	 = y
+	;;0.729, 5814
+	 = n
+(1996)  year{Discrete}:
+	;;0.369, 2948
+	 = y
+	;;0.631, 5031
+	 = n
+(1997)  reuter{Discrete}:
+	;;0.902, 7201
+	 = y
+	;;0.098, 778
+	 = n
+(1998)  pct{Discrete}:
+	;;0.310, 2473
+	 = y
+	;;0.690, 5506
+	 = n
+(1999)  dlrs{Discrete}:
+	;;0.378, 3017
+	 = y
+	;;0.622, 4962
+	 = n
+(2000)  mln{Discrete}:
+	;;0.441, 3521
+	 = y
+	;;0.559, 4458
+	 = n
