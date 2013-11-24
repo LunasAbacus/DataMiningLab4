@@ -1,0 +1,7 @@
+Attribute Type : Discrete
+
+All attribute values are listed 
+in the attribute value drop list
+
+Select one attribute value from the list 
+and click Add Button to Query list
