@@ -1,0 +1,8238 @@
+1 (@hongkong:y) 0.001205
+
+2 (@hongkong:n) 0.998795
+
+3 (@defend:y) 0.000000
+
+4 (@defend:n) 1.000000
+
+5 (@created:y) 0.009639
+
+6 (@created:n) 0.990361
+
+7 (@cars:y) 0.004819
+
+8 (@cars:n) 0.995181
+
+9 (@peter:y) 0.004819
+
+10 (@peter:n) 0.995181
+
+11 (@dot:y) 0.003614
+
+12 (@dot:n) 0.996386
+
+13 (@consortium:y) 0.006024
+
+14 (@consortium:n) 0.993976
+
+15 (@wireless:y) 0.001205
+
+16 (@wireless:n) 0.998795
+
+17 (@programme:y) 0.009639
+
+18 (@programme:n) 0.990361
+
+19 (@kingdom:y) 0.004819
+
+20 (@kingdom:n) 0.995181
+
+21 (@centers:y) 0.004819
+
+22 (@centers:n) 0.995181
+
+23 (@nigeria:y) 0.002410
+
+24 (@nigeria:n) 0.997590
+
+25 (@favour:y) 0.008434
+
+26 (@favour:n) 0.991566
+
+27 (@textile:y) 0.004819
+
+28 (@textile:n) 0.995181
+
+29 (@bit:y) 0.002410
+
+30 (@bit:n) 0.997590
+
+31 (@siemens:y) 0.003614
+
+32 (@siemens:n) 0.996386
+
+33 (@affiliates:y) 0.001205
+
+34 (@affiliates:n) 0.998795
+
+35 (@chain:y) 0.004819
+
+36 (@chain:n) 0.995181
+
+37 (@comprising:y) 0.000000
+
+38 (@comprising:n) 1.000000
+
+39 (@rainfall:y) 0.003614
+
+40 (@rainfall:n) 0.996386
+
+41 (@trans:y) 0.004819
+
+42 (@trans:n) 0.995181
+
+43 (@rotterdam:y) 0.003614
+
+44 (@rotterdam:n) 0.996386
+
+45 (@cargill:y) 0.001205
+
+46 (@cargill:n) 0.998795
+
+47 (@backed:y) 0.002410
+
+48 (@backed:n) 0.997590
+
+49 (@guilder:y) 0.002410
+
+50 (@guilder:n) 0.997590
+
+51 (@aegean:y) 0.000000
+
+52 (@aegean:n) 1.000000
+
+53 (@weight:y) 0.002410
+
+54 (@weight:n) 0.997590
+
+55 (@listed:y) 0.010843
+
+56 (@listed:n) 0.989157
+
+57 (@disaster:y) 0.003614
+
+58 (@disaster:n) 0.996386
+
+59 (@delhi:y) 0.002410
+
+60 (@delhi:n) 0.997590
+
+61 (@greek:y) 0.001205
+
+62 (@greek:n) 0.998795
+
+63 (@cos:y) 0.001205
+
+64 (@cos:n) 0.998795
+
+65 (@objective:y) 0.004819
+
+66 (@objective:n) 0.995181
+
+67 (@oilseeds:y) 0.001205
+
+68 (@oilseeds:n) 0.998795
+
+69 (@spent:y) 0.007229
+
+70 (@spent:n) 0.992771
+
+71 (@cooper:y) 0.003614
+
+72 (@cooper:n) 0.996386
+
+73 (@owners:y) 0.008434
+
+74 (@owners:n) 0.991566
+
+75 (@textiles:y) 0.006024
+
+76 (@textiles:n) 0.993976
+
+77 (@adequate:y) 0.006024
+
+78 (@adequate:n) 0.993976
+
+79 (@float:y) 0.007229
+
+80 (@float:n) 0.992771
+
+81 (@bankamerica:y) 0.002410
+
+82 (@bankamerica:n) 0.997590
+
+83 (@sri:y) 0.003614
+
+84 (@sri:n) 0.996386
+
+85 (@imbalance:y) 0.006024
+
+86 (@imbalance:n) 0.993976
+
+87 (@economics:y) 0.008434
+
+88 (@economics:n) 0.991566
+
+89 (@amounted:y) 0.003614
+
+90 (@amounted:n) 0.996386
+
+91 (@hotels:y) 0.004819
+
+92 (@hotels:n) 0.995181
+
+93 (@merchandise:y) 0.002410
+
+94 (@merchandise:n) 0.997590
+
+95 (@repeated:y) 0.008434
+
+96 (@repeated:n) 0.991566
+
+97 (@origin:y) 0.003614
+
+98 (@origin:n) 0.996386
+
+99 (@broadly:y) 0.002410
+
+100 (@broadly:n) 0.997590
+
+101 (@meal:y) 0.003614
+
+102 (@meal:n) 0.996386
+
+103 (@earthquake:y) 0.001205
+
+104 (@earthquake:n) 0.998795
+
+105 (@manufacturer:y) 0.008434
+
+106 (@manufacturer:n) 0.991566
+
+107 (@merchant:y) 0.003614
+
+108 (@merchant:n) 0.996386
+
+109 (@shamrock:y) 0.003614
+
+110 (@shamrock:n) 0.996386
+
+111 (@rio:y) 0.004819
+
+112 (@rio:n) 0.995181
+
+113 (@midland:y) 0.004819
+
+114 (@midland:n) 0.995181
+
+115 (@terminated:y) 0.003614
+
+116 (@terminated:n) 0.996386
+
+117 (@pace:y) 0.006024
+
+118 (@pace:n) 0.993976
+
+119 (@informal:y) 0.004819
+
+120 (@informal:n) 0.995181
+
+121 (@basin:y) 0.006024
+
+122 (@basin:n) 0.993976
+
+123 (@depending:y) 0.014458
+
+124 (@depending:n) 0.985542
+
+125 (@expense:y) 0.004819
+
+126 (@expense:n) 0.995181
+
+127 (@alleged:y) 0.006024
+
+128 (@alleged:n) 0.993976
+
+129 (@fear:y) 0.007229
+
+130 (@fear:n) 0.992771
+
+131 (@expanding:y) 0.004819
+
+132 (@expanding:n) 0.995181
+
+133 (@container:y) 0.004819
+
+134 (@container:n) 0.995181
+
+135 (@goal:y) 0.006024
+
+136 (@goal:n) 0.993976
+
+137 (@halt:y) 0.003614
+
+138 (@halt:n) 0.996386
+
+139 (@tonnage:y) 0.012048
+
+140 (@tonnage:n) 0.987952
+
+141 (@conservative:y) 0.002410
+
+142 (@conservative:n) 0.997590
+
+143 (@moved:y) 0.006024
+
+144 (@moved:n) 0.993976
+
+145 (@pushed:y) 0.004819
+
+146 (@pushed:n) 0.995181
+
+147 (@thirds:y) 0.002410
+
+148 (@thirds:n) 0.997590
+
+149 (@complex:y) 0.002410
+
+150 (@complex:n) 0.997590
+
+151 (@core:y) 0.004819
+
+152 (@core:n) 0.995181
+
+153 (@strengthen:y) 0.009639
+
+154 (@strengthen:n) 0.990361
+
+155 (@refineries:y) 0.009639
+
+156 (@refineries:n) 0.990361
+
+157 (@rapid:y) 0.001205
+
+158 (@rapid:n) 0.998795
+
+159 (@smc:y) 0.002410
+
+160 (@smc:n) 0.997590
+
+161 (@meant:y) 0.004819
+
+162 (@meant:n) 0.995181
+
+163 (@involving:y) 0.008434
+
+164 (@involving:n) 0.991566
+
+165 (@peak:y) 0.007229
+
+166 (@peak:n) 0.992771
+
+167 (@ontario:y) 0.000000
+
+168 (@ontario:n) 1.000000
+
+169 (@conrac:y) 0.000000
+
+170 (@conrac:n) 1.000000
+
+171 (@honeywell:y) 0.001205
+
+172 (@honeywell:n) 0.998795
+
+173 (@executives:y) 0.009639
+
+174 (@executives:n) 0.990361
+
+175 (@forces:y) 0.000000
+
+176 (@forces:n) 1.000000
+
+177 (@club:y) 0.002410
+
+178 (@club:n) 0.997590
+
+179 (@dealing:y) 0.002410
+
+180 (@dealing:n) 0.997590
+
+181 (@turning:y) 0.004819
+
+182 (@turning:n) 0.995181
+
+183 (@uruguay:y) 0.000000
+
+184 (@uruguay:n) 1.000000
+
+185 (@mart:y) 0.002410
+
+186 (@mart:n) 0.997590
+
+187 (@covered:y) 0.008434
+
+188 (@covered:n) 0.991566
+
+189 (@destinations:y) 0.002410
+
+190 (@destinations:n) 0.997590
+
+191 (@lme:y) 0.001205
+
+192 (@lme:n) 0.998795
+
+193 (@deficiency:y) 0.004819
+
+194 (@deficiency:n) 0.995181
+
+195 (@dauster:y) 0.001205
+
+196 (@dauster:n) 0.998795
+
+197 (@showing:y) 0.003614
+
+198 (@showing:n) 0.996386
+
+199 (@entertainment:y) 0.003614
+
+200 (@entertainment:n) 0.996386
+
+201 (@expensive:y) 0.003614
+
+202 (@expensive:n) 0.996386
+
+203 (@faster:y) 0.006024
+
+204 (@faster:n) 0.993976
+
+205 (@propose:y) 0.001205
+
+206 (@propose:n) 0.998795
+
+207 (@requires:y) 0.007229
+
+208 (@requires:n) 0.992771
+
+209 (@jersey:y) 0.003614
+
+210 (@jersey:n) 0.996386
+
+211 (@warrant:y) 0.004819
+
+212 (@warrant:n) 0.995181
+
+213 (@poehl:y) 0.001205
+
+214 (@poehl:n) 0.998795
+
+215 (@est:y) 0.004819
+
+216 (@est:n) 0.995181
+
+217 (@join:y) 0.004819
+
+218 (@join:n) 0.995181
+
+219 (@rapeseed:y) 0.009639
+
+220 (@rapeseed:n) 0.990361
+
+221 (@orange:y) 0.003614
+
+222 (@orange:n) 0.996386
+
+223 (@returned:y) 0.008434
+
+224 (@returned:n) 0.991566
+
+225 (@sumitomo:y) 0.000000
+
+226 (@sumitomo:n) 1.000000
+
+227 (@alcan:y) 0.002410
+
+228 (@alcan:n) 0.997590
+
+229 (@calculated:y) 0.003614
+
+230 (@calculated:n) 0.996386
+
+231 (@salomon:y) 0.002410
+
+232 (@salomon:n) 0.997590
+
+233 (@pioneer:y) 0.002410
+
+234 (@pioneer:n) 0.997590
+
+235 (@wagner:y) 0.001205
+
+236 (@wagner:n) 0.998795
+
+237 (@match:y) 0.007229
+
+238 (@match:n) 0.992771
+
+239 (@smelter:y) 0.003614
+
+240 (@smelter:n) 0.996386
+
+241 (@saudis:y) 0.001205
+
+242 (@saudis:n) 0.998795
+
+243 (@achieved:y) 0.010843
+
+244 (@achieved:n) 0.989157
+
+245 (@renault:y) 0.004819
+
+246 (@renault:n) 0.995181
+
+247 (@van:y) 0.001205
+
+248 (@van:n) 0.998795
+
+249 (@spread:y) 0.004819
+
+250 (@spread:n) 0.995181
+
+251 (@bally:y) 0.001205
+
+252 (@bally:n) 0.998795
+
+253 (@deficits:y) 0.007229
+
+254 (@deficits:n) 0.992771
+
+255 (@requested:y) 0.006024
+
+256 (@requested:n) 0.993976
+
+257 (@utility:y) 0.006024
+
+258 (@utility:n) 0.993976
+
+259 (@ban:y) 0.002410
+
+260 (@ban:n) 0.997590
+
+261 (@bolivia:y) 0.001205
+
+262 (@bolivia:n) 0.998795
+
+263 (@mill:y) 0.004819
+
+264 (@mill:n) 0.995181
+
+265 (@wait:y) 0.004819
+
+266 (@wait:n) 0.995181
+
+267 (@retaliate:y) 0.002410
+
+268 (@retaliate:n) 0.997590
+
+269 (@book:y) 0.006024
+
+270 (@book:n) 0.993976
+
+271 (@charged:y) 0.004819
+
+272 (@charged:n) 0.995181
+
+273 (@interstate:y) 0.002410
+
+274 (@interstate:n) 0.997590
+
+275 (@annually:y) 0.006024
+
+276 (@annually:n) 0.993976
+
+277 (@manhattan:y) 0.003614
+
+278 (@manhattan:n) 0.996386
+
+279 (@represented:y) 0.010843
+
+280 (@represented:n) 0.989157
+
+281 (@intermediate:y) 0.003614
+
+282 (@intermediate:n) 0.996386
+
+283 (@refiners:y) 0.010843
+
+284 (@refiners:n) 0.989157
+
+285 (@appreciation:y) 0.003614
+
+286 (@appreciation:n) 0.996386
+
+287 (@gained:y) 0.003614
+
+288 (@gained:n) 0.996386
+
+289 (@funding:y) 0.003614
+
+290 (@funding:n) 0.996386
+
+291 (@begun:y) 0.012048
+
+292 (@begun:n) 0.987952
+
+293 (@pesch:y) 0.004819
+
+294 (@pesch:n) 0.995181
+
+295 (@texaco:y) 0.001205
+
+296 (@texaco:n) 0.998795
+
+297 (@improving:y) 0.003614
+
+298 (@improving:n) 0.996386
+
+299 (@counter:y) 0.003614
+
+300 (@counter:n) 0.996386
+
+301 (@hostile:y) 0.003614
+
+302 (@hostile:n) 0.996386
+
+303 (@expires:y) 0.009639
+
+304 (@expires:n) 0.990361
+
+305 (@advance:y) 0.004819
+
+306 (@advance:n) 0.995181
+
+307 (@obtain:y) 0.008434
+
+308 (@obtain:n) 0.991566
+
+309 (@eventually:y) 0.008434
+
+310 (@eventually:n) 0.991566
+
+311 (@industrialised:y) 0.004819
+
+312 (@industrialised:n) 0.995181
+
+313 (@nearby:y) 0.007229
+
+314 (@nearby:n) 0.992771
+
+315 (@utilities:y) 0.003614
+
+316 (@utilities:n) 0.996386
+
+317 (@body:y) 0.002410
+
+318 (@body:n) 0.997590
+
+319 (@bear:y) 0.004819
+
+320 (@bear:n) 0.995181
+
+321 (@cereals:y) 0.004819
+
+322 (@cereals:n) 0.995181
+
+323 (@levy:y) 0.004819
+
+324 (@levy:n) 0.995181
+
+325 (@george:y) 0.007229
+
+326 (@george:n) 0.992771
+
+327 (@woolworth:y) 0.002410
+
+328 (@woolworth:n) 0.997590
+
+329 (@apply:y) 0.004819
+
+330 (@apply:n) 0.995181
+
+331 (@hand:y) 0.006024
+
+332 (@hand:n) 0.993976
+
+333 (@fears:y) 0.004819
+
+334 (@fears:n) 0.995181
+
+335 (@operated:y) 0.008434
+
+336 (@operated:n) 0.991566
+
+337 (@tenders:y) 0.004819
+
+338 (@tenders:n) 0.995181
+
+339 (@ensure:y) 0.006024
+
+340 (@ensure:n) 0.993976
+
+341 (@fluctuations:y) 0.003614
+
+342 (@fluctuations:n) 0.996386
+
+343 (@grounds:y) 0.004819
+
+344 (@grounds:n) 0.995181
+
+345 (@sulphur:y) 0.004819
+
+346 (@sulphur:n) 0.995181
+
+347 (@bhp:y) 0.004819
+
+348 (@bhp:n) 0.995181
+
+349 (@demands:y) 0.001205
+
+350 (@demands:n) 0.998795
+
+351 (@exchanges:y) 0.007229
+
+352 (@exchanges:n) 0.992771
+
+353 (@evidence:y) 0.006024
+
+354 (@evidence:n) 0.993976
+
+355 (@pounds:y) 0.000000
+
+356 (@pounds:n) 1.000000
+
+357 (@exporter:y) 0.007229
+
+358 (@exporter:n) 0.992771
+
+359 (@rainbow:y) 0.001205
+
+360 (@rainbow:n) 0.998795
+
+361 (@drain:y) 0.002410
+
+362 (@drain:n) 0.997590
+
+363 (@afg:y) 0.000000
+
+364 (@afg:n) 1.000000
+
+365 (@sept:y) 0.000000
+
+366 (@sept:n) 1.000000
+
+367 (@advantage:y) 0.007229
+
+368 (@advantage:n) 0.992771
+
+369 (@loading:y) 0.004819
+
+370 (@loading:n) 0.995181
+
+371 (@usx:y) 0.000000
+
+372 (@usx:n) 1.000000
+
+373 (@elaborate:y) 0.010843
+
+374 (@elaborate:n) 0.989157
+
+375 (@replace:y) 0.008434
+
+376 (@replace:n) 0.991566
+
+377 (@damaged:y) 0.006024
+
+378 (@damaged:n) 0.993976
+
+379 (@software:y) 0.008434
+
+380 (@software:n) 0.991566
+
+381 (@retain:y) 0.007229
+
+382 (@retain:n) 0.992771
+
+383 (@sachs:y) 0.003614
+
+384 (@sachs:n) 0.996386
+
+385 (@vessel:y) 0.000000
+
+386 (@vessel:n) 1.000000
+
+387 (@feel:y) 0.001205
+
+388 (@feel:n) 0.998795
+
+389 (@attractive:y) 0.002410
+
+390 (@attractive:n) 0.997590
+
+391 (@williams:y) 0.003614
+
+392 (@williams:n) 0.996386
+
+393 (@feedgrains:y) 0.003614
+
+394 (@feedgrains:n) 0.996386
+
+395 (@martin:y) 0.006024
+
+396 (@martin:n) 0.993976
+
+397 (@diamond:y) 0.002410
+
+398 (@diamond:n) 0.997590
+
+399 (@tough:y) 0.004819
+
+400 (@tough:n) 0.995181
+
+401 (@reaction:y) 0.003614
+
+402 (@reaction:n) 0.996386
+
+403 (@fundamentals:y) 0.002410
+
+404 (@fundamentals:n) 0.997590
+
+405 (@newmont:y) 0.002410
+
+406 (@newmont:n) 0.997590
+
+407 (@widely:y) 0.002410
+
+408 (@widely:n) 0.997590
+
+409 (@books:y) 0.001205
+
+410 (@books:n) 0.998795
+
+411 (@tonight:y) 0.004819
+
+412 (@tonight:n) 0.995181
+
+413 (@stressed:y) 0.009639
+
+414 (@stressed:n) 0.990361
+
+415 (@ventures:y) 0.007229
+
+416 (@ventures:n) 0.992771
+
+417 (@restaurants:y) 0.002410
+
+418 (@restaurants:n) 0.997590
+
+419 (@concerns:y) 0.006024
+
+420 (@concerns:n) 0.993976
+
+421 (@recommendation:y) 0.003614
+
+422 (@recommendation:n) 0.996386
+
+423 (@managing:y) 0.009639
+
+424 (@managing:n) 0.990361
+
+425 (@introduction:y) 0.009639
+
+426 (@introduction:n) 0.990361
+
+427 (@kind:y) 0.003614
+
+428 (@kind:n) 0.996386
+
+429 (@api:y) 0.009639
+
+430 (@api:n) 0.990361
+
+431 (@million:y) 0.006024
+
+432 (@million:n) 0.993976
+
+433 (@affecting:y) 0.002410
+
+434 (@affecting:n) 0.997590
+
+435 (@indicator:y) 0.002410
+
+436 (@indicator:n) 0.997590
+
+437 (@studying:y) 0.006024
+
+438 (@studying:n) 0.993976
+
+439 (@switzerland:y) 0.006024
+
+440 (@switzerland:n) 0.993976
+
+441 (@black:y) 0.003614
+
+442 (@black:n) 0.996386
+
+443 (@tea:y) 0.008434
+
+444 (@tea:n) 0.991566
+
+445 (@boosted:y) 0.004819
+
+446 (@boosted:n) 0.995181
+
+447 (@aim:y) 0.006024
+
+448 (@aim:n) 0.993976
+
+449 (@card:y) 0.003614
+
+450 (@card:n) 0.996386
+
+451 (@center:y) 0.002410
+
+452 (@center:n) 0.997590
+
+453 (@zambia:y) 0.000000
+
+454 (@zambia:n) 1.000000
+
+455 (@remove:y) 0.006024
+
+456 (@remove:n) 0.993976
+
+457 (@gaf:y) 0.000000
+
+458 (@gaf:n) 1.000000
+
+459 (@radio:y) 0.004819
+
+460 (@radio:n) 0.995181
+
+461 (@fujitsu:y) 0.000000
+
+462 (@fujitsu:n) 1.000000
+
+463 (@shut:y) 0.004819
+
+464 (@shut:n) 0.995181
+
+465 (@registrations:y) 0.001205
+
+466 (@registrations:n) 0.998795
+
+467 (@aluminum:y) 0.004819
+
+468 (@aluminum:n) 0.995181
+
+469 (@kilo:y) 0.006024
+
+470 (@kilo:n) 0.993976
+
+471 (@valley:y) 0.004819
+
+472 (@valley:n) 0.995181
+
+473 (@initially:y) 0.004819
+
+474 (@initially:n) 0.995181
+
+475 (@extent:y) 0.016867
+
+476 (@extent:n) 0.983133
+
+477 (@preference:y) 0.003614
+
+478 (@preference:n) 0.996386
+
+479 (@justice:y) 0.006024
+
+480 (@justice:n) 0.993976
+
+481 (@stay:y) 0.010843
+
+482 (@stay:n) 0.989157
+
+483 (@earn:y) 0.006024
+
+484 (@earn:n) 0.993976
+
+485 (@uncertainty:y) 0.001205
+
+486 (@uncertainty:n) 0.998795
+
+487 (@iowa:y) 0.004819
+
+488 (@iowa:n) 0.995181
+
+489 (@applications:y) 0.007229
+
+490 (@applications:n) 0.992771
+
+491 (@primarily:y) 0.008434
+
+492 (@primarily:n) 0.991566
+
+493 (@tariff:y) 0.002410
+
+494 (@tariff:n) 0.997590
+
+495 (@province:y) 0.004819
+
+496 (@province:n) 0.995181
+
+497 (@tool:y) 0.002410
+
+498 (@tool:n) 0.997590
+
+499 (@korean:y) 0.004819
+
+500 (@korean:n) 0.995181
+
+501 (@louisiana:y) 0.003614
+
+502 (@louisiana:n) 0.996386
+
+503 (@amendment:y) 0.003614
+
+504 (@amendment:n) 0.996386
+
+505 (@jardine:y) 0.002410
+
+506 (@jardine:n) 0.997590
+
+507 (@kilos:y) 0.013253
+
+508 (@kilos:n) 0.986747
+
+509 (@dow:y) 0.000000
+
+510 (@dow:n) 1.000000
+
+511 (@jointly:y) 0.010843
+
+512 (@jointly:n) 0.989157
+
+513 (@social:y) 0.009639
+
+514 (@social:n) 0.990361
+
+515 (@retained:y) 0.006024
+
+516 (@retained:n) 0.993976
+
+517 (@aerospace:y) 0.001205
+
+518 (@aerospace:n) 0.998795
+
+519 (@michigan:y) 0.001205
+
+520 (@michigan:n) 0.998795
+
+521 (@lack:y) 0.004819
+
+522 (@lack:n) 0.995181
+
+523 (@opportunities:y) 0.006024
+
+524 (@opportunities:n) 0.993976
+
+525 (@incentives:y) 0.004819
+
+526 (@incentives:n) 0.995181
+
+527 (@nuclear:y) 0.002410
+
+528 (@nuclear:n) 0.997590
+
+529 (@increasingly:y) 0.006024
+
+530 (@increasingly:n) 0.993976
+
+531 (@unadjusted:y) 0.009639
+
+532 (@unadjusted:n) 0.990361
+
+533 (@commenting:y) 0.006024
+
+534 (@commenting:n) 0.993976
+
+535 (@encouraging:y) 0.003614
+
+536 (@encouraging:n) 0.996386
+
+537 (@focus:y) 0.003614
+
+538 (@focus:n) 0.996386
+
+539 (@tankers:y) 0.004819
+
+540 (@tankers:n) 0.995181
+
+541 (@reynolds:y) 0.002410
+
+542 (@reynolds:n) 0.997590
+
+543 (@norway:y) 0.002410
+
+544 (@norway:n) 0.997590
+
+545 (@reference:y) 0.002410
+
+546 (@reference:n) 0.997590
+
+547 (@disposal:y) 0.004819
+
+548 (@disposal:n) 0.995181
+
+549 (@recommended:y) 0.003614
+
+550 (@recommended:n) 0.996386
+
+551 (@severe:y) 0.008434
+
+552 (@severe:n) 0.991566
+
+553 (@foster:y) 0.002410
+
+554 (@foster:n) 0.997590
+
+555 (@strikes:y) 0.006024
+
+556 (@strikes:n) 0.993976
+
+557 (@lease:y) 0.001205
+
+558 (@lease:n) 0.998795
+
+559 (@exercise:y) 0.002410
+
+560 (@exercise:n) 0.997590
+
+561 (@plantings:y) 0.004819
+
+562 (@plantings:n) 0.995181
+
+563 (@noranda:y) 0.000000
+
+564 (@noranda:n) 1.000000
+
+565 (@votes:y) 0.003614
+
+566 (@votes:n) 0.996386
+
+567 (@recover:y) 0.003614
+
+568 (@recover:n) 0.996386
+
+569 (@businessmen:y) 0.006024
+
+570 (@businessmen:n) 0.993976
+
+571 (@obligations:y) 0.013253
+
+572 (@obligations:n) 0.986747
+
+573 (@faced:y) 0.006024
+
+574 (@faced:n) 0.993976
+
+575 (@intention:y) 0.002410
+
+576 (@intention:n) 0.997590
+
+577 (@expanded:y) 0.008434
+
+578 (@expanded:n) 0.991566
+
+579 (@heating:y) 0.003614
+
+580 (@heating:n) 0.996386
+
+581 (@ibc:y) 0.001205
+
+582 (@ibc:n) 0.998795
+
+583 (@livestock:y) 0.004819
+
+584 (@livestock:n) 0.995181
+
+585 (@calif:y) 0.009639
+
+586 (@calif:n) 0.990361
+
+587 (@subordinated:y) 0.006024
+
+588 (@subordinated:n) 0.993976
+
+589 (@protectionism:y) 0.009639
+
+590 (@protectionism:n) 0.990361
+
+591 (@idea:y) 0.008434
+
+592 (@idea:n) 0.991566
+
+593 (@internal:y) 0.010843
+
+594 (@internal:n) 0.989157
+
+595 (@delay:y) 0.002410
+
+596 (@delay:n) 0.997590
+
+597 (@applied:y) 0.008434
+
+598 (@applied:n) 0.991566
+
+599 (@southwest:y) 0.004819
+
+600 (@southwest:n) 0.995181
+
+601 (@supported:y) 0.003614
+
+602 (@supported:n) 0.996386
+
+603 (@miguel:y) 0.009639
+
+604 (@miguel:n) 0.990361
+
+605 (@regulations:y) 0.009639
+
+606 (@regulations:n) 0.990361
+
+607 (@seasonal:y) 0.004819
+
+608 (@seasonal:n) 0.995181
+
+609 (@ringgit:y) 0.007229
+
+610 (@ringgit:n) 0.992771
+
+611 (@bushel:y) 0.002410
+
+612 (@bushel:n) 0.997590
+
+613 (@chase:y) 0.003614
+
+614 (@chase:n) 0.996386
+
+615 (@defence:y) 0.002410
+
+616 (@defence:n) 0.997590
+
+617 (@circumstances:y) 0.012048
+
+618 (@circumstances:n) 0.987952
+
+619 (@workforce:y) 0.010843
+
+620 (@workforce:n) 0.989157
+
+621 (@connection:y) 0.006024
+
+622 (@connection:n) 0.993976
+
+623 (@reasonable:y) 0.010843
+
+624 (@reasonable:n) 0.989157
+
+625 (@station:y) 0.002410
+
+626 (@station:n) 0.997590
+
+627 (@combination:y) 0.008434
+
+628 (@combination:n) 0.991566
+
+629 (@approvals:y) 0.006024
+
+630 (@approvals:n) 0.993976
+
+631 (@merged:y) 0.006024
+
+632 (@merged:n) 0.993976
+
+633 (@decisions:y) 0.009639
+
+634 (@decisions:n) 0.990361
+
+635 (@carried:y) 0.014458
+
+636 (@carried:n) 0.985542
+
+637 (@ups:y) 0.001205
+
+638 (@ups:n) 0.998795
+
+639 (@lift:y) 0.002410
+
+640 (@lift:n) 0.997590
+
+641 (@downward:y) 0.003614
+
+642 (@downward:n) 0.996386
+
+643 (@auto:y) 0.003614
+
+644 (@auto:n) 0.996386
+
+645 (@providing:y) 0.006024
+
+646 (@providing:n) 0.993976
+
+647 (@protest:y) 0.006024
+
+648 (@protest:n) 0.993976
+
+649 (@debts:y) 0.007229
+
+650 (@debts:n) 0.992771
+
+651 (@argentina:y) 0.001205
+
+652 (@argentina:n) 0.998795
+
+653 (@comdata:y) 0.001205
+
+654 (@comdata:n) 0.998795
+
+655 (@lloyds:y) 0.001205
+
+656 (@lloyds:n) 0.998795
+
+657 (@enable:y) 0.004819
+
+658 (@enable:n) 0.995181
+
+659 (@bidding:y) 0.006024
+
+660 (@bidding:n) 0.993976
+
+661 (@awarded:y) 0.006024
+
+662 (@awarded:n) 0.993976
+
+663 (@asian:y) 0.004819
+
+664 (@asian:n) 0.995181
+
+665 (@representing:y) 0.004819
+
+666 (@representing:n) 0.995181
+
+667 (@adjustments:y) 0.008434
+
+668 (@adjustments:n) 0.991566
+
+669 (@proceed:y) 0.003614
+
+670 (@proceed:n) 0.996386
+
+671 (@hotel:y) 0.003614
+
+672 (@hotel:n) 0.996386
+
+673 (@mutual:y) 0.008434
+
+674 (@mutual:n) 0.991566
+
+675 (@brings:y) 0.008434
+
+676 (@brings:n) 0.991566
+
+677 (@telecom:y) 0.002410
+
+678 (@telecom:n) 0.997590
+
+679 (@voted:y) 0.002410
+
+680 (@voted:n) 0.997590
+
+681 (@initiative:y) 0.004819
+
+682 (@initiative:n) 0.995181
+
+683 (@bay:y) 0.006024
+
+684 (@bay:n) 0.993976
+
+685 (@aviation:y) 0.008434
+
+686 (@aviation:n) 0.991566
+
+687 (@portfolio:y) 0.006024
+
+688 (@portfolio:n) 0.993976
+
+689 (@eased:y) 0.008434
+
+690 (@eased:n) 0.991566
+
+691 (@guarantee:y) 0.007229
+
+692 (@guarantee:n) 0.992771
+
+693 (@deals:y) 0.002410
+
+694 (@deals:n) 0.997590
+
+695 (@waiting:y) 0.003614
+
+696 (@waiting:n) 0.996386
+
+697 (@traffic:y) 0.002410
+
+698 (@traffic:n) 0.997590
+
+699 (@resume:y) 0.006024
+
+700 (@resume:n) 0.993976
+
+701 (@interim:y) 0.000000
+
+702 (@interim:n) 1.000000
+
+703 (@traditional:y) 0.003614
+
+704 (@traditional:n) 0.996386
+
+705 (@drug:y) 0.007229
+
+706 (@drug:n) 0.992771
+
+707 (@chancellor:y) 0.004819
+
+708 (@chancellor:n) 0.995181
+
+709 (@shows:y) 0.002410
+
+710 (@shows:n) 0.997590
+
+711 (@establish:y) 0.001205
+
+712 (@establish:n) 0.998795
+
+713 (@protect:y) 0.004819
+
+714 (@protect:n) 0.995181
+
+715 (@opportunity:y) 0.007229
+
+716 (@opportunity:n) 0.992771
+
+717 (@reverse:y) 0.002410
+
+718 (@reverse:n) 0.997590
+
+719 (@hearing:y) 0.006024
+
+720 (@hearing:n) 0.993976
+
+721 (@totalling:y) 0.006024
+
+722 (@totalling:n) 0.993976
+
+723 (@technologies:y) 0.001205
+
+724 (@technologies:n) 0.998795
+
+725 (@belgium:y) 0.016867
+
+726 (@belgium:n) 0.983133
+
+727 (@iron:y) 0.008434
+
+728 (@iron:n) 0.991566
+
+729 (@kansas:y) 0.003614
+
+730 (@kansas:n) 0.996386
+
+731 (@rebate:y) 0.018072
+
+732 (@rebate:n) 0.981928
+
+733 (@rain:y) 0.007229
+
+734 (@rain:n) 0.992771
+
+735 (@passed:y) 0.006024
+
+736 (@passed:n) 0.993976
+
+737 (@double:y) 0.008434
+
+738 (@double:n) 0.991566
+
+739 (@unions:y) 0.001205
+
+740 (@unions:n) 0.998795
+
+741 (@branch:y) 0.007229
+
+742 (@branch:n) 0.992771
+
+743 (@intend:y) 0.013253
+
+744 (@intend:n) 0.986747
+
+745 (@coins:y) 0.002410
+
+746 (@coins:n) 0.997590
+
+747 (@recession:y) 0.001205
+
+748 (@recession:n) 0.998795
+
+749 (@flat:y) 0.004819
+
+750 (@flat:n) 0.995181
+
+751 (@fallen:y) 0.007229
+
+752 (@fallen:n) 0.992771
+
+753 (@algeria:y) 0.003614
+
+754 (@algeria:n) 0.996386
+
+755 (@refused:y) 0.006024
+
+756 (@refused:n) 0.993976
+
+757 (@allowing:y) 0.001205
+
+758 (@allowing:n) 0.998795
+
+759 (@established:y) 0.006024
+
+760 (@established:n) 0.993976
+
+761 (@mobil:y) 0.001205
+
+762 (@mobil:n) 0.998795
+
+763 (@reflects:y) 0.012048
+
+764 (@reflects:n) 0.987952
+
+765 (@matter:y) 0.003614
+
+766 (@matter:n) 0.996386
+
+767 (@moment:y) 0.007229
+
+768 (@moment:n) 0.992771
+
+769 (@attributed:y) 0.006024
+
+770 (@attributed:n) 0.993976
+
+771 (@covering:y) 0.003614
+
+772 (@covering:n) 0.996386
+
+773 (@extremely:y) 0.002410
+
+774 (@extremely:n) 0.997590
+
+775 (@pricing:y) 0.006024
+
+776 (@pricing:n) 0.993976
+
+777 (@noting:y) 0.004819
+
+778 (@noting:n) 0.995181
+
+779 (@opinion:y) 0.001205
+
+780 (@opinion:n) 0.998795
+
+781 (@managers:y) 0.008434
+
+782 (@managers:n) 0.991566
+
+783 (@movement:y) 0.008434
+
+784 (@movement:n) 0.991566
+
+785 (@labor:y) 0.001205
+
+786 (@labor:n) 0.998795
+
+787 (@motor:y) 0.002410
+
+788 (@motor:n) 0.997590
+
+789 (@ten:y) 0.003614
+
+790 (@ten:n) 0.996386
+
+791 (@qtrly:y) 0.000000
+
+792 (@qtrly:n) 1.000000
+
+793 (@curb:y) 0.004819
+
+794 (@curb:n) 0.995181
+
+795 (@reductions:y) 0.007229
+
+796 (@reductions:n) 0.992771
+
+797 (@disease:y) 0.002410
+
+798 (@disease:n) 0.997590
+
+799 (@difficulties:y) 0.007229
+
+800 (@difficulties:n) 0.992771
+
+801 (@shortly:y) 0.007229
+
+802 (@shortly:n) 0.992771
+
+803 (@grades:y) 0.008434
+
+804 (@grades:n) 0.991566
+
+805 (@acquiring:y) 0.009639
+
+806 (@acquiring:n) 0.990361
+
+807 (@direction:y) 0.010843
+
+808 (@direction:n) 0.989157
+
+809 (@status:y) 0.004819
+
+810 (@status:n) 0.995181
+
+811 (@list:y) 0.006024
+
+812 (@list:n) 0.993976
+
+813 (@creditors:y) 0.004819
+
+814 (@creditors:n) 0.995181
+
+815 (@reorganization:y) 0.003614
+
+816 (@reorganization:n) 0.996386
+
+817 (@stated:y) 0.008434
+
+818 (@stated:n) 0.991566
+
+819 (@angeles:y) 0.008434
+
+820 (@angeles:n) 0.991566
+
+821 (@carry:y) 0.010843
+
+822 (@carry:n) 0.989157
+
+823 (@fast:y) 0.002410
+
+824 (@fast:n) 0.997590
+
+825 (@competitiveness:y) 0.007229
+
+826 (@competitiveness:n) 0.992771
+
+827 (@pdvsa:y) 0.003614
+
+828 (@pdvsa:n) 0.996386
+
+829 (@specialty:y) 0.003614
+
+830 (@specialty:n) 0.996386
+
+831 (@shift:y) 0.004819
+
+832 (@shift:n) 0.995181
+
+833 (@icahn:y) 0.002410
+
+834 (@icahn:n) 0.997590
+
+835 (@decrease:y) 0.009639
+
+836 (@decrease:n) 0.990361
+
+837 (@citicorp:y) 0.000000
+
+838 (@citicorp:n) 1.000000
+
+839 (@rule:y) 0.010843
+
+840 (@rule:n) 0.989157
+
+841 (@cited:y) 0.009639
+
+842 (@cited:n) 0.990361
+
+843 (@weakness:y) 0.003614
+
+844 (@weakness:n) 0.996386
+
+845 (@identified:y) 0.013253
+
+846 (@identified:n) 0.986747
+
+847 (@profitability:y) 0.009639
+
+848 (@profitability:n) 0.990361
+
+849 (@coastal:y) 0.008434
+
+850 (@coastal:n) 0.991566
+
+851 (@threat:y) 0.007229
+
+852 (@threat:n) 0.992771
+
+853 (@satisfactory:y) 0.007229
+
+854 (@satisfactory:n) 0.992771
+
+855 (@dumping:y) 0.001205
+
+856 (@dumping:n) 0.998795
+
+857 (@aide:y) 0.003614
+
+858 (@aide:n) 0.996386
+
+859 (@cane:y) 0.006024
+
+860 (@cane:n) 0.993976
+
+861 (@deliveries:y) 0.006024
+
+862 (@deliveries:n) 0.993976
+
+863 (@turn:y) 0.008434
+
+864 (@turn:n) 0.991566
+
+865 (@dairy:y) 0.004819
+
+866 (@dairy:n) 0.995181
+
+867 (@military:y) 0.004819
+
+868 (@military:n) 0.995181
+
+869 (@harris:y) 0.002410
+
+870 (@harris:n) 0.997590
+
+871 (@zone:y) 0.001205
+
+872 (@zone:n) 0.998795
+
+873 (@appeared:y) 0.007229
+
+874 (@appeared:n) 0.992771
+
+875 (@rep:y) 0.004819
+
+876 (@rep:n) 0.995181
+
+877 (@panel:y) 0.004819
+
+878 (@panel:n) 0.995181
+
+879 (@beet:y) 0.004819
+
+880 (@beet:n) 0.995181
+
+881 (@ferruzzi:y) 0.004819
+
+882 (@ferruzzi:n) 0.995181
+
+883 (@fresh:y) 0.002410
+
+884 (@fresh:n) 0.997590
+
+885 (@los:y) 0.008434
+
+886 (@los:n) 0.991566
+
+887 (@petrobras:y) 0.001205
+
+888 (@petrobras:n) 0.998795
+
+889 (@banker:y) 0.007229
+
+890 (@banker:n) 0.992771
+
+891 (@committed:y) 0.012048
+
+892 (@committed:n) 0.987952
+
+893 (@structure:y) 0.004819
+
+894 (@structure:n) 0.995181
+
+895 (@florida:y) 0.004819
+
+896 (@florida:n) 0.995181
+
+897 (@adopted:y) 0.007229
+
+898 (@adopted:n) 0.992771
+
+899 (@portion:y) 0.014458
+
+900 (@portion:n) 0.985542
+
+901 (@published:y) 0.008434
+
+902 (@published:n) 0.991566
+
+903 (@hoped:y) 0.008434
+
+904 (@hoped:n) 0.991566
+
+905 (@wide:y) 0.006024
+
+906 (@wide:n) 0.993976
+
+907 (@cabinet:y) 0.004819
+
+908 (@cabinet:n) 0.995181
+
+909 (@cooperate:y) 0.007229
+
+910 (@cooperate:n) 0.992771
+
+911 (@bbl:y) 0.001205
+
+912 (@bbl:n) 0.998795
+
+913 (@modest:y) 0.002410
+
+914 (@modest:n) 0.997590
+
+915 (@differentials:y) 0.003614
+
+916 (@differentials:n) 0.996386
+
+917 (@room:y) 0.004819
+
+918 (@room:n) 0.995181
+
+919 (@herrington:y) 0.002410
+
+920 (@herrington:n) 0.997590
+
+921 (@fob:y) 0.000000
+
+922 (@fob:n) 1.000000
+
+923 (@republic:y) 0.014458
+
+924 (@republic:n) 0.985542
+
+925 (@original:y) 0.003614
+
+926 (@original:n) 0.996386
+
+927 (@pension:y) 0.006024
+
+928 (@pension:n) 0.993976
+
+929 (@circulation:y) 0.006024
+
+930 (@circulation:n) 0.993976
+
+931 (@upward:y) 0.008434
+
+932 (@upward:n) 0.991566
+
+933 (@moderate:y) 0.007229
+
+934 (@moderate:n) 0.992771
+
+935 (@enter:y) 0.008434
+
+936 (@enter:n) 0.991566
+
+937 (@talking:y) 0.008434
+
+938 (@talking:n) 0.991566
+
+939 (@renewed:y) 0.003614
+
+940 (@renewed:n) 0.996386
+
+941 (@ruled:y) 0.013253
+
+942 (@ruled:n) 0.986747
+
+943 (@ready:y) 0.004819
+
+944 (@ready:n) 0.995181
+
+945 (@semi:y) 0.003614
+
+946 (@semi:n) 0.996386
+
+947 (@congressional:y) 0.006024
+
+948 (@congressional:n) 0.993976
+
+949 (@indian:y) 0.008434
+
+950 (@indian:n) 0.991566
+
+951 (@william:y) 0.014458
+
+952 (@william:n) 0.985542
+
+953 (@contribution:y) 0.006024
+
+954 (@contribution:n) 0.993976
+
+955 (@miles:y) 0.014458
+
+956 (@miles:n) 0.985542
+
+957 (@barriers:y) 0.001205
+
+958 (@barriers:n) 0.998795
+
+959 (@advances:y) 0.002410
+
+960 (@advances:n) 0.997590
+
+961 (@components:y) 0.004819
+
+962 (@components:n) 0.995181
+
+963 (@confidence:y) 0.009639
+
+964 (@confidence:n) 0.990361
+
+965 (@achieve:y) 0.007229
+
+966 (@achieve:n) 0.992771
+
+967 (@refined:y) 0.004819
+
+968 (@refined:n) 0.995181
+
+969 (@partner:y) 0.008434
+
+970 (@partner:n) 0.991566
+
+971 (@possibly:y) 0.009639
+
+972 (@possibly:n) 0.990361
+
+973 (@narrow:y) 0.008434
+
+974 (@narrow:n) 0.991566
+
+975 (@strongly:y) 0.006024
+
+976 (@strongly:n) 0.993976
+
+977 (@extension:y) 0.007229
+
+978 (@extension:n) 0.992771
+
+979 (@shipped:y) 0.004819
+
+980 (@shipped:n) 0.995181
+
+981 (@exchequer:y) 0.003614
+
+982 (@exchequer:n) 0.996386
+
+983 (@risen:y) 0.007229
+
+984 (@risen:n) 0.992771
+
+985 (@care:y) 0.004819
+
+986 (@care:n) 0.995181
+
+987 (@gap:y) 0.021687
+
+988 (@gap:n) 0.978313
+
+989 (@latin:y) 0.004819
+
+990 (@latin:n) 0.995181
+
+991 (@ranges:y) 0.004819
+
+992 (@ranges:n) 0.995181
+
+993 (@philippine:y) 0.007229
+
+994 (@philippine:n) 0.992771
+
+995 (@resolve:y) 0.006024
+
+996 (@resolve:n) 0.993976
+
+997 (@bankruptcy:y) 0.004819
+
+998 (@bankruptcy:n) 0.995181
+
+999 (@seeks:y) 0.010843
+
+1000 (@seeks:n) 0.989157
+
+1001 (@netherlands:y) 0.014458
+
+1002 (@netherlands:n) 0.985542
+
+1003 (@emery:y) 0.003614
+
+1004 (@emery:n) 0.996386
+
+1005 (@bringing:y) 0.004819
+
+1006 (@bringing:n) 0.995181
+
+1007 (@atlantic:y) 0.007229
+
+1008 (@atlantic:n) 0.992771
+
+1009 (@conservation:y) 0.004819
+
+1010 (@conservation:n) 0.995181
+
+1011 (@develop:y) 0.012048
+
+1012 (@develop:n) 0.987952
+
+1013 (@stabilize:y) 0.006024
+
+1014 (@stabilize:n) 0.993976
+
+1015 (@makers:y) 0.003614
+
+1016 (@makers:n) 0.996386
+
+1017 (@sentiment:y) 0.002410
+
+1018 (@sentiment:n) 0.997590
+
+1019 (@stimulate:y) 0.007229
+
+1020 (@stimulate:n) 0.992771
+
+1021 (@inra:y) 0.003614
+
+1022 (@inra:n) 0.996386
+
+1023 (@threatened:y) 0.008434
+
+1024 (@threatened:n) 0.991566
+
+1025 (@leave:y) 0.003614
+
+1026 (@leave:n) 0.996386
+
+1027 (@progressive:y) 0.002410
+
+1028 (@progressive:n) 0.997590
+
+1029 (@highly:y) 0.007229
+
+1030 (@highly:n) 0.992771
+
+1031 (@denied:y) 0.013253
+
+1032 (@denied:n) 0.986747
+
+1033 (@lake:y) 0.002410
+
+1034 (@lake:n) 0.997590
+
+1035 (@hands:y) 0.004819
+
+1036 (@hands:n) 0.995181
+
+1037 (@imperial:y) 0.008434
+
+1038 (@imperial:n) 0.991566
+
+1039 (@approach:y) 0.004819
+
+1040 (@approach:n) 0.995181
+
+1041 (@offices:y) 0.009639
+
+1042 (@offices:n) 0.990361
+
+1043 (@mineral:y) 0.008434
+
+1044 (@mineral:n) 0.991566
+
+1045 (@scale:y) 0.003614
+
+1046 (@scale:n) 0.996386
+
+1047 (@pakistan:y) 0.002410
+
+1048 (@pakistan:n) 0.997590
+
+1049 (@separate:y) 0.013253
+
+1050 (@separate:n) 0.986747
+
+1051 (@success:y) 0.009639
+
+1052 (@success:n) 0.990361
+
+1053 (@affairs:y) 0.004819
+
+1054 (@affairs:n) 0.995181
+
+1055 (@turkish:y) 0.000000
+
+1056 (@turkish:n) 1.000000
+
+1057 (@highest:y) 0.007229
+
+1058 (@highest:n) 0.992771
+
+1059 (@suggested:y) 0.007229
+
+1060 (@suggested:n) 0.992771
+
+1061 (@commitments:y) 0.003614
+
+1062 (@commitments:n) 0.996386
+
+1063 (@parties:y) 0.009639
+
+1064 (@parties:n) 0.990361
+
+1065 (@live:y) 0.003614
+
+1066 (@live:n) 0.996386
+
+1067 (@signal:y) 0.002410
+
+1068 (@signal:n) 0.997590
+
+1069 (@impose:y) 0.000000
+
+1070 (@impose:n) 1.000000
+
+1071 (@cross:y) 0.003614
+
+1072 (@cross:n) 0.996386
+
+1073 (@formal:y) 0.010843
+
+1074 (@formal:n) 0.989157
+
+1075 (@scheme:y) 0.003614
+
+1076 (@scheme:n) 0.996386
+
+1077 (@tire:y) 0.003614
+
+1078 (@tire:n) 0.996386
+
+1079 (@actual:y) 0.007229
+
+1080 (@actual:n) 0.992771
+
+1081 (@federation:y) 0.009639
+
+1082 (@federation:n) 0.990361
+
+1083 (@exporting:y) 0.007229
+
+1084 (@exporting:n) 0.992771
+
+1085 (@contributed:y) 0.003614
+
+1086 (@contributed:n) 0.996386
+
+1087 (@certificate:y) 0.002410
+
+1088 (@certificate:n) 0.997590
+
+1089 (@write:y) 0.003614
+
+1090 (@write:n) 0.996386
+
+1091 (@asia:y) 0.004819
+
+1092 (@asia:n) 0.995181
+
+1093 (@trader:y) 0.006024
+
+1094 (@trader:n) 0.993976
+
+1095 (@movements:y) 0.006024
+
+1096 (@movements:n) 0.993976
+
+1097 (@premium:y) 0.009639
+
+1098 (@premium:n) 0.990361
+
+1099 (@expire:y) 0.004819
+
+1100 (@expire:n) 0.995181
+
+1101 (@determine:y) 0.007229
+
+1102 (@determine:n) 0.992771
+
+1103 (@declining:y) 0.012048
+
+1104 (@declining:n) 0.987952
+
+1105 (@extend:y) 0.010843
+
+1106 (@extend:n) 0.989157
+
+1107 (@emergency:y) 0.012048
+
+1108 (@emergency:n) 0.987952
+
+1109 (@nominal:y) 0.007229
+
+1110 (@nominal:n) 0.992771
+
+1111 (@setting:y) 0.006024
+
+1112 (@setting:n) 0.993976
+
+1113 (@shortfall:y) 0.003614
+
+1114 (@shortfall:n) 0.996386
+
+1115 (@machinery:y) 0.016867
+
+1116 (@machinery:n) 0.983133
+
+1117 (@closely:y) 0.007229
+
+1118 (@closely:n) 0.992771
+
+1119 (@appears:y) 0.006024
+
+1120 (@appears:n) 0.993976
+
+1121 (@cold:y) 0.007229
+
+1122 (@cold:n) 0.992771
+
+1123 (@size:y) 0.001205
+
+1124 (@size:n) 0.998795
+
+1125 (@invest:y) 0.007229
+
+1126 (@invest:n) 0.992771
+
+1127 (@pressures:y) 0.003614
+
+1128 (@pressures:n) 0.996386
+
+1129 (@missiles:y) 0.006024
+
+1130 (@missiles:n) 0.993976
+
+1131 (@duties:y) 0.000000
+
+1132 (@duties:n) 1.000000
+
+1133 (@developed:y) 0.009639
+
+1134 (@developed:n) 0.990361
+
+1135 (@sides:y) 0.006024
+
+1136 (@sides:n) 0.993976
+
+1137 (@stronger:y) 0.006024
+
+1138 (@stronger:n) 0.993976
+
+1139 (@starts:y) 0.009639
+
+1140 (@starts:n) 0.990361
+
+1141 (@running:y) 0.008434
+
+1142 (@running:n) 0.991566
+
+1143 (@alternatives:y) 0.008434
+
+1144 (@alternatives:n) 0.991566
+
+1145 (@operates:y) 0.006024
+
+1146 (@operates:n) 0.993976
+
+1147 (@diplomats:y) 0.003614
+
+1148 (@diplomats:n) 0.996386
+
+1149 (@hurt:y) 0.004819
+
+1150 (@hurt:n) 0.995181
+
+1151 (@commitment:y) 0.008434
+
+1152 (@commitment:n) 0.991566
+
+1153 (@balances:y) 0.004819
+
+1154 (@balances:n) 0.995181
+
+1155 (@fats:y) 0.008434
+
+1156 (@fats:n) 0.991566
+
+1157 (@create:y) 0.013253
+
+1158 (@create:n) 0.986747
+
+1159 (@egypt:y) 0.002410
+
+1160 (@egypt:n) 0.997590
+
+1161 (@dart:y) 0.000000
+
+1162 (@dart:n) 1.000000
+
+1163 (@side:y) 0.003614
+
+1164 (@side:n) 0.996386
+
+1165 (@stand:y) 0.007229
+
+1166 (@stand:n) 0.992771
+
+1167 (@spanish:y) 0.003614
+
+1168 (@spanish:n) 0.996386
+
+1169 (@stabilise:y) 0.006024
+
+1170 (@stabilise:n) 0.993976
+
+1171 (@amstutz:y) 0.004819
+
+1172 (@amstutz:n) 0.995181
+
+1173 (@marine:y) 0.002410
+
+1174 (@marine:n) 0.997590
+
+1175 (@buyer:y) 0.004819
+
+1176 (@buyer:n) 0.995181
+
+1177 (@spokeswoman:y) 0.009639
+
+1178 (@spokeswoman:n) 0.990361
+
+1179 (@thai:y) 0.007229
+
+1180 (@thai:n) 0.992771
+
+1181 (@regional:y) 0.004819
+
+1182 (@regional:n) 0.995181
+
+1183 (@fair:y) 0.007229
+
+1184 (@fair:n) 0.992771
+
+1185 (@bass:y) 0.006024
+
+1186 (@bass:n) 0.993976
+
+1187 (@quarters:y) 0.007229
+
+1188 (@quarters:n) 0.992771
+
+1189 (@follow:y) 0.003614
+
+1190 (@follow:n) 0.996386
+
+1191 (@rumors:y) 0.008434
+
+1192 (@rumors:n) 0.991566
+
+1193 (@talk:y) 0.006024
+
+1194 (@talk:n) 0.993976
+
+1195 (@speech:y) 0.007229
+
+1196 (@speech:n) 0.992771
+
+1197 (@italian:y) 0.003614
+
+1198 (@italian:n) 0.996386
+
+1199 (@declines:y) 0.008434
+
+1200 (@declines:n) 0.991566
+
+1201 (@enhancement:y) 0.002410
+
+1202 (@enhancement:n) 0.997590
+
+1203 (@compromise:y) 0.002410
+
+1204 (@compromise:n) 0.997590
+
+1205 (@opposition:y) 0.007229
+
+1206 (@opposition:n) 0.992771
+
+1207 (@effects:y) 0.008434
+
+1208 (@effects:n) 0.991566
+
+1209 (@opposed:y) 0.013253
+
+1210 (@opposed:n) 0.986747
+
+1211 (@decide:y) 0.012048
+
+1212 (@decide:n) 0.987952
+
+1213 (@michael:y) 0.007229
+
+1214 (@michael:n) 0.992771
+
+1215 (@foods:y) 0.006024
+
+1216 (@foods:n) 0.993976
+
+1217 (@represents:y) 0.009639
+
+1218 (@represents:n) 0.990361
+
+1219 (@sorghum:y) 0.002410
+
+1220 (@sorghum:n) 0.997590
+
+1221 (@practices:y) 0.002410
+
+1222 (@practices:n) 0.997590
+
+1223 (@argentine:y) 0.001205
+
+1224 (@argentine:n) 0.998795
+
+1225 (@technical:y) 0.008434
+
+1226 (@technical:n) 0.991566
+
+1227 (@principal:y) 0.015663
+
+1228 (@principal:n) 0.984337
+
+1229 (@launched:y) 0.009639
+
+1230 (@launched:n) 0.990361
+
+1231 (@surpluses:y) 0.003614
+
+1232 (@surpluses:n) 0.996386
+
+1233 (@minority:y) 0.009639
+
+1234 (@minority:n) 0.990361
+
+1235 (@viacom:y) 0.002410
+
+1236 (@viacom:n) 0.997590
+
+1237 (@intervened:y) 0.000000
+
+1238 (@intervened:n) 1.000000
+
+1239 (@brokers:y) 0.007229
+
+1240 (@brokers:n) 0.992771
+
+1241 (@statements:y) 0.001205
+
+1242 (@statements:n) 0.998795
+
+1243 (@broadcasting:y) 0.015663
+
+1244 (@broadcasting:n) 0.984337
+
+1245 (@lowest:y) 0.006024
+
+1246 (@lowest:n) 0.993976
+
+1247 (@economies:y) 0.006024
+
+1248 (@economies:n) 0.993976
+
+1249 (@thought:y) 0.004819
+
+1250 (@thought:n) 0.995181
+
+1251 (@merrill:y) 0.003614
+
+1252 (@merrill:n) 0.996386
+
+1253 (@wage:y) 0.004819
+
+1254 (@wage:n) 0.995181
+
+1255 (@bell:y) 0.004819
+
+1256 (@bell:n) 0.995181
+
+1257 (@houston:y) 0.006024
+
+1258 (@houston:n) 0.993976
+
+1259 (@terminal:y) 0.004819
+
+1260 (@terminal:n) 0.995181
+
+1261 (@tendered:y) 0.006024
+
+1262 (@tendered:n) 0.993976
+
+1263 (@participation:y) 0.010843
+
+1264 (@participation:n) 0.989157
+
+1265 (@limits:y) 0.007229
+
+1266 (@limits:n) 0.992771
+
+1267 (@sweden:y) 0.009639
+
+1268 (@sweden:n) 0.990361
+
+1269 (@ability:y) 0.010843
+
+1270 (@ability:n) 0.989157
+
+1271 (@housing:y) 0.015663
+
+1272 (@housing:n) 0.984337
+
+1273 (@affiliate:y) 0.008434
+
+1274 (@affiliate:n) 0.991566
+
+1275 (@material:y) 0.013253
+
+1276 (@material:n) 0.986747
+
+1277 (@acquires:y) 0.003614
+
+1278 (@acquires:n) 0.996386
+
+1279 (@optimistic:y) 0.014458
+
+1280 (@optimistic:n) 0.985542
+
+1281 (@break:y) 0.007229
+
+1282 (@break:n) 0.992771
+
+1283 (@active:y) 0.013253
+
+1284 (@active:n) 0.986747
+
+1285 (@debate:y) 0.009639
+
+1286 (@debate:n) 0.990361
+
+1287 (@soviets:y) 0.003614
+
+1288 (@soviets:n) 0.996386
+
+1289 (@protection:y) 0.004819
+
+1290 (@protection:n) 0.995181
+
+1291 (@positions:y) 0.015663
+
+1292 (@positions:n) 0.984337
+
+1293 (@lynch:y) 0.004819
+
+1294 (@lynch:n) 0.995181
+
+1295 (@introduced:y) 0.010843
+
+1296 (@introduced:n) 0.989157
+
+1297 (@licences:y) 0.019277
+
+1298 (@licences:n) 0.980723
+
+1299 (@determined:y) 0.008434
+
+1300 (@determined:n) 0.991566
+
+1301 (@depreciation:y) 0.006024
+
+1302 (@depreciation:n) 0.993976
+
+1303 (@depressed:y) 0.004819
+
+1304 (@depressed:n) 0.995181
+
+1305 (@strategic:y) 0.006024
+
+1306 (@strategic:n) 0.993976
+
+1307 (@philippines:y) 0.019277
+
+1308 (@philippines:n) 0.980723
+
+1309 (@reflecting:y) 0.007229
+
+1310 (@reflecting:n) 0.992771
+
+1311 (@purposes:y) 0.010843
+
+1312 (@purposes:n) 0.989157
+
+1313 (@unfair:y) 0.001205
+
+1314 (@unfair:n) 0.998795
+
+1315 (@developments:y) 0.007229
+
+1316 (@developments:n) 0.992771
+
+1317 (@sought:y) 0.007229
+
+1318 (@sought:n) 0.992771
+
+1319 (@entire:y) 0.006024
+
+1320 (@entire:n) 0.993976
+
+1321 (@discussed:y) 0.009639
+
+1322 (@discussed:n) 0.990361
+
+1323 (@anti:y) 0.009639
+
+1324 (@anti:n) 0.990361
+
+1325 (@store:y) 0.003614
+
+1326 (@store:n) 0.996386
+
+1327 (@guarantees:y) 0.004819
+
+1328 (@guarantees:n) 0.995181
+
+1329 (@swedish:y) 0.002410
+
+1330 (@swedish:n) 0.997590
+
+1331 (@anticipated:y) 0.003614
+
+1332 (@anticipated:n) 0.996386
+
+1333 (@intervene:y) 0.015663
+
+1334 (@intervene:n) 0.984337
+
+1335 (@dry:y) 0.003614
+
+1336 (@dry:n) 0.996386
+
+1337 (@profitable:y) 0.008434
+
+1338 (@profitable:n) 0.991566
+
+1339 (@forced:y) 0.021687
+
+1340 (@forced:n) 0.978313
+
+1341 (@fleet:y) 0.004819
+
+1342 (@fleet:n) 0.995181
+
+1343 (@governments:y) 0.013253
+
+1344 (@governments:n) 0.986747
+
+1345 (@warned:y) 0.009639
+
+1346 (@warned:n) 0.990361
+
+1347 (@operators:y) 0.007229
+
+1348 (@operators:n) 0.992771
+
+1349 (@leader:y) 0.009639
+
+1350 (@leader:n) 0.990361
+
+1351 (@gmt:y) 0.006024
+
+1352 (@gmt:n) 0.993976
+
+1353 (@motors:y) 0.007229
+
+1354 (@motors:n) 0.992771
+
+1355 (@brokerage:y) 0.003614
+
+1356 (@brokerage:n) 0.996386
+
+1357 (@cargoes:y) 0.003614
+
+1358 (@cargoes:n) 0.996386
+
+1359 (@wells:y) 0.008434
+
+1360 (@wells:n) 0.991566
+
+1361 (@mills:y) 0.003614
+
+1362 (@mills:n) 0.996386
+
+1363 (@fact:y) 0.008434
+
+1364 (@fact:n) 0.991566
+
+1365 (@duty:y) 0.006024
+
+1366 (@duty:n) 0.993976
+
+1367 (@chips:y) 0.000000
+
+1368 (@chips:n) 1.000000
+
+1369 (@imposed:y) 0.004819
+
+1370 (@imposed:n) 0.995181
+
+1371 (@planting:y) 0.009639
+
+1372 (@planting:n) 0.990361
+
+1373 (@huge:y) 0.008434
+
+1374 (@huge:n) 0.991566
+
+1375 (@electronic:y) 0.007229
+
+1376 (@electronic:n) 0.992771
+
+1377 (@approximately:y) 0.007229
+
+1378 (@approximately:n) 0.992771
+
+1379 (@pork:y) 0.009639
+
+1380 (@pork:n) 0.990361
+
+1381 (@inventories:y) 0.009639
+
+1382 (@inventories:n) 0.990361
+
+1383 (@stage:y) 0.004819
+
+1384 (@stage:n) 0.995181
+
+1385 (@accounted:y) 0.016867
+
+1386 (@accounted:n) 0.983133
+
+1387 (@ratio:y) 0.009639
+
+1388 (@ratio:n) 0.990361
+
+1389 (@island:y) 0.012048
+
+1390 (@island:n) 0.987952
+
+1391 (@auction:y) 0.001205
+
+1392 (@auction:n) 0.998795
+
+1393 (@smith:y) 0.007229
+
+1394 (@smith:n) 0.992771
+
+1395 (@floor:y) 0.007229
+
+1396 (@floor:n) 0.992771
+
+1397 (@push:y) 0.008434
+
+1398 (@push:n) 0.991566
+
+1399 (@approve:y) 0.008434
+
+1400 (@approve:n) 0.991566
+
+1401 (@bilateral:y) 0.000000
+
+1402 (@bilateral:n) 1.000000
+
+1403 (@airline:y) 0.012048
+
+1404 (@airline:n) 0.987952
+
+1405 (@aircraft:y) 0.006024
+
+1406 (@aircraft:n) 0.993976
+
+1407 (@soft:y) 0.010843
+
+1408 (@soft:n) 0.989157
+
+1409 (@condition:y) 0.003614
+
+1410 (@condition:n) 0.996386
+
+1411 (@pesos:y) 0.007229
+
+1412 (@pesos:n) 0.992771
+
+1413 (@excluding:y) 0.004819
+
+1414 (@excluding:n) 0.995181
+
+1415 (@ohio:y) 0.009639
+
+1416 (@ohio:n) 0.990361
+
+1417 (@chip:y) 0.000000
+
+1418 (@chip:n) 1.000000
+
+1419 (@overnight:y) 0.001205
+
+1420 (@overnight:n) 0.998795
+
+1421 (@imf:y) 0.003614
+
+1422 (@imf:n) 0.996386
+
+1423 (@fairchild:y) 0.000000
+
+1424 (@fairchild:n) 1.000000
+
+1425 (@defense:y) 0.004819
+
+1426 (@defense:n) 0.995181
+
+1427 (@sectors:y) 0.013253
+
+1428 (@sectors:n) 0.986747
+
+1429 (@stockholders:y) 0.012048
+
+1430 (@stockholders:n) 0.987952
+
+1431 (@expenditure:y) 0.003614
+
+1432 (@expenditure:n) 0.996386
+
+1433 (@exported:y) 0.014458
+
+1434 (@exported:n) 0.985542
+
+1435 (@starting:y) 0.007229
+
+1436 (@starting:n) 0.992771
+
+1437 (@inventory:y) 0.001205
+
+1438 (@inventory:n) 0.998795
+
+1439 (@institutions:y) 0.004819
+
+1440 (@institutions:n) 0.995181
+
+1441 (@suspended:y) 0.009639
+
+1442 (@suspended:n) 0.990361
+
+1443 (@actions:y) 0.006024
+
+1444 (@actions:n) 0.993976
+
+1445 (@clayton:y) 0.001205
+
+1446 (@clayton:n) 0.998795
+
+1447 (@csr:y) 0.001205
+
+1448 (@csr:n) 0.998795
+
+1449 (@advanced:y) 0.006024
+
+1450 (@advanced:n) 0.993976
+
+1451 (@alternative:y) 0.009639
+
+1452 (@alternative:n) 0.990361
+
+1453 (@minerals:y) 0.006024
+
+1454 (@minerals:n) 0.993976
+
+1455 (@larger:y) 0.012048
+
+1456 (@larger:n) 0.987952
+
+1457 (@governor:y) 0.009639
+
+1458 (@governor:n) 0.990361
+
+1459 (@designed:y) 0.002410
+
+1460 (@designed:n) 0.997590
+
+1461 (@paying:y) 0.014458
+
+1462 (@paying:n) 0.985542
+
+1463 (@fee:y) 0.009639
+
+1464 (@fee:n) 0.990361
+
+1465 (@sign:y) 0.007229
+
+1466 (@sign:n) 0.992771
+
+1467 (@margins:y) 0.010843
+
+1468 (@margins:n) 0.989157
+
+1469 (@reporting:y) 0.003614
+
+1470 (@reporting:n) 0.996386
+
+1471 (@biggest:y) 0.010843
+
+1472 (@biggest:n) 0.989157
+
+1473 (@ranging:y) 0.008434
+
+1474 (@ranging:n) 0.991566
+
+1475 (@ownership:y) 0.018072
+
+1476 (@ownership:n) 0.981928
+
+1477 (@cyacq:y) 0.000000
+
+1478 (@cyacq:n) 1.000000
+
+1479 (@semiconductors:y) 0.002410
+
+1480 (@semiconductors:n) 0.997590
+
+1481 (@debentures:y) 0.007229
+
+1482 (@debentures:n) 0.992771
+
+1483 (@amc:y) 0.003614
+
+1484 (@amc:n) 0.996386
+
+1485 (@programs:y) 0.006024
+
+1486 (@programs:n) 0.993976
+
+1487 (@supermarkets:y) 0.001205
+
+1488 (@supermarkets:n) 0.998795
+
+1489 (@sheet:y) 0.007229
+
+1490 (@sheet:n) 0.992771
+
+1491 (@storage:y) 0.010843
+
+1492 (@storage:n) 0.989157
+
+1493 (@priced:y) 0.006024
+
+1494 (@priced:n) 0.993976
+
+1495 (@underlying:y) 0.006024
+
+1496 (@underlying:n) 0.993976
+
+1497 (@harper:y) 0.001205
+
+1498 (@harper:n) 0.998795
+
+1499 (@spring:y) 0.016867
+
+1500 (@spring:n) 0.983133
+
+1501 (@santos:y) 0.006024
+
+1502 (@santos:n) 0.993976
+
+1503 (@steps:y) 0.007229
+
+1504 (@steps:n) 0.992771
+
+1505 (@fire:y) 0.006024
+
+1506 (@fire:n) 0.993976
+
+1507 (@restrictions:y) 0.002410
+
+1508 (@restrictions:n) 0.997590
+
+1509 (@confirmed:y) 0.010843
+
+1510 (@confirmed:n) 0.989157
+
+1511 (@global:y) 0.012048
+
+1512 (@global:n) 0.987952
+
+1513 (@miners:y) 0.001205
+
+1514 (@miners:n) 0.998795
+
+1515 (@greece:y) 0.002410
+
+1516 (@greece:n) 0.997590
+
+1517 (@liabilities:y) 0.009639
+
+1518 (@liabilities:n) 0.990361
+
+1519 (@jobs:y) 0.004819
+
+1520 (@jobs:n) 0.995181
+
+1521 (@projects:y) 0.006024
+
+1522 (@projects:n) 0.993976
+
+1523 (@bad:y) 0.009639
+
+1524 (@bad:n) 0.990361
+
+1525 (@confident:y) 0.014458
+
+1526 (@confident:n) 0.985542
+
+1527 (@moving:y) 0.004819
+
+1528 (@moving:n) 0.995181
+
+1529 (@originally:y) 0.008434
+
+1530 (@originally:n) 0.991566
+
+1531 (@intended:y) 0.014458
+
+1532 (@intended:n) 0.985542
+
+1533 (@indonesian:y) 0.003614
+
+1534 (@indonesian:n) 0.996386
+
+1535 (@totaled:y) 0.007229
+
+1536 (@totaled:n) 0.992771
+
+1537 (@bulk:y) 0.014458
+
+1538 (@bulk:n) 0.985542
+
+1539 (@chemicals:y) 0.007229
+
+1540 (@chemicals:n) 0.992771
+
+1541 (@relief:y) 0.004819
+
+1542 (@relief:n) 0.995181
+
+1543 (@exceed:y) 0.010843
+
+1544 (@exceed:n) 0.989157
+
+1545 (@transfer:y) 0.013253
+
+1546 (@transfer:n) 0.986747
+
+1547 (@resulted:y) 0.008434
+
+1548 (@resulted:n) 0.991566
+
+1549 (@expressed:y) 0.003614
+
+1550 (@expressed:n) 0.996386
+
+1551 (@negotiating:y) 0.002410
+
+1552 (@negotiating:n) 0.997590
+
+1553 (@rains:y) 0.000000
+
+1554 (@rains:n) 1.000000
+
+1555 (@continues:y) 0.010843
+
+1556 (@continues:n) 0.989157
+
+1557 (@protectionist:y) 0.006024
+
+1558 (@protectionist:n) 0.993976
+
+1559 (@ports:y) 0.002410
+
+1560 (@ports:n) 0.997590
+
+1561 (@deputy:y) 0.006024
+
+1562 (@deputy:n) 0.993976
+
+1563 (@weekend:y) 0.013253
+
+1564 (@weekend:n) 0.986747
+
+1565 (@associates:y) 0.007229
+
+1566 (@associates:n) 0.992771
+
+1567 (@factor:y) 0.012048
+
+1568 (@factor:n) 0.987952
+
+1569 (@lowered:y) 0.002410
+
+1570 (@lowered:n) 0.997590
+
+1571 (@lot:y) 0.007229
+
+1572 (@lot:n) 0.992771
+
+1573 (@privately:y) 0.012048
+
+1574 (@privately:n) 0.987952
+
+1575 (@plants:y) 0.010843
+
+1576 (@plants:n) 0.989157
+
+1577 (@wall:y) 0.006024
+
+1578 (@wall:n) 0.993976
+
+1579 (@lehman:y) 0.006024
+
+1580 (@lehman:n) 0.993976
+
+1581 (@claims:y) 0.007229
+
+1582 (@claims:n) 0.992771
+
+1583 (@hopes:y) 0.009639
+
+1584 (@hopes:n) 0.990361
+
+1585 (@raw:y) 0.010843
+
+1586 (@raw:n) 0.989157
+
+1587 (@test:y) 0.010843
+
+1588 (@test:n) 0.989157
+
+1589 (@steady:y) 0.008434
+
+1590 (@steady:n) 0.991566
+
+1591 (@visit:y) 0.006024
+
+1592 (@visit:n) 0.993976
+
+1593 (@wholesale:y) 0.004819
+
+1594 (@wholesale:n) 0.995181
+
+1595 (@courier:y) 0.006024
+
+1596 (@courier:n) 0.993976
+
+1597 (@robert:y) 0.012048
+
+1598 (@robert:n) 0.987952
+
+1599 (@lbs:y) 0.002410
+
+1600 (@lbs:n) 0.997590
+
+1601 (@morgan:y) 0.008434
+
+1602 (@morgan:n) 0.991566
+
+1603 (@freight:y) 0.008434
+
+1604 (@freight:n) 0.991566
+
+1605 (@employers:y) 0.003614
+
+1606 (@employers:n) 0.996386
+
+1607 (@merge:y) 0.009639
+
+1608 (@merge:n) 0.990361
+
+1609 (@avoid:y) 0.006024
+
+1610 (@avoid:n) 0.993976
+
+1611 (@build:y) 0.004819
+
+1612 (@build:n) 0.995181
+
+1613 (@borrowings:y) 0.003614
+
+1614 (@borrowings:n) 0.996386
+
+1615 (@maker:y) 0.013253
+
+1616 (@maker:n) 0.986747
+
+1617 (@delayed:y) 0.009639
+
+1618 (@delayed:n) 0.990361
+
+1619 (@broad:y) 0.009639
+
+1620 (@broad:n) 0.990361
+
+1621 (@personal:y) 0.007229
+
+1622 (@personal:n) 0.992771
+
+1623 (@values:y) 0.019277
+
+1624 (@values:n) 0.980723
+
+1625 (@iranian:y) 0.002410
+
+1626 (@iranian:n) 0.997590
+
+1627 (@county:y) 0.026506
+
+1628 (@county:n) 0.973494
+
+1629 (@require:y) 0.010843
+
+1630 (@require:n) 0.989157
+
+1631 (@parliament:y) 0.006024
+
+1632 (@parliament:n) 0.993976
+
+1633 (@urged:y) 0.007229
+
+1634 (@urged:n) 0.992771
+
+1635 (@offshore:y) 0.010843
+
+1636 (@offshore:n) 0.989157
+
+1637 (@boston:y) 0.006024
+
+1638 (@boston:n) 0.993976
+
+1639 (@ease:y) 0.007229
+
+1640 (@ease:n) 0.992771
+
+1641 (@remarks:y) 0.012048
+
+1642 (@remarks:n) 0.987952
+
+1643 (@summer:y) 0.009639
+
+1644 (@summer:n) 0.990361
+
+1645 (@waste:y) 0.003614
+
+1646 (@waste:n) 0.996386
+
+1647 (@registered:y) 0.012048
+
+1648 (@registered:n) 0.987952
+
+1649 (@writedown:y) 0.003614
+
+1650 (@writedown:n) 0.996386
+
+1651 (@negotiate:y) 0.007229
+
+1652 (@negotiate:n) 0.992771
+
+1653 (@illinois:y) 0.009639
+
+1654 (@illinois:n) 0.990361
+
+1655 (@ems:y) 0.002410
+
+1656 (@ems:n) 0.997590
+
+1657 (@quickly:y) 0.010843
+
+1658 (@quickly:n) 0.989157
+
+1659 (@successful:y) 0.018072
+
+1660 (@successful:n) 0.981928
+
+1661 (@refining:y) 0.014458
+
+1662 (@refining:n) 0.985542
+
+1663 (@strength:y) 0.014458
+
+1664 (@strength:n) 0.985542
+
+1665 (@recorded:y) 0.009639
+
+1666 (@recorded:n) 0.990361
+
+1667 (@leaders:y) 0.008434
+
+1668 (@leaders:n) 0.991566
+
+1669 (@exxon:y) 0.006024
+
+1670 (@exxon:n) 0.993976
+
+1671 (@staff:y) 0.008434
+
+1672 (@staff:n) 0.991566
+
+1673 (@thursday:y) 0.008434
+
+1674 (@thursday:n) 0.991566
+
+1675 (@asset:y) 0.014458
+
+1676 (@asset:n) 0.985542
+
+1677 (@grains:y) 0.006024
+
+1678 (@grains:n) 0.993976
+
+1679 (@encourage:y) 0.008434
+
+1680 (@encourage:n) 0.991566
+
+1681 (@malaysian:y) 0.006024
+
+1682 (@malaysian:n) 0.993976
+
+1683 (@access:y) 0.006024
+
+1684 (@access:n) 0.993976
+
+1685 (@suit:y) 0.003614
+
+1686 (@suit:n) 0.996386
+
+1687 (@takes:y) 0.009639
+
+1688 (@takes:n) 0.990361
+
+1689 (@smaller:y) 0.012048
+
+1690 (@smaller:n) 0.987952
+
+1691 (@speaking:y) 0.024096
+
+1692 (@speaking:n) 0.975904
+
+1693 (@relations:y) 0.003614
+
+1694 (@relations:n) 0.996386
+
+1695 (@sun:y) 0.008434
+
+1696 (@sun:n) 0.991566
+
+1697 (@sec:y) 0.004819
+
+1698 (@sec:n) 0.995181
+
+1699 (@generally:y) 0.008434
+
+1700 (@generally:n) 0.991566
+
+1701 (@processing:y) 0.007229
+
+1702 (@processing:n) 0.992771
+
+1703 (@strategy:y) 0.014458
+
+1704 (@strategy:n) 0.985542
+
+1705 (@street:y) 0.006024
+
+1706 (@street:n) 0.993976
+
+1707 (@weak:y) 0.010843
+
+1708 (@weak:n) 0.989157
+
+1709 (@concerned:y) 0.009639
+
+1710 (@concerned:n) 0.990361
+
+1711 (@network:y) 0.013253
+
+1712 (@network:n) 0.986747
+
+1713 (@role:y) 0.007229
+
+1714 (@role:n) 0.992771
+
+1715 (@bancorp:y) 0.008434
+
+1716 (@bancorp:n) 0.991566
+
+1717 (@cumulative:y) 0.007229
+
+1718 (@cumulative:n) 0.992771
+
+1719 (@comments:y) 0.004819
+
+1720 (@comments:n) 0.995181
+
+1721 (@resulting:y) 0.006024
+
+1722 (@resulting:n) 0.993976
+
+1723 (@consideration:y) 0.024096
+
+1724 (@consideration:n) 0.975904
+
+1725 (@moscow:y) 0.003614
+
+1726 (@moscow:n) 0.996386
+
+1727 (@water:y) 0.006024
+
+1728 (@water:n) 0.993976
+
+1729 (@grew:y) 0.006024
+
+1730 (@grew:n) 0.993976
+
+1731 (@averaged:y) 0.016867
+
+1732 (@averaged:n) 0.983133
+
+1733 (@crisis:y) 0.012048
+
+1734 (@crisis:n) 0.987952
+
+1735 (@turkey:y) 0.001205
+
+1736 (@turkey:n) 0.998795
+
+1737 (@reducing:y) 0.010843
+
+1738 (@reducing:n) 0.989157
+
+1739 (@franc:y) 0.010843
+
+1740 (@franc:n) 0.989157
+
+1741 (@baldrige:y) 0.000000
+
+1742 (@baldrige:n) 1.000000
+
+1743 (@legal:y) 0.008434
+
+1744 (@legal:n) 0.991566
+
+1745 (@zinc:y) 0.003614
+
+1746 (@zinc:n) 0.996386
+
+1747 (@river:y) 0.007229
+
+1748 (@river:n) 0.992771
+
+1749 (@targets:y) 0.006024
+
+1750 (@targets:n) 0.993976
+
+1751 (@sosnoff:y) 0.001205
+
+1752 (@sosnoff:n) 0.998795
+
+1753 (@miti:y) 0.000000
+
+1754 (@miti:n) 1.000000
+
+1755 (@intends:y) 0.026506
+
+1756 (@intends:n) 0.973494
+
+1757 (@borg:y) 0.000000
+
+1758 (@borg:n) 1.000000
+
+1759 (@poor:y) 0.009639
+
+1760 (@poor:n) 0.990361
+
+1761 (@party:y) 0.013253
+
+1762 (@party:n) 0.986747
+
+1763 (@david:y) 0.008434
+
+1764 (@david:n) 0.991566
+
+1765 (@vessels:y) 0.004819
+
+1766 (@vessels:n) 0.995181
+
+1767 (@arab:y) 0.009639
+
+1768 (@arab:n) 0.990361
+
+1769 (@engineering:y) 0.008434
+
+1770 (@engineering:n) 0.991566
+
+1771 (@groups:y) 0.018072
+
+1772 (@groups:n) 0.981928
+
+1773 (@subsidy:y) 0.007229
+
+1774 (@subsidy:n) 0.992771
+
+1775 (@paul:y) 0.008434
+
+1776 (@paul:n) 0.991566
+
+1777 (@chance:y) 0.014458
+
+1778 (@chance:n) 0.985542
+
+1779 (@allegheny:y) 0.002410
+
+1780 (@allegheny:n) 0.997590
+
+1781 (@reform:y) 0.006024
+
+1782 (@reform:n) 0.993976
+
+1783 (@excess:y) 0.006024
+
+1784 (@excess:n) 0.993976
+
+1785 (@afternoon:y) 0.004819
+
+1786 (@afternoon:n) 0.995181
+
+1787 (@granted:y) 0.018072
+
+1788 (@granted:n) 0.981928
+
+1789 (@positive:y) 0.014458
+
+1790 (@positive:n) 0.985542
+
+1791 (@belgian:y) 0.009639
+
+1792 (@belgian:n) 0.990361
+
+1793 (@rev:y) 0.001205
+
+1794 (@rev:n) 0.998795
+
+1795 (@medium:y) 0.020482
+
+1796 (@medium:n) 0.979518
+
+1797 (@meetings:y) 0.009639
+
+1798 (@meetings:n) 0.990361
+
+1799 (@negative:y) 0.012048
+
+1800 (@negative:n) 0.987952
+
+1801 (@johnson:y) 0.004819
+
+1802 (@johnson:n) 0.995181
+
+1803 (@rand:y) 0.002410
+
+1804 (@rand:n) 0.997590
+
+1805 (@compares:y) 0.008434
+
+1806 (@compares:n) 0.991566
+
+1807 (@houses:y) 0.007229
+
+1808 (@houses:n) 0.992771
+
+1809 (@eep:y) 0.000000
+
+1810 (@eep:n) 1.000000
+
+1811 (@equal:y) 0.012048
+
+1812 (@equal:n) 0.987952
+
+1813 (@drought:y) 0.006024
+
+1814 (@drought:n) 0.993976
+
+1815 (@significantly:y) 0.013253
+
+1816 (@significantly:n) 0.986747
+
+1817 (@labour:y) 0.007229
+
+1818 (@labour:n) 0.992771
+
+1819 (@projected:y) 0.020482
+
+1820 (@projected:n) 0.979518
+
+1821 (@laws:y) 0.009639
+
+1822 (@laws:n) 0.990361
+
+1823 (@restated:y) 0.004819
+
+1824 (@restated:n) 0.995181
+
+1825 (@car:y) 0.006024
+
+1826 (@car:n) 0.993976
+
+1827 (@eastern:y) 0.014458
+
+1828 (@eastern:n) 0.985542
+
+1829 (@maximum:y) 0.024096
+
+1830 (@maximum:n) 0.975904
+
+1831 (@newly:y) 0.013253
+
+1832 (@newly:n) 0.986747
+
+1833 (@prevent:y) 0.009639
+
+1834 (@prevent:n) 0.990361
+
+1835 (@volcker:y) 0.002410
+
+1836 (@volcker:n) 0.997590
+
+1837 (@ordinary:y) 0.013253
+
+1838 (@ordinary:n) 0.986747
+
+1839 (@exclude:y) 0.004819
+
+1840 (@exclude:n) 0.995181
+
+1841 (@affect:y) 0.014458
+
+1842 (@affect:n) 0.985542
+
+1843 (@transportation:y) 0.008434
+
+1844 (@transportation:n) 0.991566
+
+1845 (@expectations:y) 0.007229
+
+1846 (@expectations:n) 0.992771
+
+1847 (@ceiling:y) 0.003614
+
+1848 (@ceiling:n) 0.996386
+
+1849 (@iraq:y) 0.006024
+
+1850 (@iraq:n) 0.993976
+
+1851 (@single:y) 0.021687
+
+1852 (@single:n) 0.978313
+
+1853 (@hectares:y) 0.012048
+
+1854 (@hectares:n) 0.987952
+
+1855 (@organisation:y) 0.010843
+
+1856 (@organisation:n) 0.989157
+
+1857 (@controlled:y) 0.015663
+
+1858 (@controlled:n) 0.984337
+
+1859 (@bushels:y) 0.002410
+
+1860 (@bushels:n) 0.997590
+
+1861 (@miyazawa:y) 0.002410
+
+1862 (@miyazawa:n) 0.997590
+
+1863 (@cpc:y) 0.006024
+
+1864 (@cpc:n) 0.993976
+
+1865 (@possibility:y) 0.007229
+
+1866 (@possibility:n) 0.992771
+
+1867 (@facilities:y) 0.012048
+
+1868 (@facilities:n) 0.987952
+
+1869 (@dome:y) 0.001205
+
+1870 (@dome:n) 0.998795
+
+1871 (@metals:y) 0.008434
+
+1872 (@metals:n) 0.991566
+
+1873 (@chemlawn:y) 0.000000
+
+1874 (@chemlawn:n) 1.000000
+
+1875 (@enterprises:y) 0.009639
+
+1876 (@enterprises:n) 0.990361
+
+1877 (@worldwide:y) 0.019277
+
+1878 (@worldwide:n) 0.980723
+
+1879 (@amounts:y) 0.009639
+
+1880 (@amounts:n) 0.990361
+
+1881 (@employment:y) 0.004819
+
+1882 (@employment:n) 0.995181
+
+1883 (@believes:y) 0.022892
+
+1884 (@believes:n) 0.977108
+
+1885 (@hours:y) 0.003614
+
+1886 (@hours:n) 0.996386
+
+1887 (@planted:y) 0.003614
+
+1888 (@planted:n) 0.996386
+
+1889 (@interested:y) 0.016867
+
+1890 (@interested:n) 0.983133
+
+1891 (@middle:y) 0.014458
+
+1892 (@middle:n) 0.985542
+
+1893 (@named:y) 0.015663
+
+1894 (@named:n) 0.984337
+
+1895 (@family:y) 0.018072
+
+1896 (@family:n) 0.981928
+
+1897 (@step:y) 0.015663
+
+1898 (@step:n) 0.984337
+
+1899 (@materials:y) 0.014458
+
+1900 (@materials:n) 0.985542
+
+1901 (@independent:y) 0.012048
+
+1902 (@independent:n) 0.987952
+
+1903 (@mexico:y) 0.006024
+
+1904 (@mexico:n) 0.993976
+
+1905 (@peru:y) 0.006024
+
+1906 (@peru:n) 0.993976
+
+1907 (@formed:y) 0.009639
+
+1908 (@formed:n) 0.990361
+
+1909 (@thailand:y) 0.013253
+
+1910 (@thailand:n) 0.986747
+
+1911 (@signs:y) 0.007229
+
+1912 (@signs:n) 0.992771
+
+1913 (@tuesday:y) 0.003614
+
+1914 (@tuesday:n) 0.996386
+
+1915 (@manufacturers:y) 0.021687
+
+1916 (@manufacturers:n) 0.978313
+
+1917 (@agree:y) 0.008434
+
+1918 (@agree:n) 0.991566
+
+1919 (@santa:y) 0.004819
+
+1920 (@santa:n) 0.995181
+
+1921 (@items:y) 0.015663
+
+1922 (@items:n) 0.984337
+
+1923 (@brothers:y) 0.007229
+
+1924 (@brothers:n) 0.992771
+
+1925 (@buyers:y) 0.007229
+
+1926 (@buyers:n) 0.992771
+
+1927 (@airlines:y) 0.010843
+
+1928 (@airlines:n) 0.989157
+
+1929 (@sanctions:y) 0.000000
+
+1930 (@sanctions:n) 1.000000
+
+1931 (@sumita:y) 0.002410
+
+1932 (@sumita:n) 0.997590
+
+1933 (@video:y) 0.004819
+
+1934 (@video:n) 0.995181
+
+1935 (@retaliation:y) 0.004819
+
+1936 (@retaliation:n) 0.995181
+
+1937 (@application:y) 0.009639
+
+1938 (@application:n) 0.990361
+
+1939 (@region:y) 0.009639
+
+1940 (@region:n) 0.990361
+
+1941 (@planning:y) 0.016867
+
+1942 (@planning:n) 0.983133
+
+1943 (@speculation:y) 0.010843
+
+1944 (@speculation:n) 0.989157
+
+1945 (@subsidiaries:y) 0.008434
+
+1946 (@subsidiaries:n) 0.991566
+
+1947 (@quality:y) 0.019277
+
+1948 (@quality:n) 0.980723
+
+1949 (@borrowing:y) 0.006024
+
+1950 (@borrowing:n) 0.993976
+
+1951 (@allied:y) 0.007229
+
+1952 (@allied:n) 0.992771
+
+1953 (@stable:y) 0.015663
+
+1954 (@stable:n) 0.984337
+
+1955 (@yields:y) 0.007229
+
+1956 (@yields:n) 0.992771
+
+1957 (@warner:y) 0.001205
+
+1958 (@warner:n) 0.998795
+
+1959 (@entered:y) 0.022892
+
+1960 (@entered:n) 0.977108
+
+1961 (@pending:y) 0.014458
+
+1962 (@pending:n) 0.985542
+
+1963 (@request:y) 0.006024
+
+1964 (@request:n) 0.993976
+
+1965 (@opening:y) 0.007229
+
+1966 (@opening:n) 0.992771
+
+1967 (@giving:y) 0.009639
+
+1968 (@giving:n) 0.990361
+
+1969 (@substantially:y) 0.021687
+
+1970 (@substantially:n) 0.978313
+
+1971 (@authorized:y) 0.013253
+
+1972 (@authorized:n) 0.986747
+
+1973 (@aluminium:y) 0.004819
+
+1974 (@aluminium:n) 0.995181
+
+1975 (@ruling:y) 0.003614
+
+1976 (@ruling:n) 0.996386
+
+1977 (@brought:y) 0.015663
+
+1978 (@brought:n) 0.984337
+
+1979 (@benefits:y) 0.019277
+
+1980 (@benefits:n) 0.980723
+
+1981 (@calls:y) 0.007229
+
+1982 (@calls:n) 0.992771
+
+1983 (@parts:y) 0.010843
+
+1984 (@parts:n) 0.989157
+
+1985 (@opened:y) 0.021687
+
+1986 (@opened:n) 0.978313
+
+1987 (@completion:y) 0.019277
+
+1988 (@completion:n) 0.980723
+
+1989 (@representatives:y) 0.014458
+
+1990 (@representatives:n) 0.985542
+
+1991 (@kuwait:y) 0.002410
+
+1992 (@kuwait:n) 0.997590
+
+1993 (@richard:y) 0.012048
+
+1994 (@richard:n) 0.987952
+
+1995 (@external:y) 0.014458
+
+1996 (@external:n) 0.985542
+
+1997 (@employees:y) 0.003614
+
+1998 (@employees:n) 0.996386
+
+1999 (@ecus:y) 0.019277
+
+2000 (@ecus:n) 0.980723
+
+2001 (@big:y) 0.016867
+
+2002 (@big:n) 0.983133
+
+2003 (@progress:y) 0.007229
+
+2004 (@progress:n) 0.992771
+
+2005 (@helped:y) 0.013253
+
+2006 (@helped:n) 0.986747
+
+2007 (@adjustment:y) 0.006024
+
+2008 (@adjustment:n) 0.993976
+
+2009 (@series:y) 0.015663
+
+2010 (@series:n) 0.984337
+
+2011 (@commodities:y) 0.010843
+
+2012 (@commodities:n) 0.989157
+
+2013 (@san:y) 0.015663
+
+2014 (@san:n) 0.984337
+
+2015 (@slow:y) 0.013253
+
+2016 (@slow:n) 0.986747
+
+2017 (@oecd:y) 0.002410
+
+2018 (@oecd:n) 0.997590
+
+2019 (@operate:y) 0.018072
+
+2020 (@operate:n) 0.981928
+
+2021 (@basic:y) 0.006024
+
+2022 (@basic:n) 0.993976
+
+2023 (@predicted:y) 0.014458
+
+2024 (@predicted:n) 0.985542
+
+2025 (@requirement:y) 0.010843
+
+2026 (@requirement:n) 0.989157
+
+2027 (@definitive:y) 0.016867
+
+2028 (@definitive:n) 0.983133
+
+2029 (@stood:y) 0.007229
+
+2030 (@stood:n) 0.992771
+
+2031 (@face:y) 0.008434
+
+2032 (@face:n) 0.991566
+
+2033 (@cutting:y) 0.012048
+
+2034 (@cutting:n) 0.987952
+
+2035 (@raising:y) 0.016867
+
+2036 (@raising:n) 0.983133
+
+2037 (@release:y) 0.004819
+
+2038 (@release:n) 0.995181
+
+2039 (@imported:y) 0.009639
+
+2040 (@imported:n) 0.990361
+
+2041 (@direct:y) 0.015663
+
+2042 (@direct:n) 0.984337
+
+2043 (@chinese:y) 0.015663
+
+2044 (@chinese:n) 0.984337
+
+2045 (@electronics:y) 0.003614
+
+2046 (@electronics:n) 0.996386
+
+2047 (@allowed:y) 0.008434
+
+2048 (@allowed:n) 0.991566
+
+2049 (@rest:y) 0.010843
+
+2050 (@rest:n) 0.989157
+
+2051 (@ends:y) 0.006024
+
+2052 (@ends:n) 0.993976
+
+2053 (@failure:y) 0.013253
+
+2054 (@failure:n) 0.986747
+
+2055 (@authority:y) 0.008434
+
+2056 (@authority:n) 0.991566
+
+2057 (@activities:y) 0.012048
+
+2058 (@activities:n) 0.987952
+
+2059 (@reflected:y) 0.015663
+
+2060 (@reflected:n) 0.984337
+
+2061 (@requirements:y) 0.009639
+
+2062 (@requirements:n) 0.990361
+
+2063 (@facility:y) 0.004819
+
+2064 (@facility:n) 0.995181
+
+2065 (@coming:y) 0.003614
+
+2066 (@coming:n) 0.996386
+
+2067 (@caesars:y) 0.002410
+
+2068 (@caesars:n) 0.997590
+
+2069 (@valued:y) 0.019277
+
+2070 (@valued:n) 0.980723
+
+2071 (@failed:y) 0.010843
+
+2072 (@failed:n) 0.989157
+
+2073 (@medical:y) 0.006024
+
+2074 (@medical:n) 0.993976
+
+2075 (@fields:y) 0.021687
+
+2076 (@fields:n) 0.978313
+
+2077 (@wholly:y) 0.015663
+
+2078 (@wholly:n) 0.984337
+
+2079 (@seamen:y) 0.002410
+
+2080 (@seamen:n) 0.997590
+
+2081 (@cargo:y) 0.008434
+
+2082 (@cargo:n) 0.991566
+
+2083 (@proceeds:y) 0.007229
+
+2084 (@proceeds:n) 0.992771
+
+2085 (@ccc:y) 0.003614
+
+2086 (@ccc:n) 0.996386
+
+2087 (@building:y) 0.012048
+
+2088 (@building:n) 0.987952
+
+2089 (@yield:y) 0.002410
+
+2090 (@yield:n) 0.997590
+
+2091 (@preliminary:y) 0.008434
+
+2092 (@preliminary:n) 0.991566
+
+2093 (@metal:y) 0.006024
+
+2094 (@metal:n) 0.993976
+
+2095 (@ways:y) 0.007229
+
+2096 (@ways:n) 0.992771
+
+2097 (@ussr:y) 0.003614
+
+2098 (@ussr:n) 0.996386
+
+2099 (@believed:y) 0.024096
+
+2100 (@believed:n) 0.975904
+
+2101 (@subsidies:y) 0.007229
+
+2102 (@subsidies:n) 0.992771
+
+2103 (@effort:y) 0.010843
+
+2104 (@effort:n) 0.989157
+
+2105 (@cubic:y) 0.010843
+
+2106 (@cubic:n) 0.989157
+
+2107 (@meat:y) 0.007229
+
+2108 (@meat:n) 0.992771
+
+2109 (@stop:y) 0.006024
+
+2110 (@stop:n) 0.993976
+
+2111 (@wanted:y) 0.016867
+
+2112 (@wanted:n) 0.983133
+
+2113 (@ounce:y) 0.002410
+
+2114 (@ounce:n) 0.997590
+
+2115 (@nippon:y) 0.003614
+
+2116 (@nippon:n) 0.996386
+
+2117 (@primary:y) 0.010843
+
+2118 (@primary:n) 0.989157
+
+2119 (@hughes:y) 0.001205
+
+2120 (@hughes:n) 0.998795
+
+2121 (@hutton:y) 0.008434
+
+2122 (@hutton:n) 0.991566
+
+2123 (@grade:y) 0.013253
+
+2124 (@grade:n) 0.986747
+
+2125 (@taxes:y) 0.016867
+
+2126 (@taxes:n) 0.983133
+
+2127 (@accept:y) 0.006024
+
+2128 (@accept:n) 0.993976
+
+2129 (@hope:y) 0.010843
+
+2130 (@hope:n) 0.989157
+
+2131 (@run:y) 0.012048
+
+2132 (@run:n) 0.987952
+
+2133 (@specific:y) 0.009639
+
+2134 (@specific:n) 0.990361
+
+2135 (@bids:y) 0.009639
+
+2136 (@bids:n) 0.990361
+
+2137 (@bureau:y) 0.007229
+
+2138 (@bureau:n) 0.992771
+
+2139 (@vegetable:y) 0.020482
+
+2140 (@vegetable:n) 0.979518
+
+2141 (@warrants:y) 0.003614
+
+2142 (@warrants:n) 0.996386
+
+2143 (@discussions:y) 0.010843
+
+2144 (@discussions:n) 0.989157
+
+2145 (@row:y) 0.003614
+
+2146 (@row:n) 0.996386
+
+2147 (@moves:y) 0.010843
+
+2148 (@moves:n) 0.989157
+
+2149 (@won:y) 0.009639
+
+2150 (@won:n) 0.990361
+
+2151 (@reason:y) 0.015663
+
+2152 (@reason:n) 0.984337
+
+2153 (@nakasone:y) 0.000000
+
+2154 (@nakasone:n) 1.000000
+
+2155 (@intent:y) 0.010843
+
+2156 (@intent:n) 0.989157
+
+2157 (@cooperation:y) 0.007229
+
+2158 (@cooperation:n) 0.992771
+
+2159 (@telecommunications:y) 0.007229
+
+2160 (@telecommunications:n) 0.992771
+
+2161 (@dealer:y) 0.004819
+
+2162 (@dealer:n) 0.995181
+
+2163 (@falls:y) 0.013253
+
+2164 (@falls:n) 0.986747
+
+2165 (@provisional:y) 0.006024
+
+2166 (@provisional:n) 0.993976
+
+2167 (@great:y) 0.012048
+
+2168 (@great:n) 0.987952
+
+2169 (@block:y) 0.015663
+
+2170 (@block:n) 0.984337
+
+2171 (@survey:y) 0.012048
+
+2172 (@survey:n) 0.987952
+
+2173 (@recovery:y) 0.013253
+
+2174 (@recovery:n) 0.986747
+
+2175 (@continental:y) 0.013253
+
+2176 (@continental:n) 0.986747
+
+2177 (@tin:y) 0.004819
+
+2178 (@tin:n) 0.995181
+
+2179 (@trend:y) 0.014458
+
+2180 (@trend:n) 0.985542
+
+2181 (@subcommittee:y) 0.009639
+
+2182 (@subcommittee:n) 0.990361
+
+2183 (@representative:y) 0.002410
+
+2184 (@representative:n) 0.997590
+
+2185 (@equivalent:y) 0.016867
+
+2186 (@equivalent:n) 0.983133
+
+2187 (@deposit:y) 0.015663
+
+2188 (@deposit:n) 0.984337
+
+2189 (@mortgage:y) 0.007229
+
+2190 (@mortgage:n) 0.992771
+
+2191 (@john:y) 0.018072
+
+2192 (@john:n) 0.981928
+
+2193 (@spot:y) 0.007229
+
+2194 (@spot:n) 0.992771
+
+2195 (@ship:y) 0.004819
+
+2196 (@ship:n) 0.995181
+
+2197 (@customers:y) 0.013253
+
+2198 (@customers:n) 0.986747
+
+2199 (@authorities:y) 0.018072
+
+2200 (@authorities:n) 0.981928
+
+2201 (@voting:y) 0.009639
+
+2202 (@voting:n) 0.990361
+
+2203 (@malaysia:y) 0.018072
+
+2204 (@malaysia:n) 0.981928
+
+2205 (@brown:y) 0.002410
+
+2206 (@brown:n) 0.997590
+
+2207 (@benefit:y) 0.013253
+
+2208 (@benefit:n) 0.986747
+
+2209 (@clear:y) 0.010843
+
+2210 (@clear:n) 0.989157
+
+2211 (@damage:y) 0.015663
+
+2212 (@damage:n) 0.984337
+
+2213 (@transport:y) 0.009639
+
+2214 (@transport:n) 0.990361
+
+2215 (@accounts:y) 0.015663
+
+2216 (@accounts:n) 0.984337
+
+2217 (@lines:y) 0.010843
+
+2218 (@lines:n) 0.989157
+
+2219 (@percentage:y) 0.009639
+
+2220 (@percentage:n) 0.990361
+
+2221 (@wednesday:y) 0.006024
+
+2222 (@wednesday:n) 0.993976
+
+2223 (@newspaper:y) 0.010843
+
+2224 (@newspaper:n) 0.989157
+
+2225 (@released:y) 0.018072
+
+2226 (@released:n) 0.981928
+
+2227 (@coal:y) 0.010843
+
+2228 (@coal:n) 0.989157
+
+2229 (@harvest:y) 0.004819
+
+2230 (@harvest:n) 0.995181
+
+2231 (@considered:y) 0.016867
+
+2232 (@considered:n) 0.983133
+
+2233 (@bonds:y) 0.004819
+
+2234 (@bonds:n) 0.995181
+
+2235 (@left:y) 0.024096
+
+2236 (@left:n) 0.975904
+
+2237 (@process:y) 0.010843
+
+2238 (@process:n) 0.989157
+
+2239 (@met:y) 0.014458
+
+2240 (@met:n) 0.985542
+
+2241 (@vote:y) 0.014458
+
+2242 (@vote:n) 0.985542
+
+2243 (@filed:y) 0.012048
+
+2244 (@filed:n) 0.987952
+
+2245 (@band:y) 0.001205
+
+2246 (@band:n) 0.998795
+
+2247 (@coast:y) 0.006024
+
+2248 (@coast:n) 0.993976
+
+2249 (@largely:y) 0.018072
+
+2250 (@largely:n) 0.981928
+
+2251 (@african:y) 0.007229
+
+2252 (@african:n) 0.992771
+
+2253 (@traded:y) 0.009639
+
+2254 (@traded:n) 0.990361
+
+2255 (@singapore:y) 0.012048
+
+2256 (@singapore:n) 0.987952
+
+2257 (@electric:y) 0.004819
+
+2258 (@electric:n) 0.995181
+
+2259 (@activity:y) 0.015663
+
+2260 (@activity:n) 0.984337
+
+2261 (@television:y) 0.014458
+
+2262 (@television:n) 0.985542
+
+2263 (@icco:y) 0.001205
+
+2264 (@icco:n) 0.998795
+
+2265 (@gdp:y) 0.010843
+
+2266 (@gdp:n) 0.989157
+
+2267 (@complete:y) 0.027711
+
+2268 (@complete:n) 0.972289
+
+2269 (@telephone:y) 0.004819
+
+2270 (@telephone:n) 0.995181
+
+2271 (@involved:y) 0.019277
+
+2272 (@involved:n) 0.980723
+
+2273 (@corporate:y) 0.013253
+
+2274 (@corporate:n) 0.986747
+
+2275 (@night:y) 0.013253
+
+2276 (@night:n) 0.986747
+
+2277 (@venezuela:y) 0.008434
+
+2278 (@venezuela:n) 0.991566
+
+2279 (@weekly:y) 0.019277
+
+2280 (@weekly:n) 0.980723
+
+2281 (@partly:y) 0.008434
+
+2282 (@partly:n) 0.991566
+
+2283 (@question:y) 0.016867
+
+2284 (@question:n) 0.983133
+
+2285 (@calendar:y) 0.006024
+
+2286 (@calendar:n) 0.993976
+
+2287 (@post:y) 0.013253
+
+2288 (@post:n) 0.986747
+
+2289 (@find:y) 0.013253
+
+2290 (@find:n) 0.986747
+
+2291 (@zealand:y) 0.008434
+
+2292 (@zealand:n) 0.991566
+
+2293 (@flow:y) 0.013253
+
+2294 (@flow:n) 0.986747
+
+2295 (@growers:y) 0.010843
+
+2296 (@growers:n) 0.989157
+
+2297 (@aimed:y) 0.010843
+
+2298 (@aimed:n) 0.989157
+
+2299 (@important:y) 0.025301
+
+2300 (@important:n) 0.974699
+
+2301 (@majority:y) 0.014458
+
+2302 (@majority:n) 0.985542
+
+2303 (@view:y) 0.018072
+
+2304 (@view:n) 0.981928
+
+2305 (@acreage:y) 0.008434
+
+2306 (@acreage:n) 0.991566
+
+2307 (@barley:y) 0.012048
+
+2308 (@barley:n) 0.987952
+
+2309 (@cover:y) 0.015663
+
+2310 (@cover:n) 0.984337
+
+2311 (@settlement:y) 0.009639
+
+2312 (@settlement:n) 0.990361
+
+2313 (@chrysler:y) 0.006024
+
+2314 (@chrysler:n) 0.993976
+
+2315 (@spain:y) 0.012048
+
+2316 (@spain:n) 0.987952
+
+2317 (@principle:y) 0.021687
+
+2318 (@principle:n) 0.978313
+
+2319 (@hard:y) 0.015663
+
+2320 (@hard:n) 0.984337
+
+2321 (@measure:y) 0.010843
+
+2322 (@measure:n) 0.989157
+
+2323 (@accounting:y) 0.013253
+
+2324 (@accounting:n) 0.986747
+
+2325 (@developing:y) 0.015663
+
+2326 (@developing:n) 0.984337
+
+2327 (@grow:y) 0.016867
+
+2328 (@grow:n) 0.983133
+
+2329 (@prepared:y) 0.014458
+
+2330 (@prepared:n) 0.985542
+
+2331 (@customer:y) 0.044578
+
+2332 (@customer:n) 0.955422
+
+2333 (@lost:y) 0.012048
+
+2334 (@lost:n) 0.987952
+
+2335 (@royal:y) 0.008434
+
+2336 (@royal:n) 0.991566
+
+2337 (@buyout:y) 0.013253
+
+2338 (@buyout:n) 0.986747
+
+2339 (@posted:y) 0.016867
+
+2340 (@posted:n) 0.983133
+
+2341 (@convertible:y) 0.013253
+
+2342 (@convertible:n) 0.986747
+
+2343 (@expenses:y) 0.009639
+
+2344 (@expenses:n) 0.990361
+
+2345 (@offset:y) 0.014458
+
+2346 (@offset:n) 0.985542
+
+2347 (@gasoline:y) 0.015663
+
+2348 (@gasoline:n) 0.984337
+
+2349 (@maintain:y) 0.012048
+
+2350 (@maintain:n) 0.987952
+
+2351 (@completes:y) 0.022892
+
+2352 (@completes:n) 0.977108
+
+2353 (@construction:y) 0.014458
+
+2354 (@construction:n) 0.985542
+
+2355 (@temporary:y) 0.037349
+
+2356 (@temporary:n) 0.962651
+
+2357 (@regulatory:y) 0.016867
+
+2358 (@regulatory:n) 0.983133
+
+2359 (@bring:y) 0.010843
+
+2360 (@bring:n) 0.989157
+
+2361 (@started:y) 0.014458
+
+2362 (@started:n) 0.985542
+
+2363 (@add:y) 0.028916
+
+2364 (@add:n) 0.971084
+
+2365 (@accepted:y) 0.016867
+
+2366 (@accepted:n) 0.983133
+
+2367 (@light:y) 0.009639
+
+2368 (@light:n) 0.990361
+
+2369 (@monthly:y) 0.012048
+
+2370 (@monthly:n) 0.987952
+
+2371 (@source:y) 0.020482
+
+2372 (@source:n) 0.979518
+
+2373 (@ton:y) 0.003614
+
+2374 (@ton:n) 0.996386
+
+2375 (@rejected:y) 0.020482
+
+2376 (@rejected:n) 0.979518
+
+2377 (@chicago:y) 0.010843
+
+2378 (@chicago:n) 0.989157
+
+2379 (@gnp:y) 0.006024
+
+2380 (@gnp:n) 0.993976
+
+2381 (@fully:y) 0.016867
+
+2382 (@fully:n) 0.983133
+
+2383 (@economist:y) 0.003614
+
+2384 (@economist:n) 0.996386
+
+2385 (@cattle:y) 0.009639
+
+2386 (@cattle:n) 0.990361
+
+2387 (@dividends:y) 0.009639
+
+2388 (@dividends:n) 0.990361
+
+2389 (@colombia:y) 0.003614
+
+2390 (@colombia:n) 0.996386
+
+2391 (@piedmont:y) 0.002410
+
+2392 (@piedmont:n) 0.997590
+
+2393 (@reach:y) 0.013253
+
+2394 (@reach:n) 0.986747
+
+2395 (@rice:y) 0.015663
+
+2396 (@rice:n) 0.984337
+
+2397 (@nation:y) 0.015663
+
+2398 (@nation:n) 0.984337
+
+2399 (@remained:y) 0.021687
+
+2400 (@remained:n) 0.978313
+
+2401 (@bags:y) 0.006024
+
+2402 (@bags:n) 0.993976
+
+2403 (@lyng:y) 0.003614
+
+2404 (@lyng:n) 0.996386
+
+2405 (@improvement:y) 0.018072
+
+2406 (@improvement:n) 0.981928
+
+2407 (@times:y) 0.018072
+
+2408 (@times:n) 0.981928
+
+2409 (@combined:y) 0.019277
+
+2410 (@combined:n) 0.980723
+
+2411 (@affected:y) 0.016867
+
+2412 (@affected:n) 0.983133
+
+2413 (@field:y) 0.012048
+
+2414 (@field:n) 0.987952
+
+2415 (@top:y) 0.013253
+
+2416 (@top:n) 0.986747
+
+2417 (@estate:y) 0.014458
+
+2418 (@estate:n) 0.985542
+
+2419 (@announcement:y) 0.016867
+
+2420 (@announcement:n) 0.983133
+
+2421 (@package:y) 0.007229
+
+2422 (@package:n) 0.992771
+
+2423 (@attempt:y) 0.013253
+
+2424 (@attempt:n) 0.986747
+
+2425 (@risk:y) 0.008434
+
+2426 (@risk:n) 0.991566
+
+2427 (@fuel:y) 0.025301
+
+2428 (@fuel:n) 0.974699
+
+2429 (@consolidated:y) 0.010843
+
+2430 (@consolidated:n) 0.989157
+
+2431 (@war:y) 0.008434
+
+2432 (@war:n) 0.991566
+
+2433 (@monday:y) 0.009639
+
+2434 (@monday:n) 0.990361
+
+2435 (@produce:y) 0.019277
+
+2436 (@produce:n) 0.980723
+
+2437 (@minimum:y) 0.013253
+
+2438 (@minimum:n) 0.986747
+
+2439 (@supplies:y) 0.019277
+
+2440 (@supplies:n) 0.980723
+
+2441 (@competition:y) 0.013253
+
+2442 (@competition:n) 0.986747
+
+2443 (@manager:y) 0.008434
+
+2444 (@manager:n) 0.991566
+
+2445 (@swiss:y) 0.008434
+
+2446 (@swiss:n) 0.991566
+
+2447 (@transactions:y) 0.013253
+
+2448 (@transactions:n) 0.986747
+
+2449 (@investments:y) 0.014458
+
+2450 (@investments:n) 0.985542
+
+2451 (@legislation:y) 0.010843
+
+2452 (@legislation:n) 0.989157
+
+2453 (@crowns:y) 0.007229
+
+2454 (@crowns:n) 0.992771
+
+2455 (@provisions:y) 0.007229
+
+2456 (@provisions:n) 0.992771
+
+2457 (@points:y) 0.006024
+
+2458 (@points:n) 0.993976
+
+2459 (@health:y) 0.026506
+
+2460 (@health:n) 0.973494
+
+2461 (@aid:y) 0.010843
+
+2462 (@aid:n) 0.989157
+
+2463 (@communications:y) 0.014458
+
+2464 (@communications:n) 0.985542
+
+2465 (@italy:y) 0.008434
+
+2466 (@italy:n) 0.991566
+
+2467 (@cent:y) 0.009639
+
+2468 (@cent:n) 0.990361
+
+2469 (@crops:y) 0.014458
+
+2470 (@crops:n) 0.985542
+
+2471 (@holds:y) 0.034940
+
+2472 (@holds:n) 0.965060
+
+2473 (@semiconductor:y) 0.000000
+
+2474 (@semiconductor:n) 1.000000
+
+2475 (@means:y) 0.016867
+
+2476 (@means:n) 0.983133
+
+2477 (@project:y) 0.012048
+
+2478 (@project:n) 0.987952
+
+2479 (@cable:y) 0.010843
+
+2480 (@cable:n) 0.989157
+
+2481 (@property:y) 0.012048
+
+2482 (@property:n) 0.987952
+
+2483 (@iran:y) 0.006024
+
+2484 (@iran:n) 0.993976
+
+2485 (@officer:y) 0.021687
+
+2486 (@officer:n) 0.978313
+
+2487 (@dropped:y) 0.021687
+
+2488 (@dropped:n) 0.978313
+
+2489 (@diluted:y) 0.007229
+
+2490 (@diluted:n) 0.992771
+
+2491 (@existing:y) 0.038554
+
+2492 (@existing:n) 0.961446
+
+2493 (@expand:y) 0.024096
+
+2494 (@expand:n) 0.975904
+
+2495 (@extended:y) 0.019277
+
+2496 (@extended:n) 0.980723
+
+2497 (@overseas:y) 0.014458
+
+2498 (@overseas:n) 0.985542
+
+2499 (@beginning:y) 0.015663
+
+2500 (@beginning:n) 0.984337
+
+2501 (@difficult:y) 0.021687
+
+2502 (@difficult:n) 0.978313
+
+2503 (@expansion:y) 0.015663
+
+2504 (@expansion:n) 0.984337
+
+2505 (@competitive:y) 0.014458
+
+2506 (@competitive:n) 0.985542
+
+2507 (@law:y) 0.025301
+
+2508 (@law:n) 0.974699
+
+2509 (@charges:y) 0.009639
+
+2510 (@charges:n) 0.990361
+
+2511 (@california:y) 0.007229
+
+2512 (@california:n) 0.992771
+
+2513 (@guilders:y) 0.006024
+
+2514 (@guilders:n) 0.993976
+
+2515 (@sells:y) 0.016867
+
+2516 (@sells:n) 0.983133
+
+2517 (@express:y) 0.007229
+
+2518 (@express:n) 0.992771
+
+2519 (@purchased:y) 0.021687
+
+2520 (@purchased:n) 0.978313
+
+2521 (@improve:y) 0.020482
+
+2522 (@improve:n) 0.979518
+
+2523 (@drilling:y) 0.021687
+
+2524 (@drilling:n) 0.978313
+
+2525 (@sea:y) 0.009639
+
+2526 (@sea:n) 0.990361
+
+2527 (@remains:y) 0.027711
+
+2528 (@remains:n) 0.972289
+
+2529 (@normal:y) 0.009639
+
+2530 (@normal:n) 0.990361
+
+2531 (@changed:y) 0.016867
+
+2532 (@changed:n) 0.983133
+
+2533 (@longer:y) 0.019277
+
+2534 (@longer:n) 0.980723
+
+2535 (@hong:y) 0.013253
+
+2536 (@hong:n) 0.986747
+
+2537 (@similar:y) 0.015663
+
+2538 (@similar:n) 0.984337
+
+2539 (@substantial:y) 0.019277
+
+2540 (@substantial:n) 0.980723
+
+2541 (@head:y) 0.009639
+
+2542 (@head:n) 0.990361
+
+2543 (@india:y) 0.008434
+
+2544 (@india:n) 0.991566
+
+2545 (@notes:y) 0.012048
+
+2546 (@notes:n) 0.987952
+
+2547 (@pipeline:y) 0.008434
+
+2548 (@pipeline:n) 0.991566
+
+2549 (@silver:y) 0.003614
+
+2550 (@silver:n) 0.996386
+
+2551 (@oils:y) 0.013253
+
+2552 (@oils:n) 0.986747
+
+2553 (@greater:y) 0.010843
+
+2554 (@greater:n) 0.989157
+
+2555 (@feed:y) 0.025301
+
+2556 (@feed:n) 0.974699
+
+2557 (@closing:y) 0.018072
+
+2558 (@closing:n) 0.981928
+
+2559 (@required:y) 0.018072
+
+2560 (@required:n) 0.981928
+
+2561 (@limit:y) 0.012048
+
+2562 (@limit:n) 0.987952
+
+2563 (@parent:y) 0.010843
+
+2564 (@parent:n) 0.989157
+
+2565 (@efforts:y) 0.021687
+
+2566 (@efforts:n) 0.978313
+
+2567 (@act:y) 0.019277
+
+2568 (@act:n) 0.980723
+
+2569 (@information:y) 0.012048
+
+2570 (@information:n) 0.987952
+
+2571 (@prospects:y) 0.024096
+
+2572 (@prospects:n) 0.975904
+
+2573 (@interview:y) 0.021687
+
+2574 (@interview:n) 0.978313
+
+2575 (@political:y) 0.010843
+
+2576 (@political:n) 0.989157
+
+2577 (@shortage:y) 0.004819
+
+2578 (@shortage:n) 0.995181
+
+2579 (@totalled:y) 0.016867
+
+2580 (@totalled:n) 0.983133
+
+2581 (@acquisitions:y) 0.022892
+
+2582 (@acquisitions:n) 0.977108
+
+2583 (@taft:y) 0.010843
+
+2584 (@taft:n) 0.989157
+
+2585 (@owns:y) 0.033735
+
+2586 (@owns:n) 0.966265
+
+2587 (@stability:y) 0.022892
+
+2588 (@stability:n) 0.977108
+
+2589 (@arabia:y) 0.004819
+
+2590 (@arabia:n) 0.995181
+
+2591 (@northern:y) 0.015663
+
+2592 (@northern:n) 0.984337
+
+2593 (@potential:y) 0.020482
+
+2594 (@potential:n) 0.979518
+
+2595 (@dixons:y) 0.004819
+
+2596 (@dixons:n) 0.995181
+
+2597 (@pound:y) 0.009639
+
+2598 (@pound:n) 0.990361
+
+2599 (@corporation:y) 0.015663
+
+2600 (@corporation:n) 0.984337
+
+2601 (@case:y) 0.013253
+
+2602 (@case:n) 0.986747
+
+2603 (@soybeans:y) 0.010843
+
+2604 (@soybeans:n) 0.989157
+
+2605 (@discuss:y) 0.008434
+
+2606 (@discuss:n) 0.991566
+
+2607 (@earned:y) 0.019277
+
+2608 (@earned:n) 0.980723
+
+2609 (@outlook:y) 0.007229
+
+2610 (@outlook:n) 0.992771
+
+2611 (@kong:y) 0.013253
+
+2612 (@kong:n) 0.986747
+
+2613 (@ore:y) 0.010843
+
+2614 (@ore:n) 0.989157
+
+2615 (@performance:y) 0.014458
+
+2616 (@performance:n) 0.985542
+
+2617 (@unemployment:y) 0.013253
+
+2618 (@unemployment:n) 0.986747
+
+2619 (@remaining:y) 0.053012
+
+2620 (@remaining:n) 0.946988
+
+2621 (@lawson:y) 0.003614
+
+2622 (@lawson:n) 0.996386
+
+2623 (@factors:y) 0.013253
+
+2624 (@factors:n) 0.986747
+
+2625 (@operation:y) 0.014458
+
+2626 (@operation:n) 0.985542
+
+2627 (@policies:y) 0.021687
+
+2628 (@policies:n) 0.978313
+
+2629 (@james:y) 0.016867
+
+2630 (@james:n) 0.983133
+
+2631 (@bonus:y) 0.003614
+
+2632 (@bonus:n) 0.996386
+
+2633 (@land:y) 0.014458
+
+2634 (@land:n) 0.985542
+
+2635 (@periods:y) 0.001205
+
+2636 (@periods:n) 0.998795
+
+2637 (@session:y) 0.006024
+
+2638 (@session:n) 0.993976
+
+2639 (@forecasts:y) 0.014458
+
+2640 (@forecasts:n) 0.985542
+
+2641 (@caused:y) 0.019277
+
+2642 (@caused:n) 0.980723
+
+2643 (@cotton:y) 0.008434
+
+2644 (@cotton:n) 0.991566
+
+2645 (@ships:y) 0.009639
+
+2646 (@ships:n) 0.990361
+
+2647 (@immediately:y) 0.024096
+
+2648 (@immediately:n) 0.975904
+
+2649 (@purolator:y) 0.004819
+
+2650 (@purolator:n) 0.995181
+
+2651 (@dispute:y) 0.021687
+
+2652 (@dispute:n) 0.978313
+
+2653 (@form:y) 0.024096
+
+2654 (@form:n) 0.975904
+
+2655 (@repurchase:y) 0.049398
+
+2656 (@repurchase:n) 0.950602
+
+2657 (@revenue:y) 0.018072
+
+2658 (@revenue:n) 0.981928
+
+2659 (@businesses:y) 0.014458
+
+2660 (@businesses:n) 0.985542
+
+2661 (@palm:y) 0.008434
+
+2662 (@palm:n) 0.991566
+
+2663 (@class:y) 0.014458
+
+2664 (@class:n) 0.985542
+
+2665 (@paper:y) 0.016867
+
+2666 (@paper:n) 0.983133
+
+2667 (@orders:y) 0.006024
+
+2668 (@orders:n) 0.993976
+
+2669 (@controls:y) 0.018072
+
+2670 (@controls:n) 0.981928
+
+2671 (@produced:y) 0.019277
+
+2672 (@produced:n) 0.980723
+
+2673 (@assistance:y) 0.000000
+
+2674 (@assistance:n) 1.000000
+
+2675 (@senate:y) 0.012048
+
+2676 (@senate:n) 0.987952
+
+2677 (@don:y) 0.015663
+
+2678 (@don:n) 0.984337
+
+2679 (@august:y) 0.013253
+
+2680 (@august:n) 0.986747
+
+2681 (@shearson:y) 0.009639
+
+2682 (@shearson:n) 0.990361
+
+2683 (@continuing:y) 0.044578
+
+2684 (@continuing:n) 0.955422
+
+2685 (@significant:y) 0.018072
+
+2686 (@significant:n) 0.981928
+
+2687 (@decided:y) 0.016867
+
+2688 (@decided:n) 0.983133
+
+2689 (@undisclosed:y) 0.019277
+
+2690 (@undisclosed:n) 0.980723
+
+2691 (@mid:y) 0.024096
+
+2692 (@mid:n) 0.975904
+
+2693 (@partnership:y) 0.006024
+
+2694 (@partnership:n) 0.993976
+
+2695 (@filing:y) 0.016867
+
+2696 (@filing:n) 0.983133
+
+2697 (@organization:y) 0.013253
+
+2698 (@organization:n) 0.986747
+
+2699 (@reflect:y) 0.010843
+
+2700 (@reflect:n) 0.989157
+
+2701 (@increasing:y) 0.020482
+
+2702 (@increasing:n) 0.979518
+
+2703 (@concern:y) 0.016867
+
+2704 (@concern:n) 0.983133
+
+2705 (@place:y) 0.024096
+
+2706 (@place:n) 0.975904
+
+2707 (@winter:y) 0.016867
+
+2708 (@winter:n) 0.983133
+
+2709 (@options:y) 0.015663
+
+2710 (@options:n) 0.984337
+
+2711 (@rises:y) 0.020482
+
+2712 (@rises:n) 0.979518
+
+2713 (@regular:y) 0.009639
+
+2714 (@regular:n) 0.990361
+
+2715 (@seasonally:y) 0.037349
+
+2716 (@seasonally:n) 0.962651
+
+2717 (@call:y) 0.012048
+
+2718 (@call:n) 0.987952
+
+2719 (@acres:y) 0.009639
+
+2720 (@acres:n) 0.990361
+
+2721 (@mines:y) 0.015663
+
+2722 (@mines:n) 0.984337
+
+2723 (@disclosed:y) 0.026506
+
+2724 (@disclosed:n) 0.973494
+
+2725 (@option:y) 0.015663
+
+2726 (@option:n) 0.984337
+
+2727 (@problem:y) 0.019277
+
+2728 (@problem:n) 0.980723
+
+2729 (@certificates:y) 0.009639
+
+2730 (@certificates:n) 0.990361
+
+2731 (@beef:y) 0.004819
+
+2732 (@beef:n) 0.995181
+
+2733 (@air:y) 0.012048
+
+2734 (@air:n) 0.987952
+
+2735 (@improved:y) 0.022892
+
+2736 (@improved:n) 0.977108
+
+2737 (@force:y) 0.014458
+
+2738 (@force:n) 0.985542
+
+2739 (@refinery:y) 0.014458
+
+2740 (@refinery:n) 0.985542
+
+2741 (@press:y) 0.025301
+
+2742 (@press:n) 0.974699
+
+2743 (@delivery:y) 0.009639
+
+2744 (@delivery:n) 0.990361
+
+2745 (@consumption:y) 0.024096
+
+2746 (@consumption:n) 0.975904
+
+2747 (@falling:y) 0.044578
+
+2748 (@falling:n) 0.955422
+
+2749 (@white:y) 0.013253
+
+2750 (@white:n) 0.986747
+
+2751 (@offers:y) 0.012048
+
+2752 (@offers:n) 0.987952
+
+2753 (@limited:y) 0.016867
+
+2754 (@limited:n) 0.983133
+
+2755 (@feet:y) 0.012048
+
+2756 (@feet:n) 0.987952
+
+2757 (@related:y) 0.016867
+
+2758 (@related:n) 0.983133
+
+2759 (@properties:y) 0.015663
+
+2760 (@properties:n) 0.984337
+
+2761 (@ounces:y) 0.008434
+
+2762 (@ounces:n) 0.991566
+
+2763 (@shipment:y) 0.006024
+
+2764 (@shipment:n) 0.993976
+
+2765 (@provision:y) 0.010843
+
+2766 (@provision:n) 0.989157
+
+2767 (@working:y) 0.015663
+
+2768 (@working:n) 0.984337
+
+2769 (@technology:y) 0.008434
+
+2770 (@technology:n) 0.991566
+
+2771 (@review:y) 0.022892
+
+2772 (@review:n) 0.977108
+
+2773 (@interests:y) 0.030120
+
+2774 (@interests:n) 0.969880
+
+2775 (@chemical:y) 0.010843
+
+2776 (@chemical:n) 0.989157
+
+2777 (@liquidity:y) 0.009639
+
+2778 (@liquidity:n) 0.990361
+
+2779 (@vice:y) 0.048193
+
+2780 (@vice:n) 0.951807
+
+2781 (@brazilian:y) 0.007229
+
+2782 (@brazilian:n) 0.992771
+
+2783 (@volume:y) 0.021687
+
+2784 (@volume:n) 0.978313
+
+2785 (@retail:y) 0.009639
+
+2786 (@retail:n) 0.990361
+
+2787 (@gave:y) 0.034940
+
+2788 (@gave:n) 0.965060
+
+2789 (@africa:y) 0.008434
+
+2790 (@africa:n) 0.991566
+
+2791 (@fixed:y) 0.014458
+
+2792 (@fixed:n) 0.985542
+
+2793 (@dollars:y) 0.009639
+
+2794 (@dollars:n) 0.990361
+
+2795 (@yeutter:y) 0.001205
+
+2796 (@yeutter:n) 0.998795
+
+2797 (@ico:y) 0.007229
+
+2798 (@ico:n) 0.992771
+
+2799 (@needed:y) 0.027711
+
+2800 (@needed:n) 0.972289
+
+2801 (@key:y) 0.013253
+
+2802 (@key:n) 0.986747
+
+2803 (@home:y) 0.014458
+
+2804 (@home:n) 0.985542
+
+2805 (@began:y) 0.033735
+
+2806 (@began:n) 0.966265
+
+2807 (@offering:y) 0.012048
+
+2808 (@offering:n) 0.987952
+
+2809 (@rubber:y) 0.008434
+
+2810 (@rubber:n) 0.991566
+
+2811 (@life:y) 0.032530
+
+2812 (@life:n) 0.967470
+
+2813 (@deposits:y) 0.004819
+
+2814 (@deposits:n) 0.995181
+
+2815 (@standard:y) 0.010843
+
+2816 (@standard:n) 0.989157
+
+2817 (@credits:y) 0.015663
+
+2818 (@credits:n) 0.984337
+
+2819 (@seek:y) 0.027711
+
+2820 (@seek:n) 0.972289
+
+2821 (@response:y) 0.025301
+
+2822 (@response:n) 0.974699
+
+2823 (@maize:y) 0.010843
+
+2824 (@maize:n) 0.989157
+
+2825 (@heavy:y) 0.027711
+
+2826 (@heavy:n) 0.972289
+
+2827 (@ecuador:y) 0.004819
+
+2828 (@ecuador:n) 0.995181
+
+2829 (@gross:y) 0.027711
+
+2830 (@gross:n) 0.972289
+
+2831 (@city:y) 0.010843
+
+2832 (@city:n) 0.989157
+
+2833 (@receive:y) 0.019277
+
+2834 (@receive:n) 0.980723
+
+2835 (@quoted:y) 0.021687
+
+2836 (@quoted:n) 0.978313
+
+2837 (@consumers:y) 0.010843
+
+2838 (@consumers:n) 0.989157
+
+2839 (@research:y) 0.015663
+
+2840 (@research:n) 0.984337
+
+2841 (@america:y) 0.015663
+
+2842 (@america:n) 0.984337
+
+2843 (@pretax:y) 0.024096
+
+2844 (@pretax:n) 0.975904
+
+2845 (@adding:y) 0.024096
+
+2846 (@adding:n) 0.975904
+
+2847 (@raises:y) 0.013253
+
+2848 (@raises:n) 0.986747
+
+2849 (@southern:y) 0.014458
+
+2850 (@southern:n) 0.985542
+
+2851 (@local:y) 0.020482
+
+2852 (@local:n) 0.979518
+
+2853 (@shareholder:y) 0.022892
+
+2854 (@shareholder:n) 0.977108
+
+2855 (@reduction:y) 0.016867
+
+2856 (@reduction:n) 0.983133
+
+2857 (@shipping:y) 0.020482
+
+2858 (@shipping:n) 0.979518
+
+2859 (@weather:y) 0.014458
+
+2860 (@weather:n) 0.985542
+
+2861 (@addition:y) 0.027711
+
+2862 (@addition:n) 0.972289
+
+2863 (@scheduled:y) 0.024096
+
+2864 (@scheduled:n) 0.975904
+
+2865 (@east:y) 0.030120
+
+2866 (@east:n) 0.969880
+
+2867 (@figure:y) 0.022892
+
+2868 (@figure:n) 0.977108
+
+2869 (@people:y) 0.033735
+
+2870 (@people:n) 0.966265
+
+2871 (@growing:y) 0.015663
+
+2872 (@growing:n) 0.984337
+
+2873 (@venture:y) 0.010843
+
+2874 (@venture:n) 0.989157
+
+2875 (@reports:y) 0.033735
+
+2876 (@reports:n) 0.966265
+
+2877 (@europe:y) 0.026506
+
+2878 (@europe:n) 0.973494
+
+2879 (@situation:y) 0.021687
+
+2880 (@situation:n) 0.978313
+
+2881 (@morning:y) 0.012048
+
+2882 (@morning:n) 0.987952
+
+2883 (@producing:y) 0.020482
+
+2884 (@producing:n) 0.979518
+
+2885 (@power:y) 0.016867
+
+2886 (@power:n) 0.983133
+
+2887 (@closed:y) 0.016867
+
+2888 (@closed:n) 0.983133
+
+2889 (@boost:y) 0.028916
+
+2890 (@boost:n) 0.971084
+
+2891 (@lending:y) 0.012048
+
+2892 (@lending:n) 0.987952
+
+2893 (@contracts:y) 0.008434
+
+2894 (@contracts:n) 0.991566
+
+2895 (@seeking:y) 0.032530
+
+2896 (@seeking:n) 0.967470
+
+2897 (@buys:y) 0.030120
+
+2898 (@buys:n) 0.969880
+
+2899 (@discount:y) 0.016867
+
+2900 (@discount:n) 0.983133
+
+2901 (@manufacturing:y) 0.014458
+
+2902 (@manufacturing:n) 0.985542
+
+2903 (@port:y) 0.014458
+
+2904 (@port:n) 0.985542
+
+2905 (@initial:y) 0.010843
+
+2906 (@initial:n) 0.989157
+
+2907 (@return:y) 0.031325
+
+2908 (@return:n) 0.968675
+
+2909 (@shipments:y) 0.002410
+
+2910 (@shipments:n) 0.997590
+
+2911 (@dec:y) 0.007229
+
+2912 (@dec:n) 0.992771
+
+2913 (@rules:y) 0.015663
+
+2914 (@rules:n) 0.984337
+
+2915 (@cyclops:y) 0.004819
+
+2916 (@cyclops:n) 0.995181
+
+2917 (@security:y) 0.016867
+
+2918 (@security:n) 0.983133
+
+2919 (@investor:y) 0.022892
+
+2920 (@investor:n) 0.977108
+
+2921 (@twa:y) 0.004819
+
+2922 (@twa:n) 0.995181
+
+2923 (@computer:y) 0.010843
+
+2924 (@computer:n) 0.989157
+
+2925 (@date:y) 0.019277
+
+2926 (@date:n) 0.980723
+
+2927 (@impact:y) 0.022892
+
+2928 (@impact:n) 0.977108
+
+2929 (@directors:y) 0.021687
+
+2930 (@directors:n) 0.978313
+
+2931 (@office:y) 0.026506
+
+2932 (@office:n) 0.973494
+
+2933 (@tariffs:y) 0.014458
+
+2934 (@tariffs:n) 0.985542
+
+2935 (@order:y) 0.013253
+
+2936 (@order:n) 0.986747
+
+2937 (@institute:y) 0.022892
+
+2938 (@institute:n) 0.977108
+
+2939 (@hit:y) 0.040964
+
+2940 (@hit:n) 0.959036
+
+2941 (@director:y) 0.024096
+
+2942 (@director:n) 0.975904
+
+2943 (@exporters:y) 0.015663
+
+2944 (@exporters:n) 0.984337
+
+2945 (@pre:y) 0.022892
+
+2946 (@pre:n) 0.977108
+
+2947 (@included:y) 0.031325
+
+2948 (@included:n) 0.968675
+
+2949 (@tokyo:y) 0.010843
+
+2950 (@tokyo:n) 0.989157
+
+2951 (@agreements:y) 0.048193
+
+2952 (@agreements:n) 0.951807
+
+2953 (@indonesia:y) 0.009639
+
+2954 (@indonesia:n) 0.990361
+
+2955 (@sharply:y) 0.026506
+
+2956 (@sharply:n) 0.973494
+
+2957 (@lead:y) 0.006024
+
+2958 (@lead:n) 0.993976
+
+2959 (@tons:y) 0.006024
+
+2960 (@tons:n) 0.993976
+
+2961 (@study:y) 0.018072
+
+2962 (@study:n) 0.981928
+
+2963 (@korea:y) 0.007229
+
+2964 (@korea:n) 0.992771
+
+2965 (@workers:y) 0.014458
+
+2966 (@workers:n) 0.985542
+
+2967 (@gatt:y) 0.004819
+
+2968 (@gatt:n) 0.995181
+
+2969 (@small:y) 0.033735
+
+2970 (@small:n) 0.966265
+
+2971 (@declared:y) 0.033735
+
+2972 (@declared:n) 0.966265
+
+2973 (@agricultural:y) 0.020482
+
+2974 (@agricultural:n) 0.979518
+
+2975 (@leading:y) 0.024096
+
+2976 (@leading:n) 0.975904
+
+2977 (@slightly:y) 0.022892
+
+2978 (@slightly:n) 0.977108
+
+2979 (@increases:y) 0.019277
+
+2980 (@increases:n) 0.980723
+
+2981 (@led:y) 0.024096
+
+2982 (@led:n) 0.975904
+
+2983 (@issues:y) 0.019277
+
+2984 (@issues:n) 0.980723
+
+2985 (@planned:y) 0.019277
+
+2986 (@planned:n) 0.980723
+
+2987 (@financing:y) 0.018072
+
+2988 (@financing:n) 0.981928
+
+2989 (@mining:y) 0.013253
+
+2990 (@mining:n) 0.986747
+
+2991 (@sharp:y) 0.032530
+
+2992 (@sharp:n) 0.967470
+
+2993 (@tomorrow:y) 0.025301
+
+2994 (@tomorrow:n) 0.974699
+
+2995 (@estimates:y) 0.020482
+
+2996 (@estimates:n) 0.979518
+
+2997 (@daily:y) 0.019277
+
+2998 (@daily:n) 0.980723
+
+2999 (@equipment:y) 0.030120
+
+3000 (@equipment:n) 0.969880
+
+3001 (@proposals:y) 0.013253
+
+3002 (@proposals:n) 0.986747
+
+3003 (@bankers:y) 0.022892
+
+3004 (@bankers:n) 0.977108
+
+3005 (@statistics:y) 0.021687
+
+3006 (@statistics:n) 0.978313
+
+3007 (@capacity:y) 0.022892
+
+3008 (@capacity:n) 0.977108
+
+3009 (@spending:y) 0.013253
+
+3010 (@spending:n) 0.986747
+
+3011 (@estimate:y) 0.016867
+
+3012 (@estimate:n) 0.983133
+
+3013 (@rights:y) 0.018072
+
+3014 (@rights:n) 0.981928
+
+3015 (@restructuring:y) 0.020482
+
+3016 (@restructuring:n) 0.979518
+
+3017 (@copper:y) 0.008434
+
+3018 (@copper:n) 0.991566
+
+3019 (@range:y) 0.022892
+
+3020 (@range:n) 0.977108
+
+3021 (@congress:y) 0.018072
+
+3022 (@congress:n) 0.981928
+
+3023 (@reporters:y) 0.028916
+
+3024 (@reporters:n) 0.971084
+
+3025 (@distribution:y) 0.019277
+
+3026 (@distribution:n) 0.980723
+
+3027 (@problems:y) 0.026506
+
+3028 (@problems:n) 0.973494
+
+3029 (@australian:y) 0.020482
+
+3030 (@australian:n) 0.979518
+
+3031 (@season:y) 0.024096
+
+3032 (@season:n) 0.975904
+
+3033 (@holders:y) 0.019277
+
+3034 (@holders:n) 0.980723
+
+3035 (@details:y) 0.062651
+
+3036 (@details:n) 0.937349
+
+3037 (@equity:y) 0.027711
+
+3038 (@equity:n) 0.972289
+
+3039 (@stores:y) 0.009639
+
+3040 (@stores:n) 0.990361
+
+3041 (@cuts:y) 0.018072
+
+3042 (@cuts:n) 0.981928
+
+3043 (@strike:y) 0.009639
+
+3044 (@strike:n) 0.990361
+
+3045 (@bond:y) 0.010843
+
+3046 (@bond:n) 0.989157
+
+3047 (@hold:y) 0.033735
+
+3048 (@hold:n) 0.966265
+
+3049 (@commerce:y) 0.022892
+
+3050 (@commerce:n) 0.977108
+
+3051 (@britain:y) 0.019277
+
+3052 (@britain:n) 0.980723
+
+3053 (@provide:y) 0.024096
+
+3054 (@provide:n) 0.975904
+
+3055 (@ministers:y) 0.008434
+
+3056 (@ministers:n) 0.991566
+
+3057 (@worth:y) 0.031325
+
+3058 (@worth:n) 0.968675
+
+3059 (@start:y) 0.025301
+
+3060 (@start:n) 0.974699
+
+3061 (@rising:y) 0.024096
+
+3062 (@rising:n) 0.975904
+
+3063 (@purchases:y) 0.015663
+
+3064 (@purchases:n) 0.984337
+
+3065 (@showed:y) 0.033735
+
+3066 (@showed:n) 0.966265
+
+3067 (@position:y) 0.038554
+
+3068 (@position:n) 0.961446
+
+3069 (@bills:y) 0.003614
+
+3070 (@bills:n) 0.996386
+
+3071 (@gencorp:y) 0.002410
+
+3072 (@gencorp:n) 0.997590
+
+3073 (@november:y) 0.032530
+
+3074 (@november:n) 0.967470
+
+3075 (@reduced:y) 0.016867
+
+3076 (@reduced:n) 0.983133
+
+3077 (@continued:y) 0.022892
+
+3078 (@continued:n) 0.977108
+
+3079 (@currencies:y) 0.021687
+
+3080 (@currencies:n) 0.978313
+
+3081 (@payment:y) 0.020482
+
+3082 (@payment:n) 0.979518
+
+3083 (@letter:y) 0.024096
+
+3084 (@letter:n) 0.975904
+
+3085 (@dutch:y) 0.022892
+
+3086 (@dutch:n) 0.977108
+
+3087 (@court:y) 0.019277
+
+3088 (@court:n) 0.980723
+
+3089 (@turnover:y) 0.020482
+
+3090 (@turnover:n) 0.979518
+
+3091 (@saudi:y) 0.007229
+
+3092 (@saudi:n) 0.992771
+
+3093 (@producer:y) 0.024096
+
+3094 (@producer:n) 0.975904
+
+3095 (@senior:y) 0.020482
+
+3096 (@senior:n) 0.979518
+
+3097 (@selling:y) 0.020482
+
+3098 (@selling:n) 0.979518
+
+3099 (@reached:y) 0.049398
+
+3100 (@reached:n) 0.950602
+
+3101 (@commodity:y) 0.018072
+
+3102 (@commodity:n) 0.981928
+
+3103 (@expect:y) 0.026506
+
+3104 (@expect:n) 0.973494
+
+3105 (@delegates:y) 0.006024
+
+3106 (@delegates:n) 0.993976
+
+3107 (@signed:y) 0.026506
+
+3108 (@signed:n) 0.973494
+
+3109 (@meet:y) 0.021687
+
+3110 (@meet:n) 0.978313
+
+3111 (@measures:y) 0.022892
+
+3112 (@measures:n) 0.977108
+
+3113 (@member:y) 0.036145
+
+3114 (@member:n) 0.963855
+
+3115 (@joint:y) 0.028916
+
+3116 (@joint:n) 0.971084
+
+3117 (@free:y) 0.024096
+
+3118 (@free:n) 0.975904
+
+3119 (@fund:y) 0.020482
+
+3120 (@fund:n) 0.979518
+
+3121 (@charge:y) 0.010843
+
+3122 (@charge:n) 0.989157
+
+3123 (@england:y) 0.009639
+
+3124 (@england:n) 0.990361
+
+3125 (@partners:y) 0.019277
+
+3126 (@partners:n) 0.980723
+
+3127 (@pressure:y) 0.021687
+
+3128 (@pressure:n) 0.978313
+
+3129 (@insurance:y) 0.027711
+
+3130 (@insurance:n) 0.972289
+
+3131 (@latest:y) 0.036145
+
+3132 (@latest:n) 0.963855
+
+3133 (@bundesbank:y) 0.019277
+
+3134 (@bundesbank:n) 0.980723
+
+3135 (@friday:y) 0.018072
+
+3136 (@friday:n) 0.981928
+
+3137 (@october:y) 0.022892
+
+3138 (@october:n) 0.977108
+
+3139 (@conditions:y) 0.022892
+
+3140 (@conditions:n) 0.977108
+
+3141 (@marketing:y) 0.030120
+
+3142 (@marketing:n) 0.969880
+
+3143 (@present:y) 0.026506
+
+3144 (@present:n) 0.973494
+
+3145 (@payout:y) 0.007229
+
+3146 (@payout:n) 0.992771
+
+3147 (@units:y) 0.032530
+
+3148 (@units:n) 0.967470
+
+3149 (@received:y) 0.034940
+
+3150 (@received:n) 0.965060
+
+3151 (@sterling:y) 0.010843
+
+3152 (@sterling:n) 0.989157
+
+3153 (@australia:y) 0.025301
+
+3154 (@australia:n) 0.974699
+
+3155 (@exploration:y) 0.031325
+
+3156 (@exploration:n) 0.968675
+
+3157 (@barrel:y) 0.020482
+
+3158 (@barrel:n) 0.979518
+
+3159 (@areas:y) 0.025301
+
+3160 (@areas:n) 0.974699
+
+3161 (@discontinued:y) 0.004819
+
+3162 (@discontinued:n) 0.995181
+
+3163 (@food:y) 0.048193
+
+3164 (@food:n) 0.951807
+
+3165 (@negotiations:y) 0.020482
+
+3166 (@negotiations:n) 0.979518
+
+3167 (@washington:y) 0.021687
+
+3168 (@washington:n) 0.978313
+
+3169 (@texas:y) 0.030120
+
+3170 (@texas:n) 0.969880
+
+3171 (@natural:y) 0.040964
+
+3172 (@natural:n) 0.959036
+
+3173 (@preferred:y) 0.016867
+
+3174 (@preferred:n) 0.983133
+
+3175 (@main:y) 0.030120
+
+3176 (@main:n) 0.969880
+
+3177 (@effect:y) 0.026506
+
+3178 (@effect:n) 0.973494
+
+3179 (@area:y) 0.027711
+
+3180 (@area:n) 0.972289
+
+3181 (@raise:y) 0.024096
+
+3182 (@raise:n) 0.975904
+
+3183 (@tonne:y) 0.014458
+
+3184 (@tonne:n) 0.985542
+
+3185 (@holding:y) 0.036145
+
+3186 (@holding:n) 0.963855
+
+3187 (@chief:y) 0.032530
+
+3188 (@chief:n) 0.967470
+
+3189 (@special:y) 0.025301
+
+3190 (@special:n) 0.974699
+
+3191 (@index:y) 0.014458
+
+3192 (@index:n) 0.985542
+
+3193 (@paid:y) 0.033735
+
+3194 (@paid:n) 0.966265
+
+3195 (@quotas:y) 0.015663
+
+3196 (@quotas:n) 0.984337
+
+3197 (@work:y) 0.025301
+
+3198 (@work:n) 0.974699
+
+3199 (@unchanged:y) 0.034940
+
+3200 (@unchanged:n) 0.965060
+
+3201 (@give:y) 0.046988
+
+3202 (@give:n) 0.953012
+
+3203 (@investors:y) 0.028916
+
+3204 (@investors:n) 0.971084
+
+3205 (@division:y) 0.015663
+
+3206 (@division:n) 0.984337
+
+3207 (@economists:y) 0.026506
+
+3208 (@economists:n) 0.973494
+
+3209 (@mark:y) 0.024096
+
+3210 (@mark:n) 0.975904
+
+3211 (@france:y) 0.032530
+
+3212 (@france:n) 0.967470
+
+3213 (@put:y) 0.020482
+
+3214 (@put:n) 0.979518
+
+3215 (@issued:y) 0.034940
+
+3216 (@issued:n) 0.965060
+
+3217 (@weeks:y) 0.030120
+
+3218 (@weeks:n) 0.969880
+
+3219 (@july:y) 0.027711
+
+3220 (@july:n) 0.972289
+
+3221 (@western:y) 0.022892
+
+3222 (@western:n) 0.977108
+
+3223 (@north:y) 0.032530
+
+3224 (@north:n) 0.967470
+
+3225 (@soybean:y) 0.016867
+
+3226 (@soybean:n) 0.983133
+
+3227 (@remain:y) 0.066265
+
+3228 (@remain:n) 0.933735
+
+3229 (@offered:y) 0.033735
+
+3230 (@offered:n) 0.966265
+
+3231 (@raised:y) 0.022892
+
+3232 (@raised:n) 0.977108
+
+3233 (@buffer:y) 0.007229
+
+3234 (@buffer:n) 0.992771
+
+3235 (@conference:y) 0.037349
+
+3236 (@conference:n) 0.962651
+
+3237 (@gains:y) 0.019277
+
+3238 (@gains:n) 0.980723
+
+3239 (@steel:y) 0.013253
+
+3240 (@steel:n) 0.986747
+
+3241 (@transaction:y) 0.044578
+
+3242 (@transaction:n) 0.955422
+
+3243 (@farmers:y) 0.025301
+
+3244 (@farmers:n) 0.974699
+
+3245 (@commercial:y) 0.024096
+
+3246 (@commercial:n) 0.975904
+
+3247 (@usair:y) 0.006024
+
+3248 (@usair:n) 0.993976
+
+3249 (@data:y) 0.018072
+
+3250 (@data:n) 0.981928
+
+3251 (@buying:y) 0.030120
+
+3252 (@buying:n) 0.969880
+
+3253 (@large:y) 0.038554
+
+3254 (@large:n) 0.961446
+
+3255 (@contract:y) 0.020482
+
+3256 (@contract:n) 0.979518
+
+3257 (@line:y) 0.027711
+
+3258 (@line:n) 0.972289
+
+3259 (@holdings:y) 0.069880
+
+3260 (@holdings:n) 0.930120
+
+3261 (@called:y) 0.021687
+
+3262 (@called:n) 0.978313
+
+3263 (@cents:y) 0.022892
+
+3264 (@cents:n) 0.977108
+
+3265 (@product:y) 0.043373
+
+3266 (@product:n) 0.956627
+
+3267 (@excludes:y) 0.004819
+
+3268 (@excludes:n) 0.995181
+
+3269 (@quota:y) 0.016867
+
+3270 (@quota:n) 0.983133
+
+3271 (@reagan:y) 0.007229
+
+3272 (@reagan:n) 0.992771
+
+3273 (@london:y) 0.033735
+
+3274 (@london:n) 0.966265
+
+3275 (@news:y) 0.050602
+
+3276 (@news:n) 0.949398
+
+3277 (@executive:y) 0.050602
+
+3278 (@executive:n) 0.949398
+
+3279 (@extraordinary:y) 0.009639
+
+3280 (@extraordinary:n) 0.990361
+
+3281 (@real:y) 0.030120
+
+3282 (@real:n) 0.969880
+
+3283 (@comment:y) 0.043373
+
+3284 (@comment:n) 0.956627
+
+3285 (@accord:y) 0.015663
+
+3286 (@accord:n) 0.984337
+
+3287 (@plant:y) 0.021687
+
+3288 (@plant:n) 0.978313
+
+3289 (@analyst:y) 0.016867
+
+3290 (@analyst:n) 0.983133
+
+3291 (@takeover:y) 0.054217
+
+3292 (@takeover:n) 0.945783
+
+3293 (@final:y) 0.025301
+
+3294 (@final:n) 0.974699
+
+3295 (@additional:y) 0.026506
+
+3296 (@additional:n) 0.973494
+
+3297 (@number:y) 0.056627
+
+3298 (@number:n) 0.943373
+
+3299 (@trust:y) 0.022892
+
+3300 (@trust:n) 0.977108
+
+3301 (@cocoa:y) 0.004819
+
+3302 (@cocoa:n) 0.995181
+
+3303 (@effective:y) 0.030120
+
+3304 (@effective:n) 0.969880
+
+3305 (@firms:y) 0.030120
+
+3306 (@firms:n) 0.969880
+
+3307 (@baker:y) 0.007229
+
+3308 (@baker:n) 0.992771
+
+3309 (@good:y) 0.037349
+
+3310 (@good:n) 0.962651
+
+3311 (@decision:y) 0.024096
+
+3312 (@decision:n) 0.975904
+
+3313 (@payable:y) 0.028916
+
+3314 (@payable:n) 0.971084
+
+3315 (@agency:y) 0.031325
+
+3316 (@agency:n) 0.968675
+
+3317 (@service:y) 0.027711
+
+3318 (@service:n) 0.972289
+
+3319 (@pacific:y) 0.018072
+
+3320 (@pacific:n) 0.981928
+
+3321 (@balance:y) 0.030120
+
+3322 (@balance:n) 0.969880
+
+3323 (@basis:y) 0.054217
+
+3324 (@basis:n) 0.945783
+
+3325 (@late:y) 0.028916
+
+3326 (@late:n) 0.971084
+
+3327 (@amount:y) 0.030120
+
+3328 (@amount:n) 0.969880
+
+3329 (@making:y) 0.038554
+
+3330 (@making:n) 0.961446
+
+3331 (@nil:y) 0.006024
+
+3332 (@nil:n) 0.993976
+
+3333 (@base:y) 0.030120
+
+3334 (@base:n) 0.969880
+
+3335 (@show:y) 0.039759
+
+3336 (@show:n) 0.960241
+
+3337 (@members:y) 0.031325
+
+3338 (@members:n) 0.968675
+
+3339 (@taiwan:y) 0.013253
+
+3340 (@taiwan:n) 0.986747
+
+3341 (@subject:y) 0.046988
+
+3342 (@subject:n) 0.953012
+
+3343 (@target:y) 0.032530
+
+3344 (@target:n) 0.967470
+
+3345 (@deal:y) 0.038554
+
+3346 (@deal:n) 0.961446
+
+3347 (@council:y) 0.025301
+
+3348 (@council:n) 0.974699
+
+3349 (@administration:y) 0.018072
+
+3350 (@administration:n) 0.981928
+
+3351 (@secretary:y) 0.030120
+
+3352 (@secretary:n) 0.969880
+
+3353 (@approved:y) 0.034940
+
+3354 (@approved:n) 0.965060
+
+3355 (@germany:y) 0.061446
+
+3356 (@germany:n) 0.938554
+
+3357 (@open:y) 0.024096
+
+3358 (@open:n) 0.975904
+
+3359 (@savings:y) 0.015663
+
+3360 (@savings:n) 0.984337
+
+3361 (@resources:y) 0.042169
+
+3362 (@resources:n) 0.957831
+
+3363 (@prime:y) 0.025301
+
+3364 (@prime:n) 0.974699
+
+3365 (@noted:y) 0.034940
+
+3366 (@noted:n) 0.965060
+
+3367 (@close:y) 0.040964
+
+3368 (@close:n) 0.959036
+
+3369 (@monetary:y) 0.022892
+
+3370 (@monetary:n) 0.977108
+
+3371 (@support:y) 0.034940
+
+3372 (@support:n) 0.965060
+
+3373 (@quarterly:y) 0.019277
+
+3374 (@quarterly:n) 0.980723
+
+3375 (@adjusted:y) 0.040964
+
+3376 (@adjusted:n) 0.959036
+
+3377 (@systems:y) 0.022892
+
+3378 (@systems:n) 0.977108
+
+3379 (@control:y) 0.043373
+
+3380 (@control:n) 0.956627
+
+3381 (@consumer:y) 0.025301
+
+3382 (@consumer:n) 0.974699
+
+3383 (@sector:y) 0.024096
+
+3384 (@sector:n) 0.975904
+
+3385 (@community:y) 0.040964
+
+3386 (@community:n) 0.959036
+
+3387 (@declined:y) 0.090361
+
+3388 (@declined:n) 0.909639
+
+3389 (@acquired:y) 0.048193
+
+3390 (@acquired:n) 0.951807
+
+3391 (@revenues:y) 0.015663
+
+3392 (@revenues:n) 0.984337
+
+3393 (@banking:y) 0.039759
+
+3394 (@banking:n) 0.960241
+
+3395 (@approval:y) 0.043373
+
+3396 (@approval:n) 0.956627
+
+3397 (@loans:y) 0.024096
+
+3398 (@loans:n) 0.975904
+
+3399 (@completed:y) 0.061446
+
+3400 (@completed:n) 0.938554
+
+3401 (@futures:y) 0.009639
+
+3402 (@futures:n) 0.990361
+
+3403 (@largest:y) 0.049398
+
+3404 (@largest:n) 0.950602
+
+3405 (@reduce:y) 0.044578
+
+3406 (@reduce:n) 0.955422
+
+3407 (@farm:y) 0.021687
+
+3408 (@farm:n) 0.978313
+
+3409 (@strong:y) 0.048193
+
+3410 (@strong:n) 0.951807
+
+3411 (@losses:y) 0.026506
+
+3412 (@losses:n) 0.973494
+
+3413 (@gulf:y) 0.016867
+
+3414 (@gulf:n) 0.983133
+
+3415 (@goods:y) 0.016867
+
+3416 (@goods:n) 0.983133
+
+3417 (@asked:y) 0.030120
+
+3418 (@asked:n) 0.969880
+
+3419 (@drop:y) 0.069880
+
+3420 (@drop:n) 0.930120
+
+3421 (@crop:y) 0.018072
+
+3422 (@crop:n) 0.981928
+
+3423 (@british:y) 0.031325
+
+3424 (@british:n) 0.968675
+
+3425 (@change:y) 0.036145
+
+3426 (@change:n) 0.963855
+
+3427 (@move:y) 0.037349
+
+3428 (@move:n) 0.962651
+
+3429 (@private:y) 0.032530
+
+3430 (@private:n) 0.967470
+
+3431 (@services:y) 0.032530
+
+3432 (@services:n) 0.967470
+
+3433 (@account:y) 0.038554
+
+3434 (@account:n) 0.961446
+
+3435 (@nations:y) 0.030120
+
+3436 (@nations:n) 0.969880
+
+3437 (@action:y) 0.031325
+
+3438 (@action:n) 0.968675
+
+3439 (@include:y) 0.036145
+
+3440 (@include:n) 0.963855
+
+3441 (@revised:y) 0.020482
+
+3442 (@revised:n) 0.979518
+
+3443 (@september:y) 0.037349
+
+3444 (@september:n) 0.962651
+
+3445 (@feb:y) 0.015663
+
+3446 (@feb:n) 0.984337
+
+3447 (@point:y) 0.025301
+
+3448 (@point:n) 0.974699
+
+3449 (@proposal:y) 0.033735
+
+3450 (@proposal:n) 0.966265
+
+3451 (@french:y) 0.056627
+
+3452 (@french:n) 0.943373
+
+3453 (@inflation:y) 0.014458
+
+3454 (@inflation:n) 0.985542
+
+3455 (@pact:y) 0.021687
+
+3456 (@pact:n) 0.978313
+
+3457 (@funds:y) 0.051807
+
+3458 (@funds:n) 0.948193
+
+3459 (@paris:y) 0.025301
+
+3460 (@paris:n) 0.974699
+
+3461 (@intervention:y) 0.031325
+
+3462 (@intervention:n) 0.968675
+
+3463 (@payments:y) 0.032530
+
+3464 (@payments:n) 0.967470
+
+3465 (@association:y) 0.067470
+
+3466 (@association:n) 0.932530
+
+3467 (@future:y) 0.049398
+
+3468 (@future:n) 0.950602
+
+3469 (@decline:y) 0.037349
+
+3470 (@decline:n) 0.962651
+
+3471 (@import:y) 0.031325
+
+3472 (@import:n) 0.968675
+
+3473 (@short:y) 0.043373
+
+3474 (@short:n) 0.956627
+
+3475 (@days:y) 0.034940
+
+3476 (@days:n) 0.965060
+
+3477 (@barrels:y) 0.034940
+
+3478 (@barrels:n) 0.965060
+
+3479 (@stocks:y) 0.027711
+
+3480 (@stocks:n) 0.972289
+
+3481 (@fourth:y) 0.025301
+
+3482 (@fourth:n) 0.974699
+
+3483 (@german:y) 0.069880
+
+3484 (@german:n) 0.930120
+
+3485 (@result:y) 0.037349
+
+3486 (@result:n) 0.962651
+
+3487 (@york:y) 0.038554
+
+3488 (@york:n) 0.961446
+
+3489 (@budget:y) 0.020482
+
+3490 (@budget:n) 0.979518
+
+3491 (@francs:y) 0.020482
+
+3492 (@francs:n) 0.979518
+
+3493 (@cost:y) 0.040964
+
+3494 (@cost:n) 0.959036
+
+3495 (@public:y) 0.040964
+
+3496 (@public:n) 0.959036
+
+3497 (@levels:y) 0.059036
+
+3498 (@levels:n) 0.940964
+
+3499 (@reserve:y) 0.050602
+
+3500 (@reserve:n) 0.949398
+
+3501 (@committee:y) 0.028916
+
+3502 (@committee:n) 0.971084
+
+3503 (@bought:y) 0.048193
+
+3504 (@bought:n) 0.951807
+
+3505 (@bpd:y) 0.019277
+
+3506 (@bpd:n) 0.980723
+
+3507 (@plc:y) 0.057831
+
+3508 (@plc:n) 0.942169
+
+3509 (@soviet:y) 0.015663
+
+3510 (@soviet:n) 0.984337
+
+3511 (@sees:y) 0.045783
+
+3512 (@sees:n) 0.954217
+
+3513 (@development:y) 0.043373
+
+3514 (@development:n) 0.956627
+
+3515 (@country:y) 0.083133
+
+3516 (@country:n) 0.916867
+
+3517 (@petroleum:y) 0.054217
+
+3518 (@petroleum:n) 0.945783
+
+3519 (@house:y) 0.022892
+
+3520 (@house:n) 0.977108
+
+3521 (@bill:y) 0.022892
+
+3522 (@bill:n) 0.977108
+
+3523 (@held:y) 0.069880
+
+3524 (@held:n) 0.930120
+
+3525 (@china:y) 0.022892
+
+3526 (@china:n) 0.977108
+
+3527 (@profits:y) 0.048193
+
+3528 (@profits:n) 0.951807
+
+3529 (@treasury:y) 0.015663
+
+3530 (@treasury:n) 0.984337
+
+3531 (@issue:y) 0.044578
+
+3532 (@issue:n) 0.955422
+
+3533 (@mths:y) 0.001205
+
+3534 (@mths:n) 0.998795
+
+3535 (@acquire:y) 0.079518
+
+3536 (@acquire:n) 0.920482
+
+3537 (@jan:y) 0.013253
+
+3538 (@jan:n) 0.986747
+
+3539 (@finance:y) 0.046988
+
+3540 (@finance:n) 0.953012
+
+3541 (@sets:y) 0.038554
+
+3542 (@sets:n) 0.961446
+
+3543 (@full:y) 0.032530
+
+3544 (@full:n) 0.967470
+
+3545 (@costs:y) 0.040964
+
+3546 (@costs:n) 0.959036
+
+3547 (@including:y) 0.100000
+
+3548 (@including:n) 0.900000
+
+3549 (@ministry:y) 0.034940
+
+3550 (@ministry:n) 0.965060
+
+3551 (@previously:y) 0.055422
+
+3552 (@previously:n) 0.944578
+
+3553 (@opec:y) 0.015663
+
+3554 (@opec:n) 0.984337
+
+3555 (@usda:y) 0.026506
+
+3556 (@usda:n) 0.973494
+
+3557 (@purchase:y) 0.050602
+
+3558 (@purchase:n) 0.949398
+
+3559 (@fed:y) 0.049398
+
+3560 (@fed:n) 0.950602
+
+3561 (@part:y) 0.044578
+
+3562 (@part:n) 0.955422
+
+3563 (@reuters:y) 0.067470
+
+3564 (@reuters:n) 0.932530
+
+3565 (@proposed:y) 0.048193
+
+3566 (@proposed:n) 0.951807
+
+3567 (@sold:y) 0.062651
+
+3568 (@sold:n) 0.937349
+
+3569 (@operating:y) 0.040964
+
+3570 (@operating:n) 0.959036
+
+3571 (@forecast:y) 0.030120
+
+3572 (@forecast:n) 0.969880
+
+3573 (@supply:y) 0.054217
+
+3574 (@supply:n) 0.945783
+
+3575 (@traders:y) 0.042169
+
+3576 (@traders:n) 0.957831
+
+3577 (@dealers:y) 0.034940
+
+3578 (@dealers:n) 0.965060
+
+3579 (@june:y) 0.060241
+
+3580 (@june:n) 0.939759
+
+3581 (@industrial:y) 0.038554
+
+3582 (@industrial:n) 0.961446
+
+3583 (@early:y) 0.048193
+
+3584 (@early:n) 0.951807
+
+3585 (@fiscal:y) 0.021687
+
+3586 (@fiscal:n) 0.978313
+
+3587 (@firm:y) 0.049398
+
+3588 (@firm:n) 0.950602
+
+3589 (@continue:y) 0.051807
+
+3590 (@continue:n) 0.948193
+
+3591 (@qtly:y) 0.003614
+
+3592 (@qtly:n) 0.996386
+
+3593 (@previous:y) 0.048193
+
+3594 (@previous:n) 0.951807
+
+3595 (@management:y) 0.053012
+
+3596 (@management:n) 0.946988
+
+3597 (@outstanding:y) 0.066265
+
+3598 (@outstanding:n) 0.933735
+
+3599 (@estimated:y) 0.055422
+
+3600 (@estimated:n) 0.944578
+
+3601 (@bid:y) 0.048193
+
+3602 (@bid:n) 0.951807
+
+3603 (@loan:y) 0.032530
+
+3604 (@loan:n) 0.967470
+
+3605 (@energy:y) 0.034940
+
+3606 (@energy:n) 0.965060
+
+3607 (@split:y) 0.026506
+
+3608 (@split:n) 0.973494
+
+3609 (@owned:y) 0.073494
+
+3610 (@owned:n) 0.926506
+
+3611 (@income:y) 0.068675
+
+3612 (@income:n) 0.931325
+
+3613 (@subsidiary:y) 0.061446
+
+3614 (@subsidiary:n) 0.938554
+
+3615 (@increased:y) 0.056627
+
+3616 (@increased:n) 0.943373
+
+3617 (@economy:y) 0.034940
+
+3618 (@economy:n) 0.965060
+
+3619 (@brazil:y) 0.027711
+
+3620 (@brazil:n) 0.972289
+
+3621 (@program:y) 0.031325
+
+3622 (@program:n) 0.968675
+
+3623 (@average:y) 0.045783
+
+3624 (@average:n) 0.954217
+
+3625 (@marks:y) 0.032530
+
+3626 (@marks:n) 0.967470
+
+3627 (@producers:y) 0.037349
+
+3628 (@producers:n) 0.962651
+
+3629 (@terms:y) 0.071084
+
+3630 (@terms:n) 0.928916
+
+3631 (@canadian:y) 0.019277
+
+3632 (@canadian:n) 0.980723
+
+3633 (@long:y) 0.077108
+
+3634 (@long:n) 0.922892
+
+3635 (@plan:y) 0.053012
+
+3636 (@plan:n) 0.946988
+
+3637 (@level:y) 0.075904
+
+3638 (@level:n) 0.924096
+
+3639 (@plans:y) 0.074699
+
+3640 (@plans:n) 0.925301
+
+3641 (@results:y) 0.049398
+
+3642 (@results:n) 0.950602
+
+3643 (@assets:y) 0.090361
+
+3644 (@assets:n) 0.909639
+
+3645 (@industries:y) 0.036145
+
+3646 (@industries:n) 0.963855
+
+3647 (@system:y) 0.048193
+
+3648 (@system:n) 0.951807
+
+3649 (@demand:y) 0.049398
+
+3650 (@demand:n) 0.950602
+
+3651 (@announced:y) 0.065060
+
+3652 (@announced:n) 0.934940
+
+3653 (@day:y) 0.045783
+
+3654 (@day:n) 0.954217
+
+3655 (@crude:y) 0.037349
+
+3656 (@crude:n) 0.962651
+
+3657 (@agriculture:y) 0.044578
+
+3658 (@agriculture:n) 0.955422
+
+3659 (@corn:y) 0.025301
+
+3660 (@corn:n) 0.974699
+
+3661 (@expects:y) 0.049398
+
+3662 (@expects:n) 0.950602
+
+3663 (@south:y) 0.037349
+
+3664 (@south:n) 0.962651
+
+3665 (@european:y) 0.055422
+
+3666 (@european:n) 0.944578
+
+3667 (@surplus:y) 0.030120
+
+3668 (@surplus:n) 0.969880
+
+3669 (@union:y) 0.032530
+
+3670 (@union:n) 0.967470
+
+3671 (@annual:y) 0.073494
+
+3672 (@annual:n) 0.926506
+
+3673 (@figures:y) 0.038554
+
+3674 (@figures:n) 0.961446
+
+3675 (@term:y) 0.091566
+
+3676 (@term:n) 0.908434
+
+3677 (@domestic:y) 0.042169
+
+3678 (@domestic:n) 0.957831
+
+3679 (@high:y) 0.073494
+
+3680 (@high:n) 0.926506
+
+3681 (@based:y) 0.065060
+
+3682 (@based:n) 0.934940
+
+3683 (@tender:y) 0.046988
+
+3684 (@tender:n) 0.953012
+
+3685 (@grain:y) 0.036145
+
+3686 (@grain:n) 0.963855
+
+3687 (@output:y) 0.036145
+
+3688 (@output:n) 0.963855
+
+3689 (@yesterday:y) 0.066265
+
+3690 (@yesterday:n) 0.933735
+
+3691 (@ended:y) 0.031325
+
+3692 (@ended:n) 0.968675
+
+3693 (@minister:y) 0.039759
+
+3694 (@minister:n) 0.960241
+
+3695 (@policy:y) 0.039759
+
+3696 (@policy:n) 0.960241
+
+3697 (@gold:y) 0.018072
+
+3698 (@gold:n) 0.981928
+
+3699 (@talks:y) 0.055422
+
+3700 (@talks:n) 0.944578
+
+3701 (@set:y) 0.049398
+
+3702 (@set:n) 0.950602
+
+3703 (@state:y) 0.059036
+
+3704 (@state:n) 0.940964
+
+3705 (@coffee:y) 0.015663
+
+3706 (@coffee:n) 0.984337
+
+3707 (@chairman:y) 0.144578
+
+3708 (@chairman:n) 0.855422
+
+3709 (@period:y) 0.039759
+
+3710 (@period:n) 0.960241
+
+3711 (@gain:y) 0.030120
+
+3712 (@gain:n) 0.969880
+
+3713 (@markets:y) 0.056627
+
+3714 (@markets:n) 0.943373
+
+3715 (@commission:y) 0.069880
+
+3716 (@commission:n) 0.930120
+
+3717 (@div:y) 0.009639
+
+3718 (@div:n) 0.990361
+
+3719 (@canada:y) 0.046988
+
+3720 (@canada:n) 0.953012
+
+3721 (@sell:y) 0.068675
+
+3722 (@sell:n) 0.931325
+
+3723 (@credit:y) 0.046988
+
+3724 (@credit:n) 0.953012
+
+3725 (@merger:y) 0.048193
+
+3726 (@merger:n) 0.951807
+
+3727 (@general:y) 0.043373
+
+3728 (@general:n) 0.956627
+
+3729 (@includes:y) 0.019277
+
+3730 (@includes:n) 0.980723
+
+3731 (@deficit:y) 0.028916
+
+3732 (@deficit:n) 0.971084
+
+3733 (@reported:y) 0.083133
+
+3734 (@reported:n) 0.916867
+
+3735 (@reserves:y) 0.073494
+
+3736 (@reserves:n) 0.926506
+
+3737 (@statement:y) 0.084337
+
+3738 (@statement:n) 0.915663
+
+3739 (@gas:y) 0.091566
+
+3740 (@gas:n) 0.908434
+
+3741 (@states:y) 0.039759
+
+3742 (@states:n) 0.960241
+
+3743 (@fall:y) 0.078313
+
+3744 (@fall:n) 0.921687
+
+3745 (@united:y) 0.050602
+
+3746 (@united:n) 0.949398
+
+3747 (@west:y) 0.104819
+
+3748 (@west:n) 0.895181
+
+3749 (@trading:y) 0.074699
+
+3750 (@trading:n) 0.925301
+
+3751 (@currency:y) 0.050602
+
+3752 (@currency:n) 0.949398
+
+3753 (@products:y) 0.073494
+
+3754 (@products:n) 0.926506
+
+3755 (@higher:y) 0.084337
+
+3756 (@higher:n) 0.915663
+
+3757 (@federal:y) 0.080723
+
+3758 (@federal:n) 0.919277
+
+3759 (@securities:y) 0.095181
+
+3760 (@securities:n) 0.904819
+
+3761 (@companies:y) 0.073494
+
+3762 (@companies:n) 0.926506
+
+3763 (@central:y) 0.054217
+
+3764 (@central:n) 0.945783
+
+3765 (@shareholders:y) 0.077108
+
+3766 (@shareholders:n) 0.922892
+
+3767 (@time:y) 0.083133
+
+3768 (@time:n) 0.916867
+
+3769 (@capital:y) 0.081928
+
+3770 (@capital:n) 0.918072
+
+3771 (@acquisition:y) 0.148193
+
+3772 (@acquisition:n) 0.851807
+
+3773 (@president:y) 0.098795
+
+3774 (@president:n) 0.901205
+
+3775 (@years:y) 0.075904
+
+3776 (@years:n) 0.924096
+
+3777 (@due:y) 0.108434
+
+3778 (@due:n) 0.891566
+
+3779 (@cut:y) 0.069880
+
+3780 (@cut:n) 0.930120
+
+3781 (@prior:y) 0.016867
+
+3782 (@prior:n) 0.983133
+
+3783 (@sugar:y) 0.034940
+
+3784 (@sugar:n) 0.965060
+
+3785 (@shrs:y) 0.001205
+
+3786 (@shrs:n) 0.998795
+
+3787 (@sources:y) 0.051807
+
+3788 (@sources:n) 0.948193
+
+3789 (@yen:y) 0.019277
+
+3790 (@yen:n) 0.980723
+
+3791 (@avg:y) 0.001205
+
+3792 (@avg:n) 0.998795
+
+3793 (@agreed:y) 0.085542
+
+3794 (@agreed:n) 0.914458
+
+3795 (@imports:y) 0.045783
+
+3796 (@imports:n) 0.954217
+
+3797 (@stake:y) 0.092771
+
+3798 (@stake:n) 0.907229
+
+3799 (@compared:y) 0.063855
+
+3800 (@compared:n) 0.936145
+
+3801 (@debt:y) 0.056627
+
+3802 (@debt:n) 0.943373
+
+3803 (@national:y) 0.148193
+
+3804 (@national:n) 0.851807
+
+3805 (@financial:y) 0.081928
+
+3806 (@financial:n) 0.918072
+
+3807 (@investment:y) 0.085542
+
+3808 (@investment:n) 0.914458
+
+3809 (@operations:y) 0.053012
+
+3810 (@operations:n) 0.946988
+
+3811 (@business:y) 0.081928
+
+3812 (@business:n) 0.918072
+
+3813 (@officials:y) 0.065060
+
+3814 (@officials:n) 0.934940
+
+3815 (@fell:y) 0.071084
+
+3816 (@fell:n) 0.928916
+
+3817 (@major:y) 0.078313
+
+3818 (@major:n) 0.921687
+
+3819 (@buy:y) 0.100000
+
+3820 (@buy:n) 0.900000
+
+3821 (@spokesman:y) 0.095181
+
+3822 (@spokesman:n) 0.904819
+
+3823 (@report:y) 0.060241
+
+3824 (@report:n) 0.939759
+
+3825 (@analysts:y) 0.046988
+
+3826 (@analysts:n) 0.953012
+
+3827 (@economic:y) 0.055422
+
+3828 (@economic:n) 0.944578
+
+3829 (@cash:y) 0.093976
+
+3830 (@cash:n) 0.906024
+
+3831 (@department:y) 0.061446
+
+3832 (@department:n) 0.938554
+
+3833 (@countries:y) 0.063855
+
+3834 (@countries:n) 0.936145
+
+3835 (@american:y) 0.120482
+
+3836 (@american:n) 0.879518
+
+3837 (@japanese:y) 0.024096
+
+3838 (@japanese:n) 0.975904
+
+3839 (@pay:y) 0.032530
+
+3840 (@pay:n) 0.967470
+
+3841 (@money:y) 0.034940
+
+3842 (@money:n) 0.965060
+
+3843 (@months:y) 0.085542
+
+3844 (@months:n) 0.914458
+
+3845 (@common:y) 0.107229
+
+3846 (@common:n) 0.892771
+
+3847 (@industry:y) 0.077108
+
+3848 (@industry:n) 0.922892
+
+3849 (@unit:y) 0.081928
+
+3850 (@unit:n) 0.918072
+
+3851 (@meeting:y) 0.079518
+
+3852 (@meeting:n) 0.920482
+
+3853 (@wheat:y) 0.044578
+
+3854 (@wheat:n) 0.955422
+
+3855 (@sale:y) 0.067470
+
+3856 (@sale:n) 0.932530
+
+3857 (@december:y) 0.063855
+
+3858 (@december:n) 0.936145
+
+3859 (@banks:y) 0.050602
+
+3860 (@banks:n) 0.949398
+
+3861 (@export:y) 0.069880
+
+3862 (@export:n) 0.930120
+
+3863 (@earnings:y) 0.065060
+
+3864 (@earnings:n) 0.934940
+
+3865 (@growth:y) 0.065060
+
+3866 (@growth:n) 0.934940
+
+3867 (@added:y) 0.187952
+
+3868 (@added:n) 0.812048
+
+3869 (@exports:y) 0.066265
+
+3870 (@exports:n) 0.933735
+
+3871 (@dividend:y) 0.040964
+
+3872 (@dividend:n) 0.959036
+
+3873 (@earlier:y) 0.095181
+
+3874 (@earlier:n) 0.904819
+
+3875 (@official:y) 0.079518
+
+3876 (@official:n) 0.920482
+
+3877 (@increase:y) 0.107229
+
+3878 (@increase:n) 0.892771
+
+3879 (@board:y) 0.104819
+
+3880 (@board:n) 0.895181
+
+3881 (@oper:y) 0.000000
+
+3882 (@oper:n) 1.000000
+
+3883 (@world:y) 0.089157
+
+3884 (@world:n) 0.910843
+
+3885 (@rates:y) 0.044578
+
+3886 (@rates:n) 0.955422
+
+3887 (@month:y) 0.086747
+
+3888 (@month:n) 0.913253
+
+3889 (@total:y) 0.118072
+
+3890 (@total:n) 0.881928
+
+3891 (@interest:y) 0.104819
+
+3892 (@interest:n) 0.895181
+
+3893 (@stg:y) 0.032530
+
+3894 (@stg:n) 0.967470
+
+3895 (@rise:y) 0.087952
+
+3896 (@rise:n) 0.912048
+
+3897 (@dlr:y) 0.081928
+
+3898 (@dlr:n) 0.918072
+
+3899 (@current:y) 0.173494
+
+3900 (@current:n) 0.826506
+
+3901 (@note:y) 0.009639
+
+3902 (@note:n) 0.990361
+
+3903 (@record:y) 0.077108
+
+3904 (@record:n) 0.922892
+
+3905 (@expected:y) 0.140964
+
+3906 (@expected:n) 0.859036
+
+3907 (@tax:y) 0.066265
+
+3908 (@tax:n) 0.933735
+
+3909 (@rose:y) 0.100000
+
+3910 (@rose:n) 0.900000
+
+3911 (@told:y) 0.151807
+
+3912 (@told:n) 0.848193
+
+3913 (@international:y) 0.107229
+
+3914 (@international:n) 0.892771
+
+3915 (@foreign:y) 0.065060
+
+3916 (@foreign:n) 0.934940
+
+3917 (@production:y) 0.080723
+
+3918 (@production:n) 0.919277
+
+3919 (@today:y) 0.104819
+
+3920 (@today:n) 0.895181
+
+3921 (@agreement:y) 0.113253
+
+3922 (@agreement:n) 0.886747
+
+3923 (@dollar:y) 0.055422
+
+3924 (@dollar:n) 0.944578
+
+3925 (@offer:y) 0.072289
+
+3926 (@offer:n) 0.927711
+
+3927 (@exchange:y) 0.102410
+
+3928 (@exchange:n) 0.897590
+
+3929 (@week:y) 0.098795
+
+3930 (@week:n) 0.901205
+
+3931 (@government:y) 0.186747
+
+3932 (@government:n) 0.813253
+
+3933 (@price:y) 0.101205
+
+3934 (@price:n) 0.898795
+
+3935 (@rate:y) 0.109639
+
+3936 (@rate:n) 0.890361
+
+3937 (@japan:y) 0.056627
+
+3938 (@japan:n) 0.943373
+
+3939 (@quarter:y) 0.067470
+
+3940 (@quarter:n) 0.932530
+
+3941 (@group:y) 0.151807
+
+3942 (@group:n) 0.848193
+
+3943 (@april:y) 0.086747
+
+3944 (@april:n) 0.913253
+
+3945 (@revs:y) 0.006024
+
+3946 (@revs:n) 0.993976
+
+3947 (@january:y) 0.112048
+
+3948 (@january:n) 0.887952
+
+3949 (@february:y) 0.107229
+
+3950 (@february:n) 0.892771
+
+3951 (@qtr:y) 0.019277
+
+3952 (@qtr:n) 0.980723
+
+3953 (@sales:y) 0.101205
+
+3954 (@sales:n) 0.898795
+
+3955 (@prices:y) 0.112048
+
+3956 (@prices:n) 0.887952
+
+3957 (@march:y) 0.114458
+
+3958 (@march:n) 0.885542
+
+3959 (@tonnes:y) 0.085542
+
+3960 (@tonnes:n) 0.914458
+
+3961 (@stock:y) 0.173494
+
+3962 (@stock:n) 0.826506
+
+3963 (@shares:y) 0.240964
+
+3964 (@shares:n) 0.759036
+
+3965 (@market:y) 0.157831
+
+3966 (@market:n) 0.842169
+
+3967 (@profit:y) 0.050602
+
+3968 (@profit:n) 0.949398
+
+3969 (@share:y) 0.184337
+
+3970 (@share:n) 0.815663
+
+3971 (@trade:y) 0.102410
+
+3972 (@trade:n) 0.897590
+
+3973 (@corp:y) 0.240964
+
+3974 (@corp:n) 0.759036
+
+3975 (@oil:y) 0.145783
+
+3976 (@oil:n) 0.854217
+
+3977 (@shr:y) 0.012048
+
+3978 (@shr:n) 0.987952
+
+3979 (@bank:y) 0.143373
+
+3980 (@bank:n) 0.856627
+
+3981 (@company:y) 0.287952
+
+3982 (@company:n) 0.712048
+
+3983 (@loss:y) 0.042169
+
+3984 (@loss:n) 0.957831
+
+3985 (@billion:y) 0.201205
+
+3986 (@billion:n) 0.798795
+
+3987 (@net:y) 0.100000
+
+3988 (@net:n) 0.900000
+
+3989 (@cts:y) 0.060241
+
+3990 (@cts:n) 0.939759
+
+3991 (@year:y) 0.334940
+
+3992 (@year:n) 0.665060
+
+3993 (@reuter:y) 0.874699
+
+3994 (@reuter:n) 0.125301
+
+3995 (@pct:y) 0.612048
+
+3996 (@pct:n) 0.387952
+
+3997 (@dlrs:y) 0.318072
+
+3998 (@dlrs:n) 0.681928
+
+3999 (@mln:y) 0.395181
+
+4000 (@mln:n) 0.604819
+
+4001 (@class:cocoa) 0.003614
+
+4002 (@class:grain) 0.008434
+
+4003 (@class:wheat) 0.016867
+
+4004 (@class:corn) 0.008434
+
+4005 (@class:barley) 0.002410
+
+4006 (@class:oat) 0.000000
+
+4007 (@class:sorghum) 0.000000
+
+4008 (@class:veg) 0.000000
+
+4009 (@class:oil) 0.012048
+
+4010 (@class:linseed) 0.000000
+
+4011 (@class:lin) 0.000000
+
+4012 (@class:soy) 0.000000
+
+4013 (@class:sun) 0.000000
+
+4014 (@class:soybean) 0.008434
+
+4015 (@class:oilseed) 0.002410
+
+4016 (@class:sunseed) 0.001205
+
+4017 (@class:earn) 0.151807
+
+4018 (@class:acq) 0.340964
+
+4019 (@class:copper) 0.006024
+
+4020 (@class:housing) 0.009639
+
+4021 (@class:money) 0.000000
+
+4022 (@class:supply) 0.008434
+
+4023 (@class:coffee) 0.009639
+
+4024 (@class:ship) 0.024096
+
+4025 (@class:sugar) 0.025301
+
+4026 (@class:trade) 0.025301
+
+4027 (@class:reserves) 0.004819
+
+4028 (@class:meal) 0.002410
+
+4029 (@class:feed) 0.002410
+
+4030 (@class:rye) 0.000000
+
+4031 (@class:cotton) 0.002410
+
+4032 (@class:carcass) 0.007229
+
+4033 (@class:livestock) 0.006024
+
+4034 (@class:crude) 0.042169
+
+4035 (@class:nat) 0.000000
+
+4036 (@class:gas) 0.026506
+
+4037 (@class:cpi) 0.015663
+
+4038 (@class:gnp) 0.016867
+
+4039 (@class:fx) 0.028916
+
+4040 (@class:interest) 0.071084
+
+4041 (@class:bop) 0.007229
+
+4042 (@class:rice) 0.007229
+
+4043 (@class:red) 0.000000
+
+4044 (@class:bean) 0.000000
+
+4045 (@class:rubber) 0.004819
+
+4046 (@class:copra) 0.000000
+
+4047 (@class:cake) 0.000000
+
+4048 (@class:palm) 0.000000
+
+4049 (@class:palmkernel) 0.000000
+
+4050 (@class:tea) 0.002410
+
+4051 (@class:plywood) 0.000000
+
+4052 (@class:alum) 0.006024
+
+4053 (@class:gold) 0.007229
+
+4054 (@class:platinum) 0.001205
+
+4055 (@class:strategic) 0.000000
+
+4056 (@class:metal) 0.000000
+
+4057 (@class:tapioca) 0.000000
+
+4058 (@class:tin) 0.002410
+
+4059 (@class:rapeseed) 0.003614
+
+4060 (@class:groundnut) 0.000000
+
+4061 (@class:rape) 0.000000
+
+4062 (@class:cornglutenfeed) 0.000000
+
+4063 (@class:citruspulp) 0.000000
+
+4064 (@class:wool) 0.000000
+
+4065 (@class:dlr) 0.006024
+
+4066 (@class:l) 0.000000
+
+4067 (@class:cattle) 0.000000
+
+4068 (@class:retail) 0.007229
+
+4069 (@class:ipi) 0.007229
+
+4070 (@class:silver) 0.001205
+
+4071 (@class:iron) 0.000000
+
+4072 (@class:steel) 0.002410
+
+4073 (@class:hog) 0.001205
+
+4074 (@class:propane) 0.001205
+
+4075 (@class:heat) 0.001205
+
+4076 (@class:jobs) 0.012048
+
+4077 (@class:lei) 0.001205
+
+4078 (@class:yen) 0.003614
+
+4079 (@class:saudriyal) 0.000000
+
+4080 (@class:zinc) 0.001205
+
+4081 (@class:orange) 0.001205
+
+4082 (@class:pet) 0.000000
+
+4083 (@class:chem) 0.001205
+
+4084 (@class:fuel) 0.004819
+
+4085 (@class:wpi) 0.001205
+
+4086 (@class:potato) 0.000000
+
+4087 (@class:lead) 0.000000
+
+4088 (@class:can) 0.001205
+
+4089 (@class:fishmeal) 0.000000
+
+4090 (@class:income) 0.001205
+
+4091 (@class:palladium) 0.000000
+
+4092 (@class:nickel) 0.000000
+
+4093 (@class:lumber) 0.004819
+
+4094 (@class:jet) 0.000000
+
+4095 (@class:instal) 0.000000
+
+4096 (@class:debt) 0.000000
+
+4097 (@class:dfl) 0.000000
+
+4098 (@class:dmk) 0.001205
+
+4099 (@class:stg) 0.001205
+
+4100 (@class:coconut) 0.000000
+
+4101 (@class:inventories) 0.001205
+
+4102 (@class:cpu) 0.000000
+
+4103 (@class:peseta) 0.000000
+
+4104 (@class:austdlr) 0.000000
+
+4105 (@class:naphtha) 0.000000
+
+4106 (@class:nzdlr) 0.001205
+
+4107 (@class:rand) 0.000000
+
+4108 (@class:pork) 0.000000
+
+4109 (@class:belly) 0.000000
+
+4110 (@class:ringgit) 0.000000
+
+4111 (@class:castorseed) 0.000000
+
+4112 (@class:castor) 0.000000
+
+4113 (@class:lit) 0.000000
+
+4114 (@class:rupiah) 0.000000
+
+4115 (@class:skr) 0.000000
+
+4116 (@class:nkr) 0.000000
+
+4117 (@class:dkr) 0.000000
+
+4118 (@class:cruzado |classeshongkong: y) 0.000000
+
+4119 (@class:n) 0.000000
+
