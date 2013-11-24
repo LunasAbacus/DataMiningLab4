@@ -1,0 +1,18 @@
+---------------------------------------------------------
+Message : Pass DataBase at No. 1 time(s)
+Candidate Generated 1
+Round Time : 1906 seconds
+The rules generated so far : 3121
+    Number of items of large set for this round :3122
+---------------------------------------------------------
+Message : Pass DataBase at No. 2 time(s)
+
+Final number of  rules generated so far : 3122(Small: 0 Large : 0)
+
+Back Arr size : 0  SecHighestUsed : 0 TupleRedoCount : 0
+
+
+Rule GenTime : 0 milliseconds
+Final Number of Classification Rules : 112
+Classifier generating Time : 4406 milliseconds
+Finish generating rules in : 6312 milliseconds

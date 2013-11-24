@@ -144,7 +144,7 @@ def main():
 				#print ("articleNumber: " + str(title))
 				for word in topWords:
 					wordNum += 1
-					clusterNum = wordNum % 8 + 1;
+					clusterNum = wordNum % 16 + 1;
 					if (word[0] in articleMap[title]):
 						wr.write("y,")
 						wordClusterMap[clusterNum] += 1;
@@ -153,7 +153,7 @@ def main():
 				wr.write(answerMap[title]+".\n")
 
 				topCluster = 1
-				for i in range(1,9):
+				for i in range(1,17):
 					if (wordClusterMap[i] >= wordClusterMap[topCluster]):
 						topCluster = i;
 				br.write(str(topCluster)+"\n")
